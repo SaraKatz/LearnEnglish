@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<AppUsers xmlns="http://tempuri.org/UserSchema.xsd" >
+  <user id="1">
+    <userName>רחל</userName>
+    <currentLessonCode>1</currentLessonCode>
+  </user>
+  <user id="2">
+    <userName>דן</userName>
+    <currentLessonCode>1</currentLessonCode>
+  </user>
+  <user id="3">
+    <userName>גד</userName>
+    <currentLessonCode>1</currentLessonCode>
+  </user>
+  <user id="4">
+    <userName>שמעון</userName>
+    <currentLessonCode>1</currentLessonCode>
+  </user>
+  <user id="5">
+    <userName>בתיה</userName>
+    <currentLessonCode>1</currentLessonCode>
+  </user>
+</AppUsers>

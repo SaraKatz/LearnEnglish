@@ -1,0 +1,92 @@
+﻿<Page 
+    x:Name="pageRoot"
+    x:Class="English.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:English"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    >
+   <!--AppBar-->
+    <Page.BottomAppBar>
+        <AppBar x:Name="GlobalAppBar" Padding="10,0,10,0" AutomationProperties.Name="Global App Bar">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="50*"/>
+                    <ColumnDefinition Width="50*"/>
+                </Grid.ColumnDefinitions>
+                <!--<StackPanel x:Name="LeftCommands" Orientation="Horizontal" Grid.Column="0" HorizontalAlignment="Left">-->
+                <!--<Button x:Name="Back"  AutomationProperties.Name="Back" Style="{StaticResource BackAppBarButtonStyle }" HorizontalAlignment="Left" Click="Back_Click"/>-->
+                <Button x:ConnectionId='1' x:Name="_new_User" AutomationProperties.Name="newUser" Style="{StaticResource StarAppBarButtonStyle }" HorizontalAlignment="Left"                       />
+                <!--</StackPanel>
+                <StackPanel x:Name="RightCommands" Orientation="Horizontal" Grid.Column="1" HorizontalAlignment="Right">
+                </StackPanel>-->
+            </Grid>
+        </AppBar>
+
+    </Page.BottomAppBar>
+        <Page.Resources>
+        <Style x:Key="big" TargetType="TextBlock" BasedOn="{StaticResource HeaderTextStyle}">
+            <Setter Property="TextWrapping" Value="NoWrap"/>
+            <Setter Property="VerticalAlignment" Value="Bottom"/>
+            <Setter Property="Margin" Value="10,30,30,40"/>
+            <Setter Property="Foreground" Value="Crimson"></Setter>
+        </Style>
+        <!--<Style x:Key="appButton" TargetType="TextBlock" BasedOn="{StaticResource HeaderTextStyle}">
+            <Setter Property="" Value="NoWrap"/>
+            <Setter Property="VerticalAlignment" Value="Bottom"/>
+            <Setter Property="Margin" Value="10,30,30,40"/>
+            <Setter Property="Foreground" Value="Crimson"></Setter>
+        </Style>-->
+    </Page.Resources>
+    <Page.Background>
+        <ImageBrush />
+    </Page.Background>
+
+    <Grid Name="page" Margin="0" >
+        <Grid.Background>
+                <ImageBrush ImageSource="Assets/imagesCAB6GPAE.jpg" />
+        </Grid.Background>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="140"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="300"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="150"/>
+        </Grid.ColumnDefinitions>
+        <!--<Image  Source="Assets/904.gif"/>-->
+        <!--<MediaElement Name="mm" Source="Assets/900.wmv"  />-->
+        <TextBlock x:Name="welcome" Text="ברוכים הבאים" Style="{StaticResource big}" Grid.Row="0" Grid.Column="1" Margin="437,0,-247,79" Grid.ColumnSpan="2"></TextBlock>
+            <Button x:ConnectionId='2' x:Name="ok" Content="אישור" Grid.Column="1" Margin="254,10,0,568" Grid.Row="1" Height="50" Width="116"                  RenderTransformOrigin="-0.556,0.343"></Button>
+        <ComboBox x:ConnectionId='3' x:Name="cmb_users" Grid.Column="1" HorizontalAlignment="Left" Margin="254,85,0,0" VerticalAlignment="Top" Width="350" Height="45"                                                />
+        <TextBox x:Name="tb_newUser" Grid.Column="1" HorizontalAlignment="Left" Margin="254,241,0,0" Grid.Row="1" VerticalAlignment="Top" Width="350" Height="45" Visibility="Collapsed" />
+        <Button x:ConnectionId='4' BorderThickness="0" FontSize="30" Content="בחר משתמש" Grid.Column="1" HorizontalAlignment="Left" Margin="645,79,0,0" VerticalAlignment="Top" Width="212" Height="51"                       />
+        <!--<Frame x:Name="Frame1" Background="White"/>-->
+        <!--<Grid Background="{StaticResource ApplicationPageBackgroundThemeBrush}">
+            <callisto:CustomDialog x:Name="LoginDialog" 
+                                Title="Bacon Terms and Conditions" 
+                                Background="Teal" BackButtonVisibility="Visible">
+                <StackPanel>
+                    <TextBlock Margin="0,0,0,8" FontSize="14.6667" FontWeight="SemiLight" TextWrapping="Wrap">
+                    Bacon sausage frankfurter tenderloin turkey salami andouille bresaola. Venison salami prosciutto, pork belly turducken tri-tip spare ribs chicken strip steak fatback shankle tongue boudin andouille. Meatloaf salami pork ground round turkey jerky meatball ball tip, filet mignon fatback flank prosciutto shank. Turkey boudin ham hock, filet mignon tri-tip bresaola tongue venison spare ribs meatloaf flank beef pancetta. Leberkas turducken flank ground round biltong chuck bacon kielbasa. Beef pastrami meatball, short loin venison swine pork loin shank meatloaf spare ribs.
+                    </TextBlock>
+                    <CheckBox Margin="0,0,0,8" Foreground="White" Content="I agree to the Terms and Conditions of Bacon" />
+                    <TextBlock Margin="0,0,0,8" FontSize="14.6667" FontWeight="SemiLight" Text="Enter your name for acceptance" />
+                    <callisto:WatermarkTextBox HorizontalAlignment="Left" Watermark="Type your name" Width="400" Height="35" />
+                    <StackPanel Margin="0,20,0,0" HorizontalAlignment="Right" Orientation="Horizontal">
+                        <Button Content="OK" Width="90" Margin="0,0,20,0" />
+                        <Button Content="Cancel" Width="90" />
+                    </StackPanel>
+                </StackPanel>
+            </callisto:CustomDialog>
+        </Grid>-->
+      
+
+    </Grid>
+ 
+</Page>
+

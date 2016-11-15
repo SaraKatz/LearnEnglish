@@ -1,0 +1,989 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<EnglishLesson xmlns="http://tempuri.org/English_lesons.xsd">
+  <lesson lessonCode="1">
+    <lettersForLesson lessonCode="1">
+     
+      <letter lettersBigShape="I" lettersSmallShape="i" hebrewLetter=" א'  והיא אות ניקוד שמנקדת כמו חיריק ">
+        <clipBig>ms-appx:EnglishLessonsMetirial/LettersClip/i1.mov</clipBig> 
+        <clipSmall>ms-appx:EnglishLessonsMetirial/LettersClip/i2.mov</clipSmall>        
+        <sound></sound>
+        <sound_BigLetterExplanation>ms-appx:EnglishLessonsMetirial/lettersSoundExplaenation/i1_sound.mp3</sound_BigLetterExplanation>
+        <sound_SmallLetterExplanation>ms-appx:EnglishLessonsMetirial/lettersSoundExplaenation/i2_sound.mp3</sound_SmallLetterExplanation>
+      </letter>
+      <letter lettersBigShape="O" lettersSmallShape="o" hebrewLetter=" א'  והיא אות ניקוד שמנקדת כמו חולם ">
+        <clipBig>ms-appx:EnglishLessonsMetirial/LettersClip/o1.mov</clipBig> 
+        <clipSmall>ms-appx:EnglishLessonsMetirial/LettersClip/o2.mov</clipSmall>        
+        <sound></sound>
+        <sound_BigLetterExplanation>ms-appx:EnglishLessonsMetirial/lettersSoundExplaenation/o1_sound.mp3</sound_BigLetterExplanation>
+        <sound_SmallLetterExplanation>ms-appx:EnglishLessonsMetirial/lettersSoundExplaenation/o2_sound.mp3</sound_SmallLetterExplanation>
+      </letter>
+      <letter lettersBigShape="C" lettersSmallShape="c" hebrewLetter="'כ">
+        <clipBig>ms-appx:EnglishLessonsMetirial/LettersClip/c1.mov</clipBig> 
+        <clipSmall>ms-appx:EnglishLessonsMetirial/LettersClip/c2.mov</clipSmall>        
+        <sound></sound>
+        <sound_BigLetterExplanation>ms-appx:EnglishLessonsMetirial/lettersSoundExplaenation/c1_sound.mp3</sound_BigLetterExplanation>
+        <sound_SmallLetterExplanation>ms-appx:EnglishLessonsMetirial/lettersSoundExplaenation/c2_sound.mp3</sound_SmallLetterExplanation>
+      </letter>
+    </lettersForLesson>
+    
+    <wordsForLetter>
+      <word lettersBigShape="I" lettersSmallShape="i" word="Ice cream" >
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/I/ice cream.jpg</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      </word>
+      <word lettersBigShape="I" lettersSmallShape="i" word="Igloo">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/I/igloo.jpg</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      </word>
+     <word lettersBigShape="I" lettersSmallShape="i" word="Image">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/I/image.jpg</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      </word>
+     <word lettersBigShape="I" lettersSmallShape="i" word="Iron">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/I/iron.png</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      </word>
+    </wordsForLetter>
+
+    <wordsForLetter>
+      <word lettersBigShape="O" lettersSmallShape="o" word="Olive" >
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/O/olive.jpg</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      </word>
+      <word lettersBigShape="O" lettersSmallShape="o" word="Onion">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/O/onion.png</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      </word>
+     <word lettersBigShape="O" lettersSmallShape="o" word="Orange">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/O/orange.png</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      </word>
+     <word lettersBigShape="O" lettersSmallShape="o" word="Organ">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/O/organ.jpg</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      </word>
+    </wordsForLetter>
+
+    <wordsForLetter>
+      <word lettersBigShape="C" lettersSmallShape="c" word="Cake">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/C/cake.jpg</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      </word>
+      <word lettersBigShape="C" lettersSmallShape="c" word="Camera">
+        <wordPictuer>ms-appx:EnglishLessonsMetirial/lettersPictuers/C/camera.jpg</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      </word>
+     <word lettersBigShape="C" lettersSmallShape="c" word="Clothes">
+        <wordPictuer>ms-appx:EnglishLessonsMetirial/lettersPictuers/C/clothing.jpg</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      </word>
+       <word lettersBigShape="C" lettersSmallShape="c" word="Crown">
+        <wordPictuer>ms-appx:EnglishLessonsMetirial/lettersPictuers/C/crown.jpg</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      </word>
+    </wordsForLetter>
+    
+    <sentencesForLesson lessonCode="1">
+      <sentece sentence="Dan is here">
+        <senteceSoundHebrew></senteceSoundHebrew>
+        <senteceSoundEnglish></senteceSoundEnglish>
+        <sentecePictuer></sentecePictuer>
+      </sentece>
+      <sentece sentence="Moshe is here">
+        <senteceSoundHebrew></senteceSoundHebrew>
+        <senteceSoundEnglish></senteceSoundEnglish>
+        <sentecePictuer></sentecePictuer>
+      </sentece>
+      <sentece sentence="Dan likes Moshe">
+        <senteceSoundHebrew></senteceSoundHebrew>
+        <senteceSoundEnglish></senteceSoundEnglish>
+        <sentecePictuer></sentecePictuer>
+      </sentece>
+      <sentece sentence="Dan has a ball">
+        <senteceSoundHebrew></senteceSoundHebrew>
+        <senteceSoundEnglish></senteceSoundEnglish>
+        <sentecePictuer></sentecePictuer>
+      </sentece>
+    </sentencesForLesson>
+  </lesson>
+  
+<!--/////////////////////////////שיעור מס' 2\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
+  <lesson lessonCode="2">
+    <lettersForLesson lessonCode="2">
+      <letter lettersBigShape="T" lettersSmallShape="t" hebrewLetter="'ט">
+        <clipBig>ms-appx:EnglishLessonsMetirial/LettersClip/t1.mov</clipBig>
+        <clipSmall>ms-appx:EnglishLessonsMetirial/LettersClip/t2.mov</clipSmall>
+        <sound></sound>
+        <sound_BigLetterExplanation>ms-appx:EnglishLessonsMetirial/lettersSoundExplaenation/t1_sound.mp3</sound_BigLetterExplanation>
+        <sound_SmallLetterExplanation>ms-appx:EnglishLessonsMetirial/lettersSoundExplaenation/t2_sound.mp3</sound_SmallLetterExplanation>
+      </letter>
+    </lettersForLesson>
+  
+   <wordsForLetter>
+      <word lettersBigShape="T" lettersSmallShape="t" word="Telephone">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/T/telephone.png</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      </word>
+    <word lettersBigShape="T" lettersSmallShape="t" word="Tractor">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/T/tractor.jpg</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      </word>
+    <word lettersBigShape="T" lettersSmallShape="t" word="Train">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/T/train.jpg</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      </word>
+    <word lettersBigShape="T" lettersSmallShape="t" word="Tree">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/T/tree.jpg</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      </word>
+    </wordsForLetter>
+    <sentencesForLesson lessonCode="2">
+      <sentece sentence="Dan is here">
+        <senteceSoundHebrew></senteceSoundHebrew>
+        <senteceSoundEnglish></senteceSoundEnglish>
+        <sentecePictuer></sentecePictuer>
+      </sentece>
+      <sentece sentence="Moshe is here">
+        <senteceSoundHebrew></senteceSoundHebrew>
+        <senteceSoundEnglish></senteceSoundEnglish>
+        <sentecePictuer></sentecePictuer>
+      </sentece>
+      <sentece sentence="Dan likes Moshe">
+        <senteceSoundHebrew></senteceSoundHebrew>
+        <senteceSoundEnglish></senteceSoundEnglish>
+        <sentecePictuer></sentecePictuer>
+      </sentece>
+      <sentece sentence="Dan has a ball">
+        <senteceSoundHebrew></senteceSoundHebrew>
+        <senteceSoundEnglish></senteceSoundEnglish>
+        <sentecePictuer></sentecePictuer>
+      </sentece>
+    </sentencesForLesson>
+  </lesson>
+
+<!--/////////////////////////////שיעור מס' 3\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
+<lesson lessonCode="3">
+  <lettersForLesson lessonCode="3">
+    <letter lettersBigShape="L" lettersSmallShape="l" hebrewLetter="'ל">
+        <clipBig>ms-appx:EnglishLessonsMetirial/LettersClip/l1.mov</clipBig>
+        <clipSmall>ms-appx:EnglishLessonsMetirial/LettersClip/l2.mov</clipSmall>
+        <sound></sound>
+        <sound_BigLetterExplanation>ms-appx:EnglishLessonsMetirial/lettersSoundExplaenation/l1_sound.mp3</sound_BigLetterExplanation>
+        <sound_SmallLetterExplanation>ms-appx:EnglishLessonsMetirial/lettersSoundExplaenation/l2_sound.mp3</sound_SmallLetterExplanation>
+    </letter>
+  </lettersForLesson>
+  
+ <wordsForLetter>
+      <word lettersBigShape="L" lettersSmallShape="l" word="Lamp">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/L/lamp.jpg</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      </word>
+      <word lettersBigShape="L" lettersSmallShape="l" word="Leaf">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/L/leaf.png</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      </word>
+      <word lettersBigShape="L" lettersSmallShape="l" word="Lemon">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/L/lemon.png</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      </word>
+      <word lettersBigShape="L" lettersSmallShape="l" word="Lion">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/L/lion.jpg</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      </word>
+  </wordsForLetter>
+<sentencesForLesson lessonCode="3">
+   <sentece sentence="Dan is here">
+        <senteceSoundHebrew></senteceSoundHebrew>
+        <senteceSoundEnglish></senteceSoundEnglish>
+        <sentecePictuer></sentecePictuer>
+   </sentece>
+</sentencesForLesson>
+</lesson>
+
+<!--/////////////////////////////שיעור מס' 4\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
+  <lesson lessonCode="4">
+    <lettersForLesson lessonCode="4">
+      <letter lettersBigShape="F" lettersSmallShape="f" hebrewLetter="'פ">
+        <clipBig>ms-appx:EnglishLessonsMetirial/LettersClip/f1.mov</clipBig>
+        <clipSmall>ms-appx:EnglishLessonsMetirial/LettersClip/f2.mov</clipSmall>
+        <sound></sound>
+        <sound_BigLetterExplanation>ms-appx:EnglishLessonsMetirial/lettersSoundExplaenation/f1_sound.mp3</sound_BigLetterExplanation>
+        <sound_SmallLetterExplanation>ms-appx:EnglishLessonsMetirial/lettersSoundExplaenation/f2_sound.mp3</sound_SmallLetterExplanation>
+      </letter>
+    </lettersForLesson>
+
+    <wordsForLetter>
+      <word lettersBigShape="F" lettersSmallShape="f" word="Finger">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/F/finger.jpg</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      </word>
+      <word lettersBigShape="F" lettersSmallShape="f" word="Fish">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/F/fish.jpg</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      </word>
+      <word lettersBigShape="F" lettersSmallShape="f" word="Flower">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/F/flower.jpg</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      </word>
+      <word lettersBigShape="F" lettersSmallShape="f" word="Foot">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/F/foot.jpg</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      </word>
+    </wordsForLetter>
+
+    <sentencesForLesson lessonCode="4">
+      <sentece sentence="Dan is here">
+        <senteceSoundHebrew></senteceSoundHebrew>
+        <senteceSoundEnglish></senteceSoundEnglish>
+        <sentecePictuer></sentecePictuer>
+      </sentece>
+    </sentencesForLesson>
+  </lesson>
+
+<!--/////////////////////////////שיעור מס' 5\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
+  <lesson lessonCode="5">
+    <lettersForLesson lessonCode="5">
+      <letter lettersBigShape="S" lettersSmallShape="s" hebrewLetter="'ס">
+        <clipBig>ms-appx:EnglishLessonsMetirial/LettersClip/s1.mov</clipBig>
+        <clipSmall>ms-appx:EnglishLessonsMetirial/LettersClip/s2.mov</clipSmall>
+        <sound></sound>
+        <sound_BigLetterExplanation>ms-appx:EnglishLessonsMetirial/lettersSoundExplaenation/s1_sound.mp3</sound_BigLetterExplanation>
+        <sound_SmallLetterExplanation>ms-appx:EnglishLessonsMetirial/lettersSoundExplaenation/s2_sound.mp3</sound_SmallLetterExplanation>
+      </letter>
+    </lettersForLesson>
+
+    <wordsForLetter>
+      <word lettersBigShape="S" lettersSmallShape="s" word="Sack">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/S/sack.jpg</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      </word>
+      <word lettersBigShape="S" lettersSmallShape="s" word="Scoote">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/S/scoote.jpg</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      </word>
+      <word lettersBigShape="S" lettersSmallShape="s" word="Snake">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/S/snake.jpg</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      </word>
+       <word lettersBigShape="S" lettersSmallShape="s" word="Sofa">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/S/sofa.jpg</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      </word>
+    </wordsForLetter>
+
+    <sentencesForLesson lessonCode="5">
+      <sentece sentence="Dan is here">
+        <senteceSoundHebrew></senteceSoundHebrew>
+        <senteceSoundEnglish></senteceSoundEnglish>
+        <sentecePictuer></sentecePictuer>
+      </sentece>
+    </sentencesForLesson>
+  </lesson>
+
+<!--/////////////////////////////שיעור מס' 6\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
+  <lesson lessonCode="6">
+    <lettersForLesson lessonCode="6">
+     <letter lettersBigShape="A" lettersSmallShape="a"  hebrewLetter=" א'  והיא אות ניקוד  שמנקדת כמו פתח " >
+         <clipBig>ms-appx:EnglishLessonsMetirial/LettersClip/a1.mov</clipBig>
+         <clipSmall>ms-appx:EnglishLessonsMetirial/LettersClip/a2.mov</clipSmall>
+         <sound></sound>
+         <sound_BigLetterExplanation>ms-appx:EnglishLessonsMetirial/lettersSoundExplaenation/a1_sound.mp3</sound_BigLetterExplanation>
+         <sound_SmallLetterExplanation>ms-appx:EnglishLessonsMetirial/lettersSoundExplaenation/a2_sound.mp3</sound_SmallLetterExplanation>
+     </letter>
+   </lettersForLesson>
+
+    <wordsForLetter>
+        <word lettersBigShape="A" lettersSmallShape="a" word="Apple" >
+        <wordPictuer>ms-appx:EnglishLessonsMetirial/lettersPictuers/A/apple.jpg</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/וידאו004.mp4</wordSound>
+      </word>
+        <word lettersBigShape="A" lettersSmallShape="a" word="Accordion" >
+        <wordPictuer>ms-appx:EnglishLessonsMetirial/lettersPictuers/A/accordion.png</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/וידאו004.mp4</wordSound>
+      </word>
+      <word lettersBigShape="A" lettersSmallShape="a" word="Ambulance">
+        <wordPictuer>ms-appx:EnglishLessonsMetirial/lettersPictuers/A/ambulance.png</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/וידאו011.mp4</wordSound>
+      </word>
+        <word lettersBigShape="A" lettersSmallShape="a" word="Atlas">
+        <wordPictuer>ms-appx:EnglishLessonsMetirial/lettersPictuers/A/atlas.png</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/וידאו011.mp4</wordSound>
+      </word>
+    </wordsForLetter>
+
+    <sentencesForLesson lessonCode="6">
+      <sentece sentence="Dan is here">
+        <senteceSoundHebrew></senteceSoundHebrew>
+        <senteceSoundEnglish></senteceSoundEnglish>
+        <sentecePictuer></sentecePictuer>
+      </sentece>
+    </sentencesForLesson>
+  </lesson>
+
+<!--/////////////////////////////שיעור מס' 7\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
+  <lesson lessonCode="7">
+    <lettersForLesson lessonCode="7">
+      <letter lettersBigShape="E" lettersSmallShape="e" hebrewLetter="א'  והיא אות ניקוד  שמנקדת כמו צירה">
+        <clipBig>ms-appx:EnglishLessonsMetirial/LettersClip/e1.mov</clipBig>
+        <clipSmall>ms-appx:EnglishLessonsMetirial/LettersClip/e2.mov</clipSmall>
+        <sound></sound>
+        <sound_BigLetterExplanation>ms-appx:EnglishLessonsMetirial/lettersSoundExplaenation/e1_sound.mp3</sound_BigLetterExplanation>
+        <sound_SmallLetterExplanation>ms-appx:EnglishLessonsMetirial/lettersSoundExplaenation/e2_sound.mp3</sound_SmallLetterExplanation>
+      </letter>
+    </lettersForLesson>
+
+    <wordsForLetter>
+      <word lettersBigShape="E" lettersSmallShape="e" word="Eeg">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/E/eeg.jpg</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      </word>
+      <word lettersBigShape="E" lettersSmallShape="e" word="Eggplant">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/E/eggplant.png</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      </word>
+     <word lettersBigShape="E" lettersSmallShape="e" word="Elephant">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/E/elephant.jpg</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      </word>
+      <word lettersBigShape="E" lettersSmallShape="e" word="Envelope">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/E/envelope.png</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      </word>
+    </wordsForLetter>
+
+    <sentencesForLesson lessonCode="7">
+      <sentece sentence="Dan is here">
+        <senteceSoundHebrew></senteceSoundHebrew>
+        <senteceSoundEnglish></senteceSoundEnglish>
+        <sentecePictuer></sentecePictuer>
+      </sentece>
+    </sentencesForLesson>
+  </lesson>
+
+<!--////////////////////////////שיעור מס' 8\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
+  <lesson lessonCode="8">
+    <lettersForLesson lessonCode="8">
+      <letter lettersBigShape="U" lettersSmallShape="u" hebrewLetter="א'  והיא אות ניקוד  שמנקדת כמו שורוק">
+        <clipBig>ms-appx:EnglishLessonsMetirial/LettersClip/u1.mov</clipBig>
+        <clipSmall>ms-appx:EnglishLessonsMetirial/LettersClip/u2.mov</clipSmall>
+        <sound></sound>
+        <sound_BigLetterExplanation>ms-appx:EnglishLessonsMetirial/lettersSoundExplaenation/u1_sound.mp3</sound_BigLetterExplanation>
+        <sound_SmallLetterExplanation>ms-appx:EnglishLessonsMetirial/lettersSoundExplaenation/u2_sound.mp3</sound_SmallLetterExplanation>
+      </letter>
+    
+   <letter lettersBigShape="B" lettersSmallShape="b" hebrewLetter="'ב">
+        <clipBig>ms-appx:EnglishLessonsMetirial/LettersClip/b1.mov</clipBig>
+        <clipSmall>ms-appx:EnglishLessonsMetirial/LettersClip/b2.mov</clipSmall>
+        <sound></sound>
+        <sound_BigLetterExplanation>ms-appx:EnglishLessonsMetirial/lettersSoundExplaenation/b1_sound.mp3</sound_BigLetterExplanation>
+        <sound_SmallLetterExplanation>ms-appx:EnglishLessonsMetirial/lettersSoundExplaenation/b2_sound.mp3</sound_SmallLetterExplanation>
+      </letter>
+    </lettersForLesson>
+
+    <wordsForLetter>
+      <word lettersBigShape="U" lettersSmallShape="u" word="Umbrella">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/U/umbrella.jpg</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      </word>
+      <word lettersBigShape="U" lettersSmallShape="u" word="U">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/U/eeg.png</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      </word>
+     <word lettersBigShape="U" lettersSmallShape="u" word="U">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/U/eeg.png</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      </word>
+     <word lettersBigShape="U" lettersSmallShape="u" word="U">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/U/eeg.png</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      </word>
+    </wordsForLetter>
+
+    <wordsForLetter>
+      <word lettersBigShape="B" lettersSmallShape="b" word="Banana">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/B/banana.jpg</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      </word>
+    <word lettersBigShape="B" lettersSmallShape="b" word="Balloon">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/B/balloon.jpg</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      </word>
+    <word lettersBigShape="B" lettersSmallShape="b" word="Ball">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/B/ball.jpg</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      </word>
+    <word lettersBigShape="B" lettersSmallShape="b" word="Baby">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/B/baby.jpg</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      </word>
+    </wordsForLetter>
+    
+    <sentencesForLesson lessonCode="8">
+      <sentece sentence="Dan is here">
+        <senteceSoundHebrew></senteceSoundHebrew>
+        <senteceSoundEnglish></senteceSoundEnglish>
+        <sentecePictuer></sentecePictuer>
+      </sentece>
+    </sentencesForLesson>
+  </lesson>
+
+<!--/////////////////////////////שיעור מס' 9\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
+  <lesson lessonCode="9">
+    <lettersForLesson lessonCode="9">
+      <letter lettersBigShape="D" lettersSmallShape="d" hebrewLetter="'ד">
+        <clipBig>ms-appx:EnglishLessonsMetirial/LettersClip/d1.mov</clipBig>
+        <clipSmall>ms-appx:EnglishLessonsMetirial/LettersClip/d2.mov</clipSmall>
+        <sound></sound>
+        <sound_BigLetterExplanation>ms-appx:EnglishLessonsMetirial/lettersSoundExplaenation/d1_sound.mp3</sound_BigLetterExplanation>
+        <sound_SmallLetterExplanation>ms-appx:EnglishLessonsMetirial/lettersSoundExplaenation/d2_sound.mp3</sound_SmallLetterExplanation>
+      </letter>
+    </lettersForLesson>
+
+    <wordsForLetter>
+      <word lettersBigShape="D" lettersSmallShape="d" word="Diamond">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/D/diamond.jpg</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      </word>
+      <word lettersBigShape="D" lettersSmallShape="d" word="Disc">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/D/disc.jpg</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      </word>
+      <word lettersBigShape="D" lettersSmallShape="d" word="Dog">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/D/dog.jpg</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      </word>
+      <word lettersBigShape="D" lettersSmallShape="d" word="Doll">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/D/doll.jpg</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      </word>
+    </wordsForLetter>
+
+    <sentencesForLesson lessonCode="9">
+      <sentece sentence="Dan is here">
+        <senteceSoundHebrew></senteceSoundHebrew>
+        <senteceSoundEnglish></senteceSoundEnglish>
+        <sentecePictuer></sentecePictuer>
+      </sentece>
+    </sentencesForLesson>
+  </lesson>
+
+<!--/////////////////////////////שיעור מס' 10\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
+  <lesson lessonCode="10">
+    <lettersForLesson lessonCode="10">
+      <letter lettersBigShape="G" lettersSmallShape="g" hebrewLetter="'ג">
+        <clipBig>ms-appx:EnglishLessonsMetirial/LettersClip/g1.mov</clipBig>
+        <clipSmall>ms-appx:EnglishLessonsMetirial/LettersClip/g2.mov</clipSmall>
+        <sound></sound>
+        <sound_BigLetterExplanation>ms-appx:EnglishLessonsMetirial/lettersSoundExplaenation/g1_sound.mp3</sound_BigLetterExplanation>
+        <sound_SmallLetterExplanation>ms-appx:EnglishLessonsMetirial/lettersSoundExplaenation/g2_sound.mp3</sound_SmallLetterExplanation>
+      </letter>
+    </lettersForLesson>
+
+    <wordsForLetter>
+      <word lettersBigShape="G" lettersSmallShape="g" word="Giraffe">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/G/giraffe.jpg</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      </word>
+      <word lettersBigShape="G" lettersSmallShape="g" word="Glasses">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/G/glasses.jpg</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      </word>
+      <word lettersBigShape="G" lettersSmallShape="g" word="Grape">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/G/grape.png</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      </word>
+      <word lettersBigShape="G" lettersSmallShape="g" word="Guitar">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/G/guitar.jpg</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      </word>
+    </wordsForLetter>
+
+    <sentencesForLesson lessonCode="10">
+      <sentece sentence="Dan is here">
+        <senteceSoundHebrew></senteceSoundHebrew>
+        <senteceSoundEnglish></senteceSoundEnglish>
+        <sentecePictuer></sentecePictuer>
+      </sentece>
+    </sentencesForLesson>
+  </lesson>
+
+<!--/////////////////////////////שיעור מס' 11\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
+  <lesson lessonCode="11">
+    <lettersForLesson lessonCode="11">
+      <letter lettersBigShape="H" lettersSmallShape="h" hebrewLetter="'ה">
+        <clipBig>ms-appx:EnglishLessonsMetirial/LettersClip/h1.mov</clipBig>
+        <clipSmall>ms-appx:EnglishLessonsMetirial/LettersClip/h2.mov</clipSmall>
+        <sound></sound>
+        <sound_BigLetterExplanation>ms-appx:EnglishLessonsMetirial/lettersSoundExplaenation/h1_sound.mp3</sound_BigLetterExplanation>
+        <sound_SmallLetterExplanation>ms-appx:EnglishLessonsMetirial/lettersSoundExplaenation/h2_sound.mp3</sound_SmallLetterExplanation>
+      </letter>
+    </lettersForLesson>
+
+    <wordsForLetter>
+      <word lettersBigShape="H" lettersSmallShape="h" word="Hamburger">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/H/hamburger.jpg</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      </word>
+      <word lettersBigShape="H" lettersSmallShape="h" word="Hat">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/H/hat.png</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      </word>
+      <word lettersBigShape="H" lettersSmallShape="h" word="Heart">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/H/heart.jpg</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      </word>
+      <word lettersBigShape="H" lettersSmallShape="h" word="House">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/H/house.jpg</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      </word>
+    </wordsForLetter>
+
+    <sentencesForLesson lessonCode="11">
+      <sentece sentence="Dan is here">
+        <senteceSoundHebrew></senteceSoundHebrew>
+        <senteceSoundEnglish></senteceSoundEnglish>
+        <sentecePictuer></sentecePictuer>
+      </sentece>
+    </sentencesForLesson>
+  </lesson>
+<!--/////////////////////////////שיעור מס' 12\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
+  <lesson lessonCode="12">
+    <lettersForLesson lessonCode="12">
+      <letter lettersBigShape="J" lettersSmallShape="j" hebrewLetter="'ג">
+        <clipBig>ms-appx:EnglishLessonsMetirial/LettersClip/j1.mov</clipBig>
+        <clipSmall>ms-appx:EnglishLessonsMetirial/LettersClip/j2.mov</clipSmall>
+        <sound></sound>
+        <sound_BigLetterExplanation>ms-appx:EnglishLessonsMetirial/lettersSoundExplaenation/j1_sound.mp3</sound_BigLetterExplanation>
+        <sound_SmallLetterExplanation>ms-appx:EnglishLessonsMetirial/lettersSoundExplaenation/j2_sound.mp3</sound_SmallLetterExplanation>
+      </letter>
+    </lettersForLesson>
+
+    <wordsForLetter>
+      <word lettersBigShape="J" lettersSmallShape="j" word="Jacket">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/J/jacket.jpg</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      </word>
+      <word lettersBigShape="J" lettersSmallShape="j" word="Jam">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/J/jam.png</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      </word>
+      <word lettersBigShape="J" lettersSmallShape="j" word="Jelly">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/J/jelly.jpg</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      </word>
+      <word lettersBigShape="J" lettersSmallShape="j" word="Juice">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/J/juice.png</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      </word>
+    </wordsForLetter>
+
+    <sentencesForLesson lessonCode="12">
+      <sentece sentence="Dan is here">
+        <senteceSoundHebrew></senteceSoundHebrew>
+        <senteceSoundEnglish></senteceSoundEnglish>
+        <sentecePictuer></sentecePictuer>
+      </sentece>
+    </sentencesForLesson>
+  </lesson>
+<!--/////////////////////////////שיעור מס' 13\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
+  <lesson lessonCode="13">
+    <lettersForLesson lessonCode="13">
+      <letter lettersBigShape="K" lettersSmallShape="k" hebrewLetter="'ק">
+        <clipBig>ms-appx:EnglishLessonsMetirial/LettersClip/k1.mov</clipBig>
+        <clipSmall>ms-appx:EnglishLessonsMetirial/LettersClip/k2.mov</clipSmall>
+        <sound></sound>
+        <sound_BigLetterExplanation>ms-appx:EnglishLessonsMetirial/lettersSoundExplaenation/k1_sound.mp3</sound_BigLetterExplanation>
+        <sound_SmallLetterExplanation>ms-appx:EnglishLessonsMetirial/lettersSoundExplaenation/k2_sound.mp3</sound_SmallLetterExplanation>
+      </letter>
+    </lettersForLesson>
+
+    <wordsForLetter>
+      <word lettersBigShape="K" lettersSmallShape="k" word="Key">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/K/key.jpg</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      </word>
+      <word lettersBigShape="K" lettersSmallShape="k" word="Keyboard">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/K/keyboard.jpg</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      </word>
+      <word lettersBigShape="K" lettersSmallShape="k" word="Kite">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/K/kite.jpg</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      </word>
+      <word lettersBigShape="K" lettersSmallShape="k" word="Kiwi">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/K/kiwi.jpg</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      </word>
+    </wordsForLetter>
+
+    <sentencesForLesson lessonCode="13">
+      <sentece sentence="Dan is here">
+        <senteceSoundHebrew></senteceSoundHebrew>
+        <senteceSoundEnglish></senteceSoundEnglish>
+        <sentecePictuer></sentecePictuer>
+      </sentece>
+    </sentencesForLesson>
+  </lesson>
+<!--/////////////////////////////שיעור מס' 14\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
+  <lesson lessonCode="14">
+    <lettersForLesson lessonCode="14">
+      <letter lettersBigShape="M" lettersSmallShape="m" hebrewLetter="'מ">
+        <clipBig>ms-appx:EnglishLessonsMetirial/LettersClip/m1.mov</clipBig>
+        <clipSmall>ms-appx:EnglishLessonsMetirial/LettersClip/m2.mov</clipSmall>
+        <sound></sound>
+        <sound_BigLetterExplanation>ms-appx:EnglishLessonsMetirial/lettersSoundExplaenation/m1_sound.mp3</sound_BigLetterExplanation>
+        <sound_SmallLetterExplanation>ms-appx:EnglishLessonsMetirial/lettersSoundExplaenation/m2_sound.mp3</sound_SmallLetterExplanation>
+      </letter>
+    </lettersForLesson>
+
+    <wordsForLetter>
+      <word lettersBigShape="M" lettersSmallShape="m" word="Mask">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/M/mask.png</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      </word>
+      <word lettersBigShape="M" lettersSmallShape="m" word="Matkot">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/M/Matkot.jpgg</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      </word>
+      <word lettersBigShape="M" lettersSmallShape="m" word="Microphone">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/M/microphone.jpg</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      </word>
+      <word lettersBigShape="M" lettersSmallShape="m" word="Milk">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/M/milk.jpg</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      </word>
+    </wordsForLetter>
+
+    <sentencesForLesson lessonCode="14">
+      <sentece sentence="Dan is here">
+        <senteceSoundHebrew></senteceSoundHebrew>
+        <senteceSoundEnglish></senteceSoundEnglish>
+        <sentecePictuer></sentecePictuer>
+      </sentece>
+    </sentencesForLesson>
+  </lesson>
+<!--/////////////////////////////שיעור מס' 15\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
+  <lesson lessonCode="15">
+    <lettersForLesson lessonCode="15">
+      <letter lettersBigShape="N" lettersSmallShape="n" hebrewLetter="'נ">
+        <clipBig>ms-appx:EnglishLessonsMetirial/LettersClip/n1.mov</clipBig>
+        <clipSmall>ms-appx:EnglishLessonsMetirial/LettersClip/n2.mov</clipSmall>
+        <sound></sound>
+        <sound_BigLetterExplanation>ms-appx:EnglishLessonsMetirial/lettersSoundExplaenation/n1_sound.mp3</sound_BigLetterExplanation>
+        <sound_SmallLetterExplanation>ms-appx:EnglishLessonsMetirial/lettersSoundExplaenation/n2_sound.mp3</sound_SmallLetterExplanation>
+      </letter>
+    </lettersForLesson>
+
+    <wordsForLetter>
+      <word lettersBigShape="N" lettersSmallShape="n" word="Nail">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/N/nail.png</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      </word>
+      <word lettersBigShape="N" lettersSmallShape="n" word="Nest">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/N/nest.jpg</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      </word>
+      <word lettersBigShape="N" lettersSmallShape="n" word="Notebook">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/N/notebook.png</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      </word>
+      <word lettersBigShape="N" lettersSmallShape="n" word="Nut">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/N/nut.jpg</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      </word>
+    </wordsForLetter>
+
+    <sentencesForLesson lessonCode="15">
+      <sentece sentence="Dan is here">
+        <senteceSoundHebrew></senteceSoundHebrew>
+        <senteceSoundEnglish></senteceSoundEnglish>
+        <sentecePictuer></sentecePictuer>
+      </sentece>
+    </sentencesForLesson>
+  </lesson>
+<!--/////////////////////////////שיעור מס' 16\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
+  <lesson lessonCode="16">
+    <lettersForLesson lessonCode="16">
+      <letter lettersBigShape="P" lettersSmallShape="p" hebrewLetter="'פ">
+        <clipBig>ms-appx:EnglishLessonsMetirial/LettersClip/p1.mov</clipBig>
+        <clipSmall>ms-appx:EnglishLessonsMetirial/LettersClip/p2.mov</clipSmall>
+        <sound></sound>
+        <sound_BigLetterExplanation>ms-appx:EnglishLessonsMetirial/lettersSoundExplaenation/p1_sound.mp3</sound_BigLetterExplanation>
+        <sound_SmallLetterExplanation>ms-appx:EnglishLessonsMetirial/lettersSoundExplaenation/p2_sound.mp3</sound_SmallLetterExplanation>
+      </letter>
+    </lettersForLesson>
+
+    <wordsForLetter>
+      <word lettersBigShape="P" lettersSmallShape="p" word="Pen">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/P/pen.jpg</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      </word>
+      <word lettersBigShape="P" lettersSmallShape="p" word="Pepper">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/P/pepper.jpg</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      </word>
+      <word lettersBigShape="P" lettersSmallShape="p" word="Popcorn">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/P/popcorn.jpg</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      </word>
+      <word lettersBigShape="P" lettersSmallShape="p" word="Present">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/P/present.jpg</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      </word>
+    </wordsForLetter>
+
+    <sentencesForLesson lessonCode="16">
+      <sentece sentence="Dan is here">
+        <senteceSoundHebrew></senteceSoundHebrew>
+        <senteceSoundEnglish></senteceSoundEnglish>
+        <sentecePictuer></sentecePictuer>
+      </sentece>
+    </sentencesForLesson>
+  </lesson>
+<!--/////////////////////////////שיעור מס' 17\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
+  <lesson lessonCode="17">
+    <lettersForLesson lessonCode="17">
+      <letter lettersBigShape="Q" lettersSmallShape="q" hebrewLetter="'נ">
+        <clipBig>ms-appx:EnglishLessonsMetirial/LettersClip/q1.mov</clipBig>
+        <clipSmall>ms-appx:EnglishLessonsMetirial/LettersClip/q2.mov</clipSmall>
+        <sound></sound>
+        <sound_BigLetterExplanation>ms-appx:EnglishLessonsMetirial/lettersSoundExplaenation/q1_sound.mp3</sound_BigLetterExplanation>
+        <sound_SmallLetterExplanation>ms-appx:EnglishLessonsMetirial/lettersSoundExplaenation/q2_sound.mp3</sound_SmallLetterExplanation>
+      </letter>
+    </lettersForLesson>
+
+    <wordsForLetter>
+      <word lettersBigShape="Q" lettersSmallShape="q" word="Q">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/Q/hamburger.jpg</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      </word>
+      <word lettersBigShape="Q" lettersSmallShape="q" word="Q">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/Q/hamburger.jpg</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      </word>
+      <word lettersBigShape="Q" lettersSmallShape="q" word="Q">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/Q/hamburger.jpg</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      </word>
+      <word lettersBigShape="Q" lettersSmallShape="q" word="Q">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/Q/hamburger.jpg</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      </word>
+    </wordsForLetter>
+
+    <sentencesForLesson lessonCode="17">
+      <sentece sentence="Dan is here">
+        <senteceSoundHebrew></senteceSoundHebrew>
+        <senteceSoundEnglish></senteceSoundEnglish>
+        <sentecePictuer></sentecePictuer>
+      </sentece>
+    </sentencesForLesson>
+  </lesson>
+<!--/////////////////////////////שיעור מס' 18\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
+  <lesson lessonCode="18">
+    <lettersForLesson lessonCode="18">
+      <letter lettersBigShape="R" lettersSmallShape="r" hebrewLetter="'ר">
+        <clipBig>ms-appx:EnglishLessonsMetirial/LettersClip/r1.mov</clipBig>
+        <clipSmall>ms-appx:EnglishLessonsMetirial/LettersClip/r2.mov</clipSmall>
+        <sound></sound>
+        <sound_BigLetterExplanation>ms-appx:EnglishLessonsMetirial/lettersSoundExplaenation/r1_sound.mp3</sound_BigLetterExplanation>
+        <sound_SmallLetterExplanation>ms-appx:EnglishLessonsMetirial/lettersSoundExplaenation/r2_sound.mp3</sound_SmallLetterExplanation>
+      </letter>
+    </lettersForLesson>
+
+    <wordsForLetter>
+      <word lettersBigShape="R" lettersSmallShape="r" word="Rabbit">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/R/rabbit.jpg</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      </word>
+      <word lettersBigShape="R" lettersSmallShape="r" word="Rake">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/R/rake.jpg</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      </word>
+      <word lettersBigShape="R" lettersSmallShape="r" word="Roof">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/R/roof.jpg</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      </word>
+      <word lettersBigShape="R" lettersSmallShape="r" word="Ruler">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/R/ruler.jpg</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      </word>
+    </wordsForLetter>
+
+    <sentencesForLesson lessonCode="18">
+      <sentece sentence="Dan is here">
+        <senteceSoundHebrew></senteceSoundHebrew>
+        <senteceSoundEnglish></senteceSoundEnglish>
+        <sentecePictuer></sentecePictuer>
+      </sentece>
+    </sentencesForLesson>
+  </lesson>
+<!--/////////////////////////////שיעור מס' 19\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
+  <lesson lessonCode="19">
+    <lettersForLesson lessonCode="19">
+      <letter lettersBigShape="V" lettersSmallShape="v" hebrewLetter="'ו">
+        <clipBig>ms-appx:EnglishLessonsMetirial/LettersClip/v1.mov</clipBig>
+        <clipSmall>ms-appx:EnglishLessonsMetirial/LettersClip/v2.mov</clipSmall>
+        <sound></sound>
+        <sound_BigLetterExplanation>ms-appx:EnglishLessonsMetirial/lettersSoundExplaenation/v1_sound.mp3</sound_BigLetterExplanation>
+        <sound_SmallLetterExplanation>ms-appx:EnglishLessonsMetirial/lettersSoundExplaenation/v2_sound.mp3</sound_SmallLetterExplanation>
+      </letter>
+    <letter lettersBigShape="W" lettersSmallShape="w" hebrewLetter="'ו">
+        <clipBig>ms-appx:EnglishLessonsMetirial/LettersClip/w1.mov</clipBig>
+        <clipSmall>ms-appx:EnglishLessonsMetirial/LettersClip/w2.mov</clipSmall>
+        <sound></sound>
+        <sound_BigLetterExplanation>ms-appx:EnglishLessonsMetirial/lettersSoundExplaenation/w1_sound.mp3</sound_BigLetterExplanation>
+        <sound_SmallLetterExplanation>ms-appx:EnglishLessonsMetirial/lettersSoundExplaenation/w2_sound.mp3</sound_SmallLetterExplanation>
+      </letter>
+    </lettersForLesson>
+
+    <wordsForLetter>
+      <word lettersBigShape="V" lettersSmallShape="v" word="Vase">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/V/vase.png</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      </word>
+      <word lettersBigShape="V" lettersSmallShape="v" word="Vegetable">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/V/vegetable.jpg</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      </word>
+      <word lettersBigShape="V" lettersSmallShape="v" word="Vest">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/V/vest.jpg</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      </word>
+      <word lettersBigShape="V" lettersSmallShape="v" word="Violin">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/V/violin.jpg</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      </word>
+    </wordsForLetter>
+
+    <wordsForLetter>
+      <word lettersBigShape="W" lettersSmallShape="w" word="Watermelon">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/W/watermelon.jpg</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      </word>
+      <word lettersBigShape="W" lettersSmallShape="w" word="Wine">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/W/wine.jpg</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      </word>
+      <word lettersBigShape="W" lettersSmallShape="w" word="Wool">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/W/wool.jpg</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      </word>
+      <word lettersBigShape="W" lettersSmallShape="w" word="W">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/W/hamburger.jpg</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      </word>
+    </wordsForLetter>
+    <sentencesForLesson lessonCode="19">
+      <sentece sentence="Dan is here">
+        <senteceSoundHebrew></senteceSoundHebrew>
+        <senteceSoundEnglish></senteceSoundEnglish>
+        <sentecePictuer></sentecePictuer>
+      </sentece>
+    </sentencesForLesson>
+  </lesson>
+<!--/////////////////////////////שיעור מס' 20\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
+  <lesson lessonCode="20">
+    <lettersForLesson lessonCode="20">
+      <letter lettersBigShape="Y" lettersSmallShape="y" hebrewLetter="'י">
+        <clipBig>ms-appx:EnglishLessonsMetirial/LettersClip/y1.mov</clipBig>
+        <clipSmall>ms-appx:EnglishLessonsMetirial/LettersClip/y2.mov</clipSmall>
+        <sound></sound>
+        <sound_BigLetterExplanation>ms-appx:EnglishLessonsMetirial/lettersSoundExplaenation/y1_sound.mp3</sound_BigLetterExplanation>
+        <sound_SmallLetterExplanation>ms-appx:EnglishLessonsMetirial/lettersSoundExplaenation/y2_sound.mp3</sound_SmallLetterExplanation>
+      </letter>
+    </lettersForLesson>
+
+    <wordsForLetter>
+      <word lettersBigShape="Y" lettersSmallShape="y" word="Yoyo">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/Y/yoyo.jpg</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      </word>
+      <word lettersBigShape="Y" lettersSmallShape="y" word="Y">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/Y/hamburger.jpg</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      </word>
+      <word lettersBigShape="Y" lettersSmallShape="y" word="Y">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/Y/hamburger.jpg</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      </word>
+      <word lettersBigShape="Y" lettersSmallShape="y" word="Y">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/Y/hamburger.jpg</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      </word>
+    </wordsForLetter>
+
+    <sentencesForLesson lessonCode="20">
+      <sentece sentence="Dan is here">
+        <senteceSoundHebrew></senteceSoundHebrew>
+        <senteceSoundEnglish></senteceSoundEnglish>
+        <sentecePictuer></sentecePictuer>
+      </sentece>
+    </sentencesForLesson>
+  </lesson>
+<!--/////////////////////////////שיעור מס' 21\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
+  <lesson lessonCode="21">
+    <lettersForLesson lessonCode="21">
+      <letter lettersBigShape="X" lettersSmallShape="x" hebrewLetter="'ו">
+        <clipBig>ms-appx:EnglishLessonsMetirial/LettersClip/x1.mov</clipBig>
+        <clipSmall>ms-appx:EnglishLessonsMetirial/LettersClip/x2.mov</clipSmall>
+        <sound></sound>
+        <sound_BigLetterExplanation>ms-appx:EnglishLessonsMetirial/lettersSoundExplaenation/x1_sound.mp3</sound_BigLetterExplanation>
+        <sound_SmallLetterExplanation>ms-appx:EnglishLessonsMetirial/lettersSoundExplaenation/x2_sound.mp3</sound_SmallLetterExplanation>
+      </letter>
+    <letter lettersBigShape="Z" lettersSmallShape="z" hebrewLetter="'ז">
+        <clipBig>ms-appx:EnglishLessonsMetirial/LettersClip/z1.mov</clipBig>
+        <clipSmall>ms-appx:EnglishLessonsMetirial/LettersClip/z2.mov</clipSmall>
+        <sound></sound>
+        <sound_BigLetterExplanation>ms-appx:EnglishLessonsMetirial/lettersSoundExplaenation/z1_sound.mp3</sound_BigLetterExplanation>
+        <sound_SmallLetterExplanation>ms-appx:EnglishLessonsMetirial/lettersSoundExplaenation/z2_sound.mp3</sound_SmallLetterExplanation>
+      </letter>
+    </lettersForLesson>
+
+    <wordsForLetter>
+      <word lettersBigShape="X" lettersSmallShape="x" word="Xox">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/X/fox.jpg</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      </word>
+      <word lettersBigShape="X" lettersSmallShape="x" word="Xylophone">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/X/xylophone.jpg</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      </word>
+      <word lettersBigShape="X" lettersSmallShape="x" word="X">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/X/hamburger.jpg</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      </word>
+      <word lettersBigShape="X" lettersSmallShape="x" word="X">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/X/hamburger.jpg</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      </word>
+    </wordsForLetter>
+
+    <wordsForLetter>
+      <word lettersBigShape="Z" lettersSmallShape="z" word="Zebra">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/Z/zebra.jpg</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      </word>
+      <word lettersBigShape="Z" lettersSmallShape="z" word="Zipper">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/Z/zipper.jpg</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      </word>
+      <word lettersBigShape="Z" lettersSmallShape="z" word="Zucchini">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/Z/zucchini.png</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      </word>
+      <word lettersBigShape="Z" lettersSmallShape="z" word="Z">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/Z/hamburger.jpg</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      </word>
+    </wordsForLetter>
+    <sentencesForLesson lessonCode="21">
+      <sentece sentence="Dan is here">
+        <senteceSoundHebrew></senteceSoundHebrew>
+        <senteceSoundEnglish></senteceSoundEnglish>
+        <sentecePictuer></sentecePictuer>
+      </sentece>
+    </sentencesForLesson>
+  </lesson>
+</EnglishLesson>

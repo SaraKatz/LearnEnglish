@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest">
+  <Identity Name="8f80a54f-78ed-4b22-a0f4-369685abcabe" Publisher="CN=One" Version="1.0.0.0" />
+  <Properties>
+    <DisplayName>English</DisplayName>
+    <PublisherDisplayName>One</PublisherDisplayName>
+    <Logo>Assets\StoreLogo.png</Logo>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.2.1</OSMinVersion>
+    <OSMaxVersionTested>6.2.1</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="x-generate" />
+  </Resources>
+  <Applications>
+    <Application Id="App" Executable="$targetnametoken$.exe" EntryPoint="English.App">
+      <VisualElements DisplayName="English" Logo="Assets\מיקי אריח.png" SmallLogo="Assets\images1.png" Description="English" ForegroundText="dark" BackgroundColor="#464646">
+        <DefaultTile ShowName="allLogos" WideLogo="Assets\images3.png" />
+        <SplashScreen Image="Assets\1מיקי.png" BackgroundColor="black" />
+      </VisualElements>
+    </Application>
+  </Applications>
+  <Capabilities>
+    <Capability Name="internetClient" />
+  </Capabilities>
+</Package>

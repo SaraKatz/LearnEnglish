@@ -1,0 +1,99 @@
+﻿<common:LayoutAwarePage
+    x:Name="pageRoot"
+    x:Class="English.howToWright"
+    DataContext="{Binding DefaultViewModel, RelativeSource={RelativeSource Self}}"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:English"
+    xmlns:common="using:English.Common"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Page.Resources>
+    </Page.Resources>
+
+    <Page.BottomAppBar>
+        <AppBar x:Name="GlobalAppBar" Padding="10,0,10,0" AutomationProperties.Name="Global App Bar">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="50*"/>
+                    <ColumnDefinition Width="50*"/>
+                </Grid.ColumnDefinitions>
+                <StackPanel x:Name="LeftCommands" Orientation="Horizontal" Grid.Column="0" HorizontalAlignment="Left">
+                <!--<Button x:Name="Back"  AutomationProperties.Name="Back" Style="{StaticResource BackAppBarButtonStyle }" HorizontalAlignment="Left" Click="Back_Click"/>-->
+                    <Button x:ConnectionId='1' x:Name="learnSmallLetter" AutomationProperties.Name="לימוד אות קטנה" Style="{StaticResource StarAppBarButtonStyle }" Height="84" VerticalAlignment="Bottom"                               />
+                    <Button x:ConnectionId='2' x:Name="learnNextlLetter" AutomationProperties.Name="ללימוד האות הבאה" Style="{StaticResource MoreAppBarButtonStyle }" Height="84" VerticalAlignment="Bottom"                                />
+
+                </StackPanel>
+                <!--<StackPanel x:Name="RightCommands" Orientation="Horizontal" Grid.Column="1" HorizontalAlignment="Right">
+                </StackPanel>-->
+            </Grid>
+        </AppBar>
+    </Page.BottomAppBar>
+    
+    <Grid Style="{StaticResource LayoutRootStyle}">
+        <Grid.Background>
+            <ImageBrush ImageSource="Assets/רקע דף.png"/>
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="140"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Back button and page title -->
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Button x:ConnectionId='4' x:Name="backButton"                IsEnabled="{Binding Frame.CanGoBack, ElementName=pageRoot}" Style="{StaticResource BackButtonStyle}"/>
+            <TextBlock x:Name="pageTitle" Grid.Column="1"  Style="{StaticResource PageHeaderTextStyle}" Margin="365,0,60,20" Height="80"/>
+        </Grid>
+        <Button x:ConnectionId='3' Name="next" Content="הבא" HorizontalAlignment="Left" Margin="599,497,0,0" Grid.Row="1" VerticalAlignment="Top" Height="84" Width="153"                       />
+        <TextBlock Height="90.761" Margin="0,29.239,824.106,0" TextWrapping="Wrap" Width="451.894" FontFamily="Algerian" FontSize="36" RenderTransformOrigin="0.5,0.5" UseLayoutRounding="False" d:LayoutRounding="Auto" VerticalAlignment="Top" HorizontalAlignment="Right" TextAlignment="Right" Foreground="#FF080505" Grid.Row="1">
+            <TextBlock.RenderTransform>
+                <CompositeTransform SkewX="-1.9" TranslateX="-0.713"/>
+            </TextBlock.RenderTransform>
+        	<Run Text="כתוב עם העכבר או עם" FlowDirection="RightToLeft"/>
+        	<LineBreak/>
+        	<Run Text=" האצבע את האות כפי שנלמד"/>
+        </TextBlock>
+        <MediaElement  HorizontalAlignment="Left" Grid.Row="1" VerticalAlignment="Top" Width="220" Source="Assets/904.wmv"  Height="195" Margin="810,120,0,0" RenderTransformOrigin="0.5,0.5">
+            <MediaElement.RenderTransform>
+                <CompositeTransform Rotation="22.192"/>
+            </MediaElement.RenderTransform>
+        </MediaElement>
+
+        <VisualStateManager.VisualStateGroups>
+
+            <!-- Visual states reflect the application's view state -->
+            <VisualStateGroup x:Name="ApplicationViewStates">
+                <VisualState x:Name="FullScreenLandscape"/>
+                <VisualState x:Name="Filled"/>
+
+                <!-- The entire page respects the narrower 100-pixel margin convention for portrait -->
+                <VisualState x:Name="FullScreenPortrait">
+                    <Storyboard>
+                        <ObjectAnimationUsingKeyFrames Storyboard.TargetName="backButton" Storyboard.TargetProperty="Style">
+                            <DiscreteObjectKeyFrame KeyTime="0" Value="{StaticResource PortraitBackButtonStyle}"/>
+                        </ObjectAnimationUsingKeyFrames>
+                    </Storyboard>
+                </VisualState>
+
+                <!-- The back button and title have different styles when snapped -->
+                <VisualState x:Name="Snapped">
+                    <Storyboard>
+                        <ObjectAnimationUsingKeyFrames Storyboard.TargetName="backButton" Storyboard.TargetProperty="Style">
+                            <DiscreteObjectKeyFrame KeyTime="0" Value="{StaticResource SnappedBackButtonStyle}"/>
+                        </ObjectAnimationUsingKeyFrames>
+                        <ObjectAnimationUsingKeyFrames Storyboard.TargetName="pageTitle" Storyboard.TargetProperty="Style">
+                            <DiscreteObjectKeyFrame KeyTime="0" Value="{StaticResource SnappedPageHeaderTextStyle}"/>
+                        </ObjectAnimationUsingKeyFrames>
+                    </Storyboard>
+                </VisualState>
+            </VisualStateGroup>
+        </VisualStateManager.VisualStateGroups>
+    </Grid>
+</common:LayoutAwarePage>
+

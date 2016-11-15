@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<common:LayoutAwarePage x:Name="pageRoot" x:Class="English.lessonMapPage" DataContext="{Binding DefaultViewModel, RelativeSource={RelativeSource Self}}" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:local="using:English" xmlns:common="using:English.Common" xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d">
+    <Page.Resources>
+        <!-- TODO: Delete this line if the key AppName is declared in App.xaml -->
+        <x:String x:Key="AppName">lessons</x:String>
+    </Page.Resources>
+   
+        <!--
+        This grid acts as a root panel for the page that defines two rows:
+        * Row 0 contains the back button and page title
+        * Row 1 contains the rest of the page layout
+    -->
+    <!--
+        This grid acts as a root panel for the page that defines two rows:
+        * Row 0 contains the back button and page title
+        * Row 1 contains the rest of the page layout
+    -->
+
+    <Grid Style="{StaticResource LayoutRootStyle}" RenderTransformOrigin="0.481,0.461">
+        <Grid.Background>
+            <ImageBrush ImageSource="Assets/רקע אדום.png"/>
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="140" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="140" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="1000"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <VisualStateManager.VisualStateGroups>
+            <!-- Visual states reflect the application's view state -->
+            <VisualStateGroup x:Name="ApplicationViewStates">
+                <VisualState x:Name="FullScreenLandscape" />
+                <VisualState x:Name="Filled" />
+                <!-- The entire page respects the narrower 100-pixel margin convention for portrait -->
+                <VisualState x:Name="FullScreenPortrait">
+                    <Storyboard>
+                        <ObjectAnimationUsingKeyFrames Storyboard.TargetName="backButton" Storyboard.TargetProperty="Style">
+                            <DiscreteObjectKeyFrame KeyTime="0" Value="{StaticResource PortraitBackButtonStyle}" />
+                        </ObjectAnimationUsingKeyFrames>
+                    </Storyboard>
+                </VisualState>
+                <!-- The back button and title have different styles when snapped -->
+                <VisualState x:Name="Snapped">
+                    <Storyboard>
+                        <ObjectAnimationUsingKeyFrames Storyboard.TargetName="backButton" Storyboard.TargetProperty="Style">
+                            <DiscreteObjectKeyFrame KeyTime="0" Value="{StaticResource SnappedBackButtonStyle}" />
+                        </ObjectAnimationUsingKeyFrames>
+                        <ObjectAnimationUsingKeyFrames Storyboard.TargetName="pageTitle" Storyboard.TargetProperty="Style">
+                            <DiscreteObjectKeyFrame KeyTime="0" Value="{StaticResource SnappedPageHeaderTextStyle}" />
+                        </ObjectAnimationUsingKeyFrames>
+                    </Storyboard>
+                </VisualState>
+            </VisualStateGroup>
+        </VisualStateManager.VisualStateGroups>
+        <!-- Back button and page title -->
+        <!--<Frame x:Name="Frame1" Background="Black" Grid.RowSpan="2"/>-->
+        
+
+        <!---->
+        <Grid>
+        	<Grid.Background>
+        		<ImageBrush/>
+        	</Grid.Background>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+            
+            <Button x:ConnectionId='1' x:Name="backButton"                IsEnabled="{Binding Frame.CanGoBack, ElementName=pageRoot}" Style="{StaticResource BackButtonStyle}" />
+            <TextBlock x:Name="pageTitle" Grid.Column="1" Text="מפת השיעורים" Style="{StaticResource PageHeaderTextStyle}" RenderTransformOrigin="4.656,0.688" Margin="0,55,-978,0" Foreground="#FFFE0000" Height="85" FontWeight="Bold" HorizontalAlignment="Right" VerticalAlignment="Stretch" />
+        </Grid>
+ <!---->
+        <Grid x:Name="buttonsGrid" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Column="1" Grid.Row="1"    >
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+
+
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="Auto"/>
+            </Grid.ColumnDefinitions>
+            <!--<Grid>גריד טוב
+                <Image Source="Assets/lessonPic.jpg"/>
+                <TextBlock Text="This is a text" Foreground="Black" VerticalAlignment="Center" HorizontalAlignment="Center" />
+            </Grid>-->
+            <!--<Button  x:Name="b1" Grid.Column="0" Content="1" Grid.Row="0" Height="92" Width="100" Click="Button_Click" Margin="0,0,0,-42" Grid.RowSpan="3" BorderBrush="{x:Null}" Foreground="#FFFF0118" >
+                <Button.Background>
+                    <ImageBrush ImageSource="Assets/lessonPic.jpg"/>
+                </Button.Background>
+            </Button>-->
+            
+            <!--<Button  x:Name="b1_Copy" Grid.Column="6" Content="2" Grid.Row="0" Foreground="#FFFF0118" Height="92" Width="100" Click="Button_Click" Margin="31,0,-131,-42" Grid.RowSpan="3" BorderBrush="{x:Null}" VerticalAlignment="Bottom" >
+                <Button.Background>
+                    <ImageBrush ImageSource="Assets/lessonPic.jpg"/>
+                </Button.Background>
+            </Button>-->
+            <!--<StackPanel Name="imagePanel" Grid.Row="1" Orientation="Horizontal">
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="100" Margin="0,0,0,-50" VerticalAlignment="Top" Width="100">
+          <Image Name="i1" Source="Assets/ילד 2.jpg" HorizontalAlignment="Left" Height="100" Margin="0,0,-2,-2" VerticalAlignment="Top" Width="100" GotFocus="i1_GotFocus" />
+        </Border>
+      </StackPanel>-->
+            <!--<Button Name="b2" Grid.Column="4" Content="2" Grid.Row="0" Foreground="Aqua" Height="50" Width="100" Click="Button_Click" Margin="0,0,-100,0" />-->
+
+    </Grid>
+       
+    </Grid>
+</common:LayoutAwarePage>
+

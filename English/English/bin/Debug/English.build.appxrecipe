@@ -1,0 +1,819 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>PC-</Machine>
+    <WindowsUser>sheva</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\bin\Debug\English.exe">
+      <PackagePath>English.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\bin\Debug\English.pdb">
+      <PackagePath>English.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\Assets\119471_%2896%29.gif">
+      <PackagePath>Assets\119471_%2896%29.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\Assets\2235.gif">
+      <PackagePath>Assets\2235.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\Assets\2237.gif">
+      <PackagePath>Assets\2237.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\Assets\900.gif">
+      <PackagePath>Assets\900.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\Assets\904.gif">
+      <PackagePath>Assets\904.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\Assets\s_u_01_10142_01_02.gif">
+      <PackagePath>Assets\s_u_01_10142_01_02.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\Assets\1ללא שם.png">
+      <PackagePath>Assets\1ללא שם.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\Assets\1מיקי.png">
+      <PackagePath>Assets\1מיקי.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\Assets\abc.png">
+      <PackagePath>Assets\abc.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\Assets\game.png">
+      <PackagePath>Assets\game.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\Assets\images1.png">
+      <PackagePath>Assets\images1.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\Assets\images2.png">
+      <PackagePath>Assets\images2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\Assets\images3.png">
+      <PackagePath>Assets\images3.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\Assets\v.png">
+      <PackagePath>Assets\v.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\Assets\x.png">
+      <PackagePath>Assets\x.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\Assets\מיקי אריח.png">
+      <PackagePath>Assets\מיקי אריח.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\Assets\מיקי.png">
+      <PackagePath>Assets\מיקי.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\Assets\מיקי_משחק.png">
+      <PackagePath>Assets\מיקי_משחק.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\Assets\משחק.png">
+      <PackagePath>Assets\משחק.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\Assets\פתיחה.png">
+      <PackagePath>Assets\פתיחה.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\Assets\untitled.png">
+      <PackagePath>Assets\untitled.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\Assets\רקע אדום.png">
+      <PackagePath>Assets\רקע אדום.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\Assets\רקע דף.png">
+      <PackagePath>Assets\רקע דף.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\Assets\רקע קו למעלה.png">
+      <PackagePath>Assets\רקע קו למעלה.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\A\accordion.png">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\A\accordion.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\A\ambulance.png">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\A\ambulance.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\A\atlas.png">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\A\atlas.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\E\eggplant.png">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\E\eggplant.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\E\envelope.png">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\E\envelope.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\G\grape.png">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\G\grape.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\H\hat.png">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\H\hat.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\I\iron.png">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\I\iron.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\J\jam.png">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\J\jam.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\J\juice.png">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\J\juice.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\L\leaf.png">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\L\leaf.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\L\lemon.png">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\L\lemon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\M\mask.png">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\M\mask.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\N\nail.png">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\N\nail.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\N\notebook.png">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\N\notebook.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\O\onion.png">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\O\onion.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\O\orange.png">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\O\orange.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\T\telephone.png">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\T\telephone.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\V\vase.png">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\V\vase.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\Z\zucchini.png">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\Z\zucchini.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\Assets\2237.wmv">
+      <PackagePath>Assets\2237.wmv</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\Assets\900.wmv">
+      <PackagePath>Assets\900.wmv</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\Assets\904.wmv">
+      <PackagePath>Assets\904.wmv</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\Assets\מפעל הפורמטים2237.wmv">
+      <PackagePath>Assets\מפעל הפורמטים2237.wmv</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\Assets\ABC-Song---Nursery-Rhymes[www.savevid.com] %281%29.mp4">
+      <PackagePath>Assets\ABC-Song---Nursery-Rhymes[www.savevid.com] %281%29.mp4</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\Assets\הסרט שלי.mp4">
+      <PackagePath>Assets\הסרט שלי.mp4</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\וידאו019.mp4">
+      <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\וידאו019.mp4</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\וידאו012.mp4">
+      <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\וידאו012.mp4</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\וידאו013.mp4">
+      <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\וידאו013.mp4</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\וידאו014.mp4">
+      <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\וידאו014.mp4</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\וידאו015.mp4">
+      <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\וידאו015.mp4</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\wordSuond\וידאו004.mp4">
+      <PackagePath>EnglishLessonsMetirial\wordSuond\וידאו004.mp4</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\wordSuond\וידאו011.mp4">
+      <PackagePath>EnglishLessonsMetirial\wordSuond\וידאו011.mp4</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\Assets\apple.jpg">
+      <PackagePath>Assets\apple.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\Assets\images.jpg">
+      <PackagePath>Assets\images.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\Assets\images1.jpg">
+      <PackagePath>Assets\images1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\Assets\imagesCAB6GPAE.jpg">
+      <PackagePath>Assets\imagesCAB6GPAE.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\Assets\imagesCAK6WRKR.jpg">
+      <PackagePath>Assets\imagesCAK6WRKR.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\Assets\imagesCAQG90OK.jpg">
+      <PackagePath>Assets\imagesCAQG90OK.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\Assets\lessonPic.jpg">
+      <PackagePath>Assets\lessonPic.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\Assets\IMG_0288.JPG">
+      <PackagePath>Assets\IMG_0288.JPG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\Assets\ילד 2.jpg">
+      <PackagePath>Assets\ילד 2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\A\apple.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\A\apple.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\B\baby.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\B\baby.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\B\ball.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\B\ball.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\B\balloon.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\B\balloon.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\B\banana.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\B\banana.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\C\cake.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\C\cake.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\C\camera.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\C\camera.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\C\clothing.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\C\clothing.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\C\crown.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\C\crown.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\D\diamond.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\D\diamond.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\D\disc.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\D\disc.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\D\dog.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\D\dog.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\D\doll.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\D\doll.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\E\eeg.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\E\eeg.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\E\elephant.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\E\elephant.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\F\finger.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\F\finger.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\F\fish.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\F\fish.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\F\flower.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\F\flower.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\F\foot.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\F\foot.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\G\giraffe.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\G\giraffe.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\G\glasses.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\G\glasses.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\G\guitar.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\G\guitar.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\H\hamburger.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\H\hamburger.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\H\heart.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\H\heart.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\H\house.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\H\house.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\I\ice cream.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\I\ice cream.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\I\igloo.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\I\igloo.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\I\image.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\I\image.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\J\jacket.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\J\jacket.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\J\jelly.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\J\jelly.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\K\key.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\K\key.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\K\keyboard.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\K\keyboard.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\K\kite.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\K\kite.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\K\kiwi.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\K\kiwi.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\L\lamp.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\L\lamp.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\L\lion.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\L\lion.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\M\Matkot.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\M\Matkot.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\M\microphone.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\M\microphone.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\M\milk.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\M\milk.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\N\nest.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\N\nest.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\N\nut.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\N\nut.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\O\olive.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\O\olive.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\O\organ.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\O\organ.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\P\pen.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\P\pen.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\P\pepper.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\P\pepper.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\P\popcorn.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\P\popcorn.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\P\present.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\P\present.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\R\rabbit.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\R\rabbit.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\R\rake.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\R\rake.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\R\roof.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\R\roof.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\R\ruler.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\R\ruler.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\S\sack.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\S\sack.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\S\scoote.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\S\scoote.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\S\snake.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\S\snake.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\S\sofa.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\S\sofa.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\T\tractor.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\T\tractor.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\T\train.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\T\train.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\T\tree.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\T\tree.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\U\umbrella.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\U\umbrella.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\V\vegetable.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\V\vegetable.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\V\vest.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\V\vest.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\V\violin.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\V\violin.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\W\watermelon.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\W\watermelon.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\W\wine.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\W\wine.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\W\wool.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\W\wool.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\X\fox.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\X\fox.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\X\xylophone.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\X\xylophone.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\Y\yoyo.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\Y\yoyo.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\Z\zebra.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\Z\zebra.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\Z\zipper.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\Z\zipper.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\LettersClip\a1.mov">
+      <PackagePath>EnglishLessonsMetirial\LettersClip\a1.mov</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\LettersClip\a2.mov">
+      <PackagePath>EnglishLessonsMetirial\LettersClip\a2.mov</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\LettersClip\b1.mov">
+      <PackagePath>EnglishLessonsMetirial\LettersClip\b1.mov</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\LettersClip\b2.mov">
+      <PackagePath>EnglishLessonsMetirial\LettersClip\b2.mov</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\LettersClip\c1.mov">
+      <PackagePath>EnglishLessonsMetirial\LettersClip\c1.mov</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\LettersClip\c2.mov">
+      <PackagePath>EnglishLessonsMetirial\LettersClip\c2.mov</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\LettersClip\d1.mov">
+      <PackagePath>EnglishLessonsMetirial\LettersClip\d1.mov</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\LettersClip\d2.mov">
+      <PackagePath>EnglishLessonsMetirial\LettersClip\d2.mov</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\LettersClip\e1.mov">
+      <PackagePath>EnglishLessonsMetirial\LettersClip\e1.mov</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\LettersClip\e2.mov">
+      <PackagePath>EnglishLessonsMetirial\LettersClip\e2.mov</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\LettersClip\f1.mov">
+      <PackagePath>EnglishLessonsMetirial\LettersClip\f1.mov</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\LettersClip\f2.mov">
+      <PackagePath>EnglishLessonsMetirial\LettersClip\f2.mov</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\LettersClip\g1.mov">
+      <PackagePath>EnglishLessonsMetirial\LettersClip\g1.mov</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\LettersClip\g2.mov">
+      <PackagePath>EnglishLessonsMetirial\LettersClip\g2.mov</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\LettersClip\h1.mov">
+      <PackagePath>EnglishLessonsMetirial\LettersClip\h1.mov</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\LettersClip\h2.mov">
+      <PackagePath>EnglishLessonsMetirial\LettersClip\h2.mov</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\LettersClip\i1.mov">
+      <PackagePath>EnglishLessonsMetirial\LettersClip\i1.mov</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\LettersClip\i2.mov">
+      <PackagePath>EnglishLessonsMetirial\LettersClip\i2.mov</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\LettersClip\j1.mov">
+      <PackagePath>EnglishLessonsMetirial\LettersClip\j1.mov</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\LettersClip\j2.mov">
+      <PackagePath>EnglishLessonsMetirial\LettersClip\j2.mov</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\LettersClip\k1.mov">
+      <PackagePath>EnglishLessonsMetirial\LettersClip\k1.mov</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\LettersClip\k2.mov">
+      <PackagePath>EnglishLessonsMetirial\LettersClip\k2.mov</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\LettersClip\L1.mov">
+      <PackagePath>EnglishLessonsMetirial\LettersClip\L1.mov</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\LettersClip\L2.mov">
+      <PackagePath>EnglishLessonsMetirial\LettersClip\L2.mov</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\LettersClip\m1.mov">
+      <PackagePath>EnglishLessonsMetirial\LettersClip\m1.mov</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\LettersClip\m2.mov">
+      <PackagePath>EnglishLessonsMetirial\LettersClip\m2.mov</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\LettersClip\n1.mov">
+      <PackagePath>EnglishLessonsMetirial\LettersClip\n1.mov</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\LettersClip\n2.mov">
+      <PackagePath>EnglishLessonsMetirial\LettersClip\n2.mov</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\LettersClip\o1.mov">
+      <PackagePath>EnglishLessonsMetirial\LettersClip\o1.mov</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\LettersClip\o2.mov">
+      <PackagePath>EnglishLessonsMetirial\LettersClip\o2.mov</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\LettersClip\p1.mov">
+      <PackagePath>EnglishLessonsMetirial\LettersClip\p1.mov</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\LettersClip\p2.mov">
+      <PackagePath>EnglishLessonsMetirial\LettersClip\p2.mov</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\LettersClip\q1.mov">
+      <PackagePath>EnglishLessonsMetirial\LettersClip\q1.mov</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\LettersClip\q2.mov">
+      <PackagePath>EnglishLessonsMetirial\LettersClip\q2.mov</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\LettersClip\r1.mov">
+      <PackagePath>EnglishLessonsMetirial\LettersClip\r1.mov</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\LettersClip\r2.mov">
+      <PackagePath>EnglishLessonsMetirial\LettersClip\r2.mov</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\LettersClip\s1.mov">
+      <PackagePath>EnglishLessonsMetirial\LettersClip\s1.mov</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\LettersClip\s2.mov">
+      <PackagePath>EnglishLessonsMetirial\LettersClip\s2.mov</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\LettersClip\t1.mov">
+      <PackagePath>EnglishLessonsMetirial\LettersClip\t1.mov</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\LettersClip\t2.mov">
+      <PackagePath>EnglishLessonsMetirial\LettersClip\t2.mov</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\LettersClip\u1.mov">
+      <PackagePath>EnglishLessonsMetirial\LettersClip\u1.mov</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\LettersClip\u2.mov">
+      <PackagePath>EnglishLessonsMetirial\LettersClip\u2.mov</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\LettersClip\v1.mov">
+      <PackagePath>EnglishLessonsMetirial\LettersClip\v1.mov</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\LettersClip\v2.mov">
+      <PackagePath>EnglishLessonsMetirial\LettersClip\v2.mov</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\LettersClip\w1.mov">
+      <PackagePath>EnglishLessonsMetirial\LettersClip\w1.mov</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\LettersClip\w2.mov">
+      <PackagePath>EnglishLessonsMetirial\LettersClip\w2.mov</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\LettersClip\x1.mov">
+      <PackagePath>EnglishLessonsMetirial\LettersClip\x1.mov</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\LettersClip\x2.mov">
+      <PackagePath>EnglishLessonsMetirial\LettersClip\x2.mov</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\LettersClip\y1.mov">
+      <PackagePath>EnglishLessonsMetirial\LettersClip\y1.mov</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\LettersClip\y2.mov">
+      <PackagePath>EnglishLessonsMetirial\LettersClip\y2.mov</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\LettersClip\z1.mov">
+      <PackagePath>EnglishLessonsMetirial\LettersClip\z1.mov</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\LettersClip\z2.mov">
+      <PackagePath>EnglishLessonsMetirial\LettersClip\z2.mov</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\i2_sound.mp3">
+      <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\i2_sound.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\i1_sound.mp3">
+      <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\i1_sound.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\j1_sound.mp3">
+      <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\j1_sound.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\j2_sound.mp3">
+      <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\j2_sound.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\k1_sound.mp3">
+      <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\k1_sound.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\k2_sound.mp3">
+      <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\k2_sound.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\l1_sound.mp3">
+      <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\l1_sound.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\l2_sound.mp3">
+      <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\l2_sound.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\m1_sound.mp3">
+      <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\m1_sound.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\m2_sound.mp3">
+      <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\m2_sound.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\n1_sound.mp3">
+      <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\n1_sound.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\n2_sound.mp3">
+      <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\n2_sound.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\o1_sound.mp3">
+      <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\o1_sound.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\o2_sound.mp3">
+      <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\o2_sound.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\p1_sound.mp3">
+      <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\p1_sound.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\p2_sound.mp3">
+      <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\p2_sound.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\q1_sound.mp3">
+      <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\q1_sound.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\q2_sound.mp3">
+      <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\q2_sound.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\r1_sound.mp3">
+      <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\r1_sound.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\r2_sound.mp3">
+      <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\r2_sound.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\s1_sound.mp3">
+      <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\s1_sound.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\s2_sound.mp3">
+      <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\s2_sound.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\t1_sound.mp3">
+      <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\t1_sound.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\t2_sound.mp3">
+      <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\t2_sound.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\u1_sound.mp3">
+      <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\u1_sound.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\u2_sound.mp3">
+      <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\u2_sound.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\v1_sound.mp3">
+      <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\v1_sound.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\v2_sound.mp3">
+      <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\v2_sound.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\w1_sound.mp3">
+      <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\w1_sound.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\w2_sound.mp3">
+      <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\w2_sound.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\x1_sound.mp3">
+      <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\x1_sound.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\x2_sound.mp3">
+      <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\x2_sound.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\y1_sound.mp3">
+      <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\y1_sound.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\y2_sound.mp3">
+      <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\y2_sound.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\z1_sound.mp3">
+      <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\z1_sound.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\z2_sound.mp3">
+      <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\z2_sound.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSound\020514-232244.mp3">
+      <PackagePath>EnglishLessonsMetirial\lettersSound\020514-232244.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSound\07 בענין השמחה.mp3">
+      <PackagePath>EnglishLessonsMetirial\lettersSound\07 בענין השמחה.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\a1_sound.mp3">
+      <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\a1_sound.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\a2_sound.mp3">
+      <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\a2_sound.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\b1_sound.mp3">
+      <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\b1_sound.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\b2_sound.mp3">
+      <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\b2_sound.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\c1_sound.mp3">
+      <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\c1_sound.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\c2_sound.mp3">
+      <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\c2_sound.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\d1_sound.mp3">
+      <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\d1_sound.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\d2_sound.mp3">
+      <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\d2_sound.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\e1_sound.mp3">
+      <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\e1_sound.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\e2_sound.mp3">
+      <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\e2_sound.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\f1_sound.mp3">
+      <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\f1_sound.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\f2_sound.mp3">
+      <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\f2_sound.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\g1_sound.mp3">
+      <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\g1_sound.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\g2_sound.mp3">
+      <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\g2_sound.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\h1_sound.mp3">
+      <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\h1_sound.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\h2_sound.mp3">
+      <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\h2_sound.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSound\Track 01.mp3">
+      <PackagePath>EnglishLessonsMetirial\lettersSound\Track 01.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\XML\dataFiles\lessons.xml">
+      <PackagePath>XML\dataFiles\lessons.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\XML\dataFiles\users.xml">
+      <PackagePath>XML\dataFiles\users.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\bin\Debug\abcSong.xaml">
+      <PackagePath>abcSong.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\bin\Debug\game_discoverThePicture.xaml">
+      <PackagePath>game_discoverThePicture.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\bin\Debug\howToWright.xaml">
+      <PackagePath>howToWright.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\bin\Debug\lessonMapPage.xaml">
+      <PackagePath>lessonMapPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\bin\Debug\lessonSummaryPage.xaml">
+      <PackagePath>lessonSummaryPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\bin\Debug\pictuerOfLetters.xaml">
+      <PackagePath>pictuerOfLetters.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\bin\Debug\Review.xaml">
+      <PackagePath>Review.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\bin\Debug\SplitPage1.xaml">
+      <PackagePath>SplitPage1.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\bin\Debug\workPage.xaml">
+      <PackagePath>workPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

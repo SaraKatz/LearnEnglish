@@ -1,0 +1,171 @@
+﻿<common:LayoutAwarePage
+    x:Name="pageRoot"
+    x:Class="English.workPage"
+    DataContext="{Binding DefaultViewModel, RelativeSource={RelativeSource Self}}"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:English"
+    xmlns:common="using:English.Common"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+    <Page.BottomAppBar>
+        <AppBar x:Name="GlobalAppBar" Padding="10,0,10,0" AutomationProperties.Name="Global App Bar">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="50*"/>
+                    <ColumnDefinition Width="50*"/>
+                </Grid.ColumnDefinitions>
+                <!--<StackPanel x:Name="LeftCommands" Orientation="Horizontal" Grid.Column="0" HorizontalAlignment="Left">-->
+                <!--<Button x:Name="Back"  AutomationProperties.Name="Back" Style="{StaticResource BackAppBarButtonStyle }" HorizontalAlignment="Left" Click="Back_Click"/>-->
+                <Button x:Name="toLesssonMap" AutomationProperties.Name="בחזרה למפת השיעורים" Style="{StaticResource MapAppBarButtonStyle }" HorizontalAlignment="Left" Click="toLesssonMap_Click"/>
+                <!--</StackPanel>
+                <StackPanel x:Name="RightCommands" Orientation="Horizontal" Grid.Column="1" HorizontalAlignment="Right">
+                </StackPanel>-->
+            </Grid>
+        </AppBar>
+    </Page.BottomAppBar>
+    <Page.Resources>
+        <!-- TODO: Delete this line if the key AppName is declared in App.xaml -->
+        <x:String x:Key="AppName">חזרה</x:String>
+    </Page.Resources>
+
+
+    <!--
+        This grid acts as a root panel for the page that defines two rows:
+        * Row 0 contains the back button and page title
+        * Row 1 contains the rest of the page layout
+    -->
+
+    <Grid x:Name="mainGrid" Style="{StaticResource LayoutRootStyle}" >
+        <Grid.Background>
+            <ImageBrush ImageSource="Assets/רקע קו למעלה.png"/>
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="170" />
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <!--<ComboBox Name="cmb_letter"  Grid.Row="1"  Grid.Column="0" HorizontalAlignment="Left" Margin="133,154,0,0" VerticalAlignment="Top" Width="120" Height="29"/>-->
+
+        <VisualStateManager.VisualStateGroups>
+
+            <!-- Visual states reflect the application's view state -->
+            <VisualStateGroup x:Name="ApplicationViewStates">
+                <VisualState x:Name="FullScreenLandscape"/>
+                <VisualState x:Name="Filled"/>
+
+                <!-- The entire page respects the narrower 100-pixel margin convention for portrait -->
+                <VisualState x:Name="FullScreenPortrait">
+                    <Storyboard>
+                        <ObjectAnimationUsingKeyFrames Storyboard.TargetName="backButton" Storyboard.TargetProperty="Style">
+                            <DiscreteObjectKeyFrame KeyTime="0" Value="{StaticResource PortraitBackButtonStyle}"/>
+                        </ObjectAnimationUsingKeyFrames>
+                    </Storyboard>
+                </VisualState>
+
+                <!-- The back button and title have different styles when snapped -->
+                <VisualState x:Name="Snapped">
+                    <Storyboard>
+                        <ObjectAnimationUsingKeyFrames Storyboard.TargetName="backButton" Storyboard.TargetProperty="Style">
+                            <DiscreteObjectKeyFrame KeyTime="0" Value="{StaticResource SnappedBackButtonStyle}"/>
+                        </ObjectAnimationUsingKeyFrames>
+                        <ObjectAnimationUsingKeyFrames Storyboard.TargetName="pageTitle" Storyboard.TargetProperty="Style">
+                            <DiscreteObjectKeyFrame KeyTime="0" Value="{StaticResource SnappedPageHeaderTextStyle}"/>
+                        </ObjectAnimationUsingKeyFrames>
+                    </Storyboard>
+                </VisualState>
+            </VisualStateGroup>
+        </VisualStateManager.VisualStateGroups>
+        <!-- Back button and page title -->
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="*"/>
+
+            </Grid.ColumnDefinitions>
+            <Button x:Name="backButton" Click="GoBack" IsEnabled="{Binding Frame.CanGoBack, ElementName=pageRoot}" Style="{StaticResource BackButtonStyle}" Margin="33,0,0,63"/>
+            <TextBlock x:Name="pageTitle" Grid.Column="1" Text="דף עבודה" Style="{StaticResource PageHeaderTextStyle}" Margin="0,0,-575,0" HorizontalAlignment="Right" Height="95" Width="355" Foreground="#DE04157C" FontSize="72" FontFamily="Arial Black" FontWeight="Bold"/>
+        </Grid>
+
+        <Rectangle Grid.Row="1" Grid.Column="0">
+            <Rectangle.Fill>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="White"/>
+                    <GradientStop Color="#FFF709D7" Offset="1"/>
+                </LinearGradientBrush>
+            </Rectangle.Fill>
+        </Rectangle>
+        <Rectangle Grid.Row="1" Grid.Column="1" >
+            <Rectangle.Fill>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="White"/>
+                    <GradientStop Color="#FF5555CB" Offset="1"/>
+                </LinearGradientBrush>
+            </Rectangle.Fill>
+        </Rectangle>
+        <Rectangle Grid.Row="1" Grid.Column="2" >
+            <Rectangle.Fill>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="White"/>
+                    <GradientStop Color="#FF89F1F1" Offset="1"/>
+                </LinearGradientBrush>
+            </Rectangle.Fill>
+        </Rectangle>
+        <TextBlock  HorizontalAlignment="Left" Height="96" Margin="40,34,0,0" Grid.Row="1" Grid.Column="0" TextWrapping="Wrap" Text="לחצו על אות גדולה ובחרו אות קטנה  מתאימה לה " VerticalAlignment="Top" Width="389" FontSize="36" TextAlignment="Right" Foreground="#FF1829D6"/>
+        <TextBlock   Grid.Column="1" HorizontalAlignment="Left" Height="96" Margin="30,34,0,0" Grid.Row="1" TextWrapping="Wrap" Text="בחרו מהרשימה אות קטנה מתאימה" VerticalAlignment="Top" Width="384" FontSize="36" TextAlignment="Right" Foreground="#FF2433CB" FontFamily="Gill Sans Ultra Bold Condensed"/>
+        <TextBlock Grid.Column="2" HorizontalAlignment="Left" Height="96" Margin="29,34,0,0" Grid.Row="1" TextWrapping="Wrap" Text="באיזו אות מתחילה התמונה" VerticalAlignment="Top" Width="398" FontSize="36" TextAlignment="Right" Foreground="#FF1E2FE0"/>
+        <Grid x:Name="Ex1" Grid.Row="1" Grid.Column="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="150"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="150"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+        </Grid>
+        
+        
+        <Grid Name="Ex2" Grid.Column="1" Grid.Row="1" Width="420">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="150"></RowDefinition>
+                <RowDefinition Height="150"></RowDefinition>
+                <RowDefinition Height="20"></RowDefinition>
+                <RowDefinition Height="50"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+        </Grid>
+         <!--<MediaElement Source="Assets/מפעל הפורמטים2237.wmv" Grid.Column="2" HorizontalAlignment="Left"  Margin="274,418,0,0" Grid.Row="1" VerticalAlignment="Top" />-->
+        <Border Visibility="Collapsed" Name="brd_pic" Grid.Column="2" Background="#FFFBFBFD" Margin="29,240,200,183" Grid.Row="1">
+            <Image Visibility="Collapsed" Name="Ex3_pic" Grid.Column="2" HorizontalAlignment="Center"  Height="145" Margin="13,20,3,10" Grid.Row="1" VerticalAlignment="Center"  Width="210"/>
+        </Border>
+        <TextBox Visibility="Collapsed" FontSize="50" Name="Ex3_ans" Grid.Column="2" HorizontalAlignment="Left" Height="60" Margin="299,264,0,0" Grid.Row="1" TextWrapping="Wrap"  VerticalAlignment="Top" Width="65" Background="#FFF9E9E9" FontFamily="Shonar Bangla" FontWeight="Bold" LostFocus="Ex3_ok_Click" />
+        <TextBlock Name="Ex1_fidback" TextAlignment="Center" HorizontalAlignment="Right" Height="76" Margin="0,512,110,10" Grid.Row="1" TextWrapping="Wrap"  Width="235" Foreground="#FFF7FBFB" VerticalAlignment="Center" FontSize="36" FontWeight="Bold"/>
+        <TextBlock Name="Ex2_fidback" Grid.Column="1" TextAlignment="Center" HorizontalAlignment="Left" Height="107" Margin="28,469,0,0" Grid.Row="1" TextWrapping="Wrap"  VerticalAlignment="Top" Width="396" Foreground="#FFFDFDFD" FontSize="36" FontWeight="Bold"/>
+        <TextBlock Name="Ex3_fidback"  Grid.Column="2" TextAlignment="Center" HorizontalAlignment="Left" Height="80" Margin="53,512,0,0" Grid.Row="1" TextWrapping="Wrap"  VerticalAlignment="Top" Width="162" Foreground="#FFFFFDFE" FontSize="36" FontWeight="Bold" RenderTransformOrigin="0.444,1.75"/>
+        <Button Name="ex1Start" Content="התחל" Grid.Column="0" HorizontalAlignment="Left" Background="DarkBlue" Height="46" Margin="10,130,0,0" Grid.Row="1" VerticalAlignment="Top" Width="88" Click="ex1_start" />
+        <Button Name="ex2Start" Content="התחל" Grid.Column="1" HorizontalAlignment="Left" Background="DarkBlue" Height="46" Margin="10,130,0,0" Grid.Row="1" VerticalAlignment="Top" Width="88" Click="start_ex2"/>
+        <Button Name="ex3Start" Content="התחל" Grid.Column="2" HorizontalAlignment="Left" Background="DarkBlue" Height="46" Margin="10,130,0,0" Grid.Row="1" VerticalAlignment="Top" Width="88" Click="start_ex3"/>
+
+    </Grid>
+</common:LayoutAwarePage>

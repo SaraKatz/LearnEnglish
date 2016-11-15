@@ -1,0 +1,195 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>PC-</Machine>
+    <WindowsUser>One</WindowsUser>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\One\Desktop\English\English\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\One\Desktop\English\English\bin\Release\English.exe">
+      <PackagePath>English.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\One\Desktop\English\English\bin\Release\English.pdb">
+      <PackagePath>English.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\One\Desktop\English\English\Assets\119471_%2896%29.gif">
+      <PackagePath>Assets\119471_%2896%29.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\One\Desktop\English\English\Assets\2235.gif">
+      <PackagePath>Assets\2235.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\One\Desktop\English\English\Assets\2237.gif">
+      <PackagePath>Assets\2237.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\One\Desktop\English\English\Assets\900.gif">
+      <PackagePath>Assets\900.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\One\Desktop\English\English\Assets\904.gif">
+      <PackagePath>Assets\904.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\One\Desktop\English\English\Assets\1ללא שם.png">
+      <PackagePath>Assets\1ללא שם.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\One\Desktop\English\English\Assets\1מיקי.png">
+      <PackagePath>Assets\1מיקי.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\One\Desktop\English\English\Assets\images4.png">
+      <PackagePath>Assets\images4.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\One\Desktop\English\English\Assets\images1.png">
+      <PackagePath>Assets\images1.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\One\Desktop\English\English\Assets\images2.png">
+      <PackagePath>Assets\images2.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\One\Desktop\English\English\Assets\images3.png">
+      <PackagePath>Assets\images3.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\One\Desktop\English\English\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\One\Desktop\English\English\Assets\מיקי.png">
+      <PackagePath>Assets\מיקי.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\One\Desktop\English\English\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\One\Desktop\English\English\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\One\Desktop\English\English\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\One\Desktop\English\English\Assets\untitled.png">
+      <PackagePath>Assets\untitled.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\One\Desktop\English\English\Assets\רקע אדום.png">
+      <PackagePath>Assets\רקע אדום.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\One\Desktop\English\English\Assets\רקע דף.png">
+      <PackagePath>Assets\רקע דף.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\One\Desktop\English\English\Assets\רקע קו למעלה.png">
+      <PackagePath>Assets\רקע קו למעלה.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\One\Desktop\English\English\Assets\2237.wmv">
+      <PackagePath>Assets\2237.wmv</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\One\Desktop\English\English\Assets\900.wmv">
+      <PackagePath>Assets\900.wmv</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\One\Desktop\English\English\Assets\904.wmv">
+      <PackagePath>Assets\904.wmv</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\One\Desktop\English\English\Assets\מפעל הפורמטים2237.wmv">
+      <PackagePath>Assets\מפעל הפורמטים2237.wmv</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\One\Desktop\English\English\Assets\apple.jpg">
+      <PackagePath>Assets\apple.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\One\Desktop\English\English\Assets\images.jpg">
+      <PackagePath>Assets\images.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\One\Desktop\English\English\Assets\images1.jpg">
+      <PackagePath>Assets\images1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\One\Desktop\English\English\Assets\imagesCAB6GPAE.jpg">
+      <PackagePath>Assets\imagesCAB6GPAE.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\One\Desktop\English\English\Assets\imagesCAK6WRKR.jpg">
+      <PackagePath>Assets\imagesCAK6WRKR.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\One\Desktop\English\English\Assets\imagesCAQG90OK.jpg">
+      <PackagePath>Assets\imagesCAQG90OK.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\One\Desktop\English\English\Assets\lessonPic.jpg">
+      <PackagePath>Assets\lessonPic.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\One\Desktop\English\English\Assets\IMG_0288.JPG">
+      <PackagePath>Assets\IMG_0288.JPG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\One\Desktop\English\English\EnglishLessonsMetirial\lettersPictuers\shutterstock_10778716.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\shutterstock_10778716.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\One\Desktop\English\English\EnglishLessonsMetirial\lettersPictuers\shutterstock_35564782.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\shutterstock_35564782.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\One\Desktop\English\English\EnglishLessonsMetirial\lettersPictuers\computer.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\computer.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\One\Desktop\English\English\Assets\ילד 2.jpg">
+      <PackagePath>Assets\ילד 2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\One\Desktop\English\English\Assets\קו.jpg">
+      <PackagePath>Assets\קו.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\One\Desktop\English\English\EnglishLessonsMetirial\lettersPictuers\shutterstock_24793999.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\shutterstock_24793999.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\One\Desktop\English\English\EnglishLessonsMetirial\lettersPictuers\shutterstock_41149876.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\shutterstock_41149876.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\One\Desktop\English\English\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\One\Desktop\English\English\EnglishLessonsMetirial\LettersClip\vid-20130806-wa0003.avi">
+      <PackagePath>EnglishLessonsMetirial\LettersClip\vid-20130806-wa0003.avi</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\One\Desktop\English\English\EnglishLessonsMetirial\LettersClip\כל החומר בפלאש.swf">
+      <PackagePath>EnglishLessonsMetirial\LettersClip\כל החומר בפלאש.swf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\One\Desktop\English\English\XML\dataFiles\lessons.xml">
+      <PackagePath>XML\dataFiles\lessons.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\One\Desktop\English\English\XML\dataFiles\users.xml">
+      <PackagePath>XML\dataFiles\users.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\One\Desktop\English\English\bin\Release\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\One\Desktop\English\English\bin\Release\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\One\Desktop\English\English\bin\Release\game_discoverThePicture.xaml">
+      <PackagePath>game_discoverThePicture.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\One\Desktop\English\English\bin\Release\howToWright.xaml">
+      <PackagePath>howToWright.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\One\Desktop\English\English\bin\Release\lessonMapPage.xaml">
+      <PackagePath>lessonMapPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\One\Desktop\English\English\bin\Release\lessonSummaryPage.xaml">
+      <PackagePath>lessonSummaryPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\One\Desktop\English\English\bin\Release\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\One\Desktop\English\English\bin\Release\pictuerOfLetters.xaml">
+      <PackagePath>pictuerOfLetters.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\One\Desktop\English\English\bin\Release\SplitPage1.xaml">
+      <PackagePath>SplitPage1.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\One\Desktop\English\English\bin\Release\workPage.xaml">
+      <PackagePath>workPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\One\Desktop\English\English\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

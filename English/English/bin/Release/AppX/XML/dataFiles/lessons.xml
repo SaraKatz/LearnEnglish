@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<EnglishLesson xmlns="http://tempuri.org/English_lesons.xsd">
+  <lesson lessonCode="1">
+    <lettersForLesson lessonCode="1">
+       <letter lettersBigShape="A" lettersSmallShape="a">
+        <clip>E:\המסמכים שלי\תכנות\finalProject\English\English\EnglishLessonsData\LettersClip\כל החומר בפלאש.swf</clip>
+        <sound></sound>
+        <sound_letterExplanation></sound_letterExplanation>
+      </letter>
+      <letter lettersBigShape="O" lettersSmallShape="o">
+        <clip>E:\המסמכים שלי\תכנות\finalProject\English\English\EnglishLessonsData\LettersClip\כל החומר בפלאש.swf</clip>
+        <sound></sound>
+        <sound_letterExplanation></sound_letterExplanation>
+      </letter>
+    </lettersForLesson>
+    <wordsForLetter>
+        <word lettersBigShape="A" lettersSmallShape="a" word="Apple">
+        <wordPictuer>ms-appx:Assets/apple.jpg</wordPictuer>
+        <wordSound></wordSound>
+      </word>
+      <word lettersBigShape="A" lettersSmallShape="a" word="Ambulance">
+        <wordPictuer>ms-appx:/Assets/IMG_0288.JPG</wordPictuer>
+        <wordSound></wordSound>
+      </word>
+    </wordsForLetter>
+    <wordsForLetter>
+      <word lettersBigShape="O" lettersSmallShape="o" word="olive">
+        <wordPictuer>ms-appx:EnglishLessonsMetirial/lettersPictuers/shutterstock_10778716.jpg</wordPictuer>
+        <wordSound></wordSound>
+      </word>
+    </wordsForLetter>
+    <wordsForLetter>
+      <word lettersBigShape="O" lettersSmallShape="o" word="olive">
+        <wordPictuer>ms-appx:/Assets/IMG_0288.JPG</wordPictuer>
+        <wordSound></wordSound>
+      </word>
+    </wordsForLetter>
+    <sentencesForLesson lessonCode="1">
+      <sentece sentence="Dan is here">
+        <senteceSoundHebrew></senteceSoundHebrew>
+        <senteceSoundEnglish></senteceSoundEnglish>
+        <sentecePictuer></sentecePictuer>
+      </sentece>
+      <sentece sentence="Moshe is here">
+        <senteceSoundHebrew></senteceSoundHebrew>
+        <senteceSoundEnglish></senteceSoundEnglish>
+        <sentecePictuer></sentecePictuer>
+      </sentece>
+      <sentece sentence="Dan likes Moshe">
+        <senteceSoundHebrew></senteceSoundHebrew>
+        <senteceSoundEnglish></senteceSoundEnglish>
+        <sentecePictuer></sentecePictuer>
+      </sentece>
+      <sentece sentence="Dan has a ball">
+        <senteceSoundHebrew></senteceSoundHebrew>
+        <senteceSoundEnglish></senteceSoundEnglish>
+        <sentecePictuer></sentecePictuer>
+      </sentece>
+    </sentencesForLesson>
+  </lesson>
+  
+<!--/////////////////////////////שיעור מס' 2\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
+  <lesson lessonCode="2">
+    <lettersForLesson lessonCode="2">
+      <letter lettersBigShape="B" lettersSmallShape="b">
+        <clip>E:\המסמכים שלי\תכנות\finalProject\English\English\EnglishLessonsData\LettersClip\כל החומר בפלאש.swf</clip>
+        <sound></sound>
+        <sound_letterExplanation></sound_letterExplanation>
+      </letter>
+      <letter lettersBigShape="C" lettersSmallShape="c">
+        <clip>E:\המסמכים שלי\תכנות\finalProject\English\English\EnglishLessonsData\LettersClip\כל החומר בפלאש.swf</clip>
+        <sound></sound>
+        <sound_letterExplanation></sound_letterExplanation>
+      </letter>
+    </lettersForLesson>
+    <wordsForLetter>
+      <word lettersBigShape="B" lettersSmallShape="b" word="Banana">
+        <wordPictuer>ms-appx:EnglishLessonsMetirial/lettersPictuers/shutterstock_41149876.jpg</wordPictuer>
+        <wordSound></wordSound>
+      </word>
+    <word lettersBigShape="B" lettersSmallShape="b" word="Book">
+        <wordPictuer>ms-appx:EnglishLessonsMetirial/lettersPictuers/shutterstock_24793999.jpg</wordPictuer>
+        <wordSound></wordSound>
+      </word>
+    </wordsForLetter>
+    <wordsForLetter>
+      <word lettersBigShape="C" lettersSmallShape="c" word="cup">
+        <wordPictuer>ms-appx:EnglishLessonsMetirial/lettersPictuers/shutterstock_35564782.jpg</wordPictuer>
+        <wordSound></wordSound>
+      </word>
+      <word lettersBigShape="C" lettersSmallShape="c" word="computer">
+        <wordPictuer>ms-appx:EnglishLessonsMetirial/lettersPictuers/computer.jpg</wordPictuer>
+        <wordSound></wordSound>
+      </word>
+    </wordsForLetter>
+    <sentencesForLesson lessonCode="2">
+      <sentece sentence="Dan is here">
+        <senteceSoundHebrew></senteceSoundHebrew>
+        <senteceSoundEnglish></senteceSoundEnglish>
+        <sentecePictuer></sentecePictuer>
+      </sentece>
+      <sentece sentence="Moshe is here">
+        <senteceSoundHebrew></senteceSoundHebrew>
+        <senteceSoundEnglish></senteceSoundEnglish>
+        <sentecePictuer></sentecePictuer>
+      </sentece>
+      <sentece sentence="Dan likes Moshe">
+        <senteceSoundHebrew></senteceSoundHebrew>
+        <senteceSoundEnglish></senteceSoundEnglish>
+        <sentecePictuer></sentecePictuer>
+      </sentece>
+      <sentece sentence="Dan has a ball">
+        <senteceSoundHebrew></senteceSoundHebrew>
+        <senteceSoundEnglish></senteceSoundEnglish>
+        <sentecePictuer></sentecePictuer>
+      </sentece>
+    </sentencesForLesson>
+  </lesson>
+</EnglishLesson>

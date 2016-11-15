@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="English_lesons"
+    targetNamespace="http://tempuri.org/English_lesons.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/English_lesons.xsd"
+    xmlns:mstns="http://tempuri.org/English_lesons.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+  <xs:element name="EnglishLesson">
+    <xs:complexType >
+      <xs:sequence>  <xs:element name="lesson" maxOccurs="unbounded">
+    <xs:complexType >
+      <xs:sequence>
+        <!--אותיות לשיעור -->
+        <xs:element name="lettersForLesson">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="letter"  maxOccurs="unbounded">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="clipBig" type="xs:anyURI"></xs:element>
+                    <xs:element name="clipSmall" type="xs:anyURI"></xs:element>
+                     <xs:element name="sound" type="xs:anyURI"></xs:element>
+                    <xs:element name="sound_BigLetterExplanation" type="xs:anyURI"></xs:element>
+                    <xs:element name="sound_SmallLetterExplanation" type="xs:anyURI"></xs:element>
+                  </xs:sequence>
+                  <xs:attribute name="lettersBigShape" type="xs:string" use="required"></xs:attribute>
+                  <xs:attribute name="lettersSmallShape" type="xs:string" use="required"></xs:attribute>
+                  <xs:attribute name="hebrewLetter" type="xs:string" use="required"></xs:attribute>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+            <xs:attribute name="lessonCode" type="xs:int" use="required" ></xs:attribute> 
+          </xs:complexType>
+        </xs:element>
+        <!--מילים לאותיות-->
+        <xs:element name="wordsForLetter" maxOccurs="unbounded">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="word" maxOccurs="unbounded">
+                <xs:complexType>
+                  <xs:sequence>
+                     <xs:element name="wordPictuer" type="xs:anyURI"></xs:element>
+                     <xs:element name="wordSound" type="xs:anyURI"></xs:element>
+                    </xs:sequence>
+                  <xs:attribute name="word" type="xs:string" use="required" ></xs:attribute>
+                  <xs:attribute name="lettersBigShape" type="xs:string" use="required"></xs:attribute>
+                  <xs:attribute name="lettersSmallShape" type="xs:string" use="required"></xs:attribute>
+                </xs:complexType>
+              </xs:element> 
+            </xs:sequence>
+          </xs:complexType>   
+        </xs:element>
+       <!--משפטים לשיעור-->
+        <xs:element name="sentencesForLesson">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="sentece" maxOccurs="unbounded">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="senteceSoundHebrew" type="xs:string"></xs:element>
+                    <xs:element name="senteceSoundEnglish" type="xs:string"></xs:element>
+                    <xs:element name="sentecePictuer" type="xs:string"></xs:element>
+                  </xs:sequence>
+                  <xs:attribute name="sentence" type="xs:string" use="required" ></xs:attribute>
+                </xs:complexType>
+             
+              </xs:element>
+            </xs:sequence>
+            <xs:attribute name="lessonCode" type="xs:int" use="required" ></xs:attribute>
+          </xs:complexType>
+         
+        </xs:element>
+      </xs:sequence>
+      <xs:attribute name="lessonCode" type="xs:string" use="required" ></xs:attribute>
+    </xs:complexType>
+  </xs:element>
+      </xs:sequence>
+      </xs:complexType>
+  </xs:element>
+</xs:schema>
