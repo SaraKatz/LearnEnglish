@@ -46,13 +46,13 @@ namespace English
             howToWrightSound.Visibility = Windows.UI.Xaml.Visibility.Collapsed;
 
             l = navigatingLesson as Lesson;
-            pageTitle.Foreground = new SolidColorBrush(Colors.DarkBlue);
+            //pageTitle.Foreground = new SolidColorBrush(Colors.DarkBlue);
             pageTitle.HorizontalAlignment = Windows.UI.Xaml.HorizontalAlignment.Right;
             if (l.selectedLetter.Equals("a"))
             {
                 pageTitle.FontFamily = new FontFamily("Comic Sans MS");
             }
-            pageTitle.Text = l.selectedLetter + " -איך כותבים את האות";
+            pageTitle.Text = l.selectedLetter;
             foreach (var item in l.lettersForLesson)
             {
                 if (item.LettersBigShape.Equals(l.selectedLetter))
@@ -121,6 +121,7 @@ namespace English
         {
             howToWrightClip.Play();
             howToWrightSound.Play();
+            mini.Play();
         }
 
         private void toLesssonMap_Click(object sender, RoutedEventArgs e)

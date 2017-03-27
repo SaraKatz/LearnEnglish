@@ -4,7 +4,7 @@
   <Properties>
     <DisplayName>English</DisplayName>
     <PublisherDisplayName>One</PublisherDisplayName>
-    <Logo>Assets\StoreLogo.png</Logo>
+    <Logo>Assets\backgrounds\אריח50.png</Logo>
   </Properties>
   <Prerequisites>
     <OSMinVersion>6.2.1</OSMinVersion>
@@ -15,9 +15,9 @@
   </Resources>
   <Applications>
     <Application Id="App" Executable="$targetnametoken$.exe" EntryPoint="English.App">
-      <VisualElements DisplayName="English" Logo="Assets\מיקי אריח.png" SmallLogo="Assets\images1.png" Description="English" ForegroundText="dark" BackgroundColor="#464646">
-        <DefaultTile ShowName="allLogos" WideLogo="Assets\images3.png" />
-        <SplashScreen Image="Assets\1מיקי.png" BackgroundColor="black" />
+      <VisualElements DisplayName="learn English" Logo="Assets\backgrounds\אריח 150-150.png" SmallLogo="Assets\backgrounds\אריח30.png" Description="English" ForegroundText="dark" BackgroundColor="#464646">
+        <DefaultTile ShowName="allLogos" WideLogo="Assets\backgrounds\אריח 150-310.png" />
+        <SplashScreen Image="Assets\backgrounds\אריח פתיחה חדש222222.png" BackgroundColor="white" />
       </VisualElements>
     </Application>
   </Applications>

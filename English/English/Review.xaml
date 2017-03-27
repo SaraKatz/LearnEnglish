@@ -18,11 +18,14 @@
                 </Grid.ColumnDefinitions>
                 <StackPanel x:Name="LeftCommands" Orientation="Horizontal" Grid.Column="0" HorizontalAlignment="Left">
                     <Button x:Name="toLesssonMap" AutomationProperties.Name="בחזרה למפת השיעורים" Style="{StaticResource MapAppBarButtonStyle }" HorizontalAlignment="Left" Click="toLesssonMap_Click"/>
-                    <Button x:Name="learnSmallLetter" AutomationProperties.Name="לימוד אות קטנה" Style="{StaticResource StarAppBarButtonStyle }" Height="84" VerticalAlignment="Bottom" Click="learnSmallLetter_Click" Margin="0,0,0,16"/>
-                    <Button x:Name="learnNextlLetter" AutomationProperties.Name="לאות הבאה" Style="{StaticResource FontAppBarButtonStyle }" Width="100" Height="84" VerticalAlignment="Bottom" Click="learnNextlLetter_Click" Margin="0,0,0,16" />
-      <Border />              <Button x:Name="pictuers" AutomationProperties.Name="תמונות האות" Style="{StaticResource PicturesAppBarButtonStyle }" Height="84" VerticalAlignment="Bottom" Click="pictuers_Click" Width="120" RenderTransformOrigin="1,0.571" Margin="0,0,0,14"  />
+                    <Button x:Name="learnSmallLetter" AutomationProperties.Name="לימוד אות קטנה" Style="{StaticResource FontAppBarButtonStyle }" Height="84" VerticalAlignment="Bottom" Click="learnSmallLetter_Click" Margin="0,0,0,16"/>
+                    <!--<Button x:Name="learnNextlLetter" AutomationProperties.Name="לאות הבאה" Style="{StaticResource FontAppBarButtonStyle }" Width="100" Height="84" VerticalAlignment="Bottom" Click="learnNextlLetter_Click" Margin="0,0,0,16" />-->
+                    <Border />
+                    <Button x:Name="pictuers" AutomationProperties.Name="תמונות האות" Style="{StaticResource PicturesAppBarButtonStyle }" Height="84" VerticalAlignment="Bottom" Click="pictuers_Click" Width="120" RenderTransformOrigin="1,0.571" Margin="0,0,0,14"  />
                 </StackPanel>
                 <StackPanel x:Name="RightCommands" Orientation="Horizontal" Grid.Column="1" HorizontalAlignment="Right">
+
+
                     <Button x:Name="earase" AutomationProperties.Name="מחק" Style="{StaticResource  DeleteAppBarButtonStyle}" HorizontalAlignment="Left" Click="earase_Click" />
                     <Button x:Name="wright"  AutomationProperties.Name="כתוב" Style="{StaticResource EditAppBarButtonStyle  }" HorizontalAlignment="Left" Click="wright_Click" />
                     <Button x:Name="color"  AutomationProperties.Name="צבע" Style="{StaticResource FontColorAppBarButtonStyle  }" HorizontalAlignment="Left" Click="color_Click"  />
@@ -43,7 +46,10 @@
         * Row 0 contains the back button and page title
         * Row 1 contains the rest of the page layout
     -->
-    <Grid Style="{StaticResource LayoutRootStyle}" Background="Beige">
+    <Grid Style="{StaticResource LayoutRootStyle}" Margin="0,8,0,-8">
+        <Grid.Background>
+            <ImageBrush ImageSource="Assets/backgrounds/חזרה.jpg"/>
+        </Grid.Background>
         <Grid.RowDefinitions>
             <RowDefinition Height="140"/>
             <RowDefinition Height="*"/>
@@ -60,21 +66,47 @@
                 <ColumnDefinition Width="*"/>
             </Grid.ColumnDefinitions>
             <Button x:Name="backButton" Click="GoBack" IsEnabled="{Binding Frame.CanGoBack, ElementName=pageRoot}" Style="{StaticResource BackButtonStyle}"/>
-            <TextBlock Text="כתוב עם האצבע או עם העכבר את האות שלמדנו " Margin="96,56,-629,-56" Foreground="#FFEA0C67" FontSize="56" FontWeight="Bold" Grid.ColumnSpan="2"/>
+            <!--<TextBlock Text="כתוב עם האצבע או עם העכבר את האות שלמדנו " Margin="96,56,-629,-56" Foreground="#FFEA0C67" FontSize="56" FontWeight="Bold" Grid.ColumnSpan="2"/>-->
         </Grid>
-       
-        
-         <!--<FlipView HorizontalAlignment="Left" Margin="200,415,0,0" Grid.Row="1" VerticalAlignment="Top" Grid.Column="1"/>-->
-       
-        <Border BorderThickness="25"  Grid.ColumnSpan="2" HorizontalAlignment="Left" Height="554" Grid.Row="1"  VerticalAlignment="Top" Width="1025" BorderBrush="#FF724917" Background="White" Grid.Column="1" >
-         <Rectangle Margin="10,-10,15,10" />
-        </Border>
-        <Canvas Name="myCanvas" Grid.Row="1" Grid.Column="2" Background="OliveDrab" Margin="14,24,184,98"/>
-        
-        <TextBlock Name="letterToWright" FontSize="450" Grid.Row="1"   Foreground="Black" FontFamily="Copperplate Gothic Bold" Grid.Column="1"  TextAlignment="Center"/>
-        <MediaElement Source="Assets/2237.wmv" Margin="381,396,7,102" Grid.Row="1" IsLooping="True" Grid.Column="1"/>
-        <Rectangle HorizontalAlignment="Left" Height="502" Margin="20,24,0,0" Grid.Row="1" VerticalAlignment="Top" Width="473" Grid.Column="1">
-        </Rectangle>
+
+
+        <!--<FlipView HorizontalAlignment="Left" Margin="200,415,0,0" Grid.Row="1" VerticalAlignment="Top" Grid.Column="1"/>-->
+
+        <!--<Border BorderThickness="25"  Grid.ColumnSpan="2" HorizontalAlignment="Left" Height="554" Grid.Row="1"  VerticalAlignment="Top" Width="1025" BorderBrush="#FF724917" Background="White" Grid.Column="1" >
+            <Rectangle Margin="10,-10,15,10" />
+        </Border>Visibility="Collapsed"  -->
+        <Canvas Name="myCanvas" Grid.Row="1" Grid.Column="2"  Margin="52,180,277,102" Background="White"/>
+
+        <TextBlock Name="letterToWright" FontSize="350" VerticalAlignment="Top" Height="521" Margin="140,43,0,0" Width="363"  Foreground="Black" FontFamily="Copperplate Gothic Bold" Grid.Column="1"  TextAlignment="Center" Grid.Row="1" />
+        <!--<MediaElement Source="Assets/2237.wmv" Margin="381,396,7,102" Grid.Row="1" IsLooping="True" Grid.Column="1"/>-->
+        <!--<Rectangle HorizontalAlignment="Left"  Height="435" Margin="140,91,0,0" Grid.Row="1" VerticalAlignment="Top" Width="363" Grid.Column="1">
+        </Rectangle>-->
+        <Grid Name="colorGrid" Visibility="Collapsed" Grid.Column="2" HorizontalAlignment="Left" Height="350" Margin="632,127,0,0" Grid.Row="1" VerticalAlignment="Top" Width="41">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+
+            </Grid.RowDefinitions>
+            <!--<Button Name="RectangleColor1" Grid.Row="0" Background="BlueViolet" Click="RectangleColor1_Click" ></Button>-->
+            <Rectangle Name="RectangleColor1" Grid.Row="0" Fill="BlueViolet" Tapped="RectangleColor1_Tapped" Tag="BlueViolet"/>
+            <Rectangle Name="RectangleColor2" Grid.Row="1" Fill="Red" Tapped="RectangleColor2_Tapped"/>
+            <Rectangle Name="RectangleColor3" Grid.Row="2" Fill="Yellow" Tapped="RectangleColor3_Tapped"/>
+            <Rectangle Name="RectangleColor4" Grid.Row="3" Fill="DeepPink" Tapped="RectangleColor4_Tapped"></Rectangle>
+            <Rectangle Name="RectangleColor5" Grid.Row="4" Fill="GreenYellow" Tapped="RectangleColor5_Tapped"/>
+            <Rectangle Name="RectangleColor6" Grid.Row="5" Fill="Purple" Tapped="RectangleColor6_Tapped"/>
+            <Rectangle Name="RectangleColor7" Grid.Row="6" Fill="Orange" Tapped="RectangleColor7_Tapped"/>
+            <Rectangle Name="RectangleColor8" Grid.Row="7" Fill="Turquoise" Tapped="RectangleColor8_Tapped"></Rectangle>
+            <Rectangle Name="RectangleColor9" Grid.Row="8" Fill="Gray" Tapped="RectangleColor9_Tapped"/>
+
+        </Grid>
+
         <VisualStateManager.VisualStateGroups>
 
             <!-- Visual states reflect the application's view state #FF4A7424-->

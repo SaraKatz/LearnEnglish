@@ -17,9 +17,13 @@
                     <ColumnDefinition/>
                 </Grid.ColumnDefinitions>
                 <!--<StackPanel x:Name="LeftCommands" Orientation="Horizontal" Grid.Column="0" HorizontalAlignment="Left">-->
-                <Button x:Name="Back"  AutomationProperties.Name="למשחק מצאו את האותיות" Style="{StaticResource BackAppBarButtonStyle }" HorizontalAlignment="Left" Click="Button_Click_2"  Margin="100,0,0,0"/>
-                <Button x:Name="toLesssonMap" AutomationProperties.Name="בחזרה למפת השיעורים" Style="{StaticResource MapAppBarButtonStyle }" HorizontalAlignment="Left" Click="toLesssonMap_Click" Margin="-7,0,0,0"/>
-                <Button x:Name="toLesssonMap1" AutomationProperties.Name="לדף עבודה" Style="{StaticResource DocumentAppBarButtonStyle }" HorizontalAlignment="Left" Click="Button_Click_1" Margin="201,0,0,0"/>
+
+
+                <Button x:Name="learnNextlLetter" AutomationProperties.Name="לאות הבאה" Style="{StaticResource FontAppBarButtonStyle }" Width="100" Height="84" VerticalAlignment="Bottom" Click="learnNextlLetter_Click" Margin="100,0,0,12" />
+
+                <Button x:Name="toGame"  AutomationProperties.Name="למשחק מצאו את האותיות" Style="{StaticResource StarAppBarButtonStyle }" HorizontalAlignment="Left" Click="Button_Click_2"  Margin="300,0,0,0"/>
+                <Button x:Name="toLesssonMap" AutomationProperties.Name="חזרה למפת השיעורים" Style="{StaticResource MapAppBarButtonStyle }" HorizontalAlignment="Left" Click="toLesssonMap_Click" Margin="-3,0,0,0"/>
+                <Button x:Name="toWorkPage" AutomationProperties.Name="לדף עבודה" Style="{StaticResource  PageAppBarButtonStyle}" HorizontalAlignment="Left" Click="Button_Click_1" Margin="201,0,0,0"/>
                 <!--</StackPanel>
                 <StackPanel x:Name="RightCommands" Orientation="Horizontal" Grid.Column="1" HorizontalAlignment="Right">
                 </StackPanel>-->
@@ -31,6 +35,9 @@
         <!-- TODO: Delete this line if the key AppName is declared in App.xaml -->
         <x:String x:Key="AppName">תמונות של האות</x:String>
     </Page.Resources>
+    <common:LayoutAwarePage.Background>
+        <ImageBrush/>
+    </common:LayoutAwarePage.Background>
 
     <!--
         This grid acts as a root panel for the page that defines two rows:
@@ -39,7 +46,7 @@
     -->
     <Grid Style="{StaticResource LayoutRootStyle}">
         <Grid.Background>
-            <ImageBrush ImageSource="Assets/רקע דף.png"/>
+            <ImageBrush ImageSource="Assets/backgrounds/תמונות של האות.jpg"/>
         </Grid.Background>
         <Grid.RowDefinitions>
             <RowDefinition Height="140"/>
@@ -52,15 +59,13 @@
                 <ColumnDefinition Width="Auto"/>
                 <ColumnDefinition Width="*"/>
             </Grid.ColumnDefinitions>
-    <!--<Button Name="backToManu" Content="חזרה לתפריט הראשי" HorizontalAlignment="Left" Margin="540,545,0,0" Grid.Row="1" VerticalAlignment="Top" Click="backToManu"/>
-        <Button Name="workPage" Content="דף חזרה" HorizontalAlignment="Left" Margin="375,545,0,0" Grid.Row="1" VerticalAlignment="Top" RenderTransformOrigin="0.09,-0.327" Click="workPage"/>-->        <Button x:Name="backButton" Click="GoBack" IsEnabled="{Binding Frame.CanGoBack, ElementName=pageRoot}" Style="{StaticResource BackButtonStyle}"/>
-            <TextBlock x:Name="pageTitle" Grid.Column="1" Text="{StaticResource AppName}" Style="{StaticResource PageHeaderTextStyle}" Foreground="#DE051578" HorizontalAlignment="Right" Margin="0,0,200,45" FontWeight="Bold"/>
+            <!--<Button Name="backToManu" Content="חזרה לתפריט הראשי" HorizontalAlignment="Left" Margin="540,545,0,0" Grid.Row="1" VerticalAlignment="Top" Click="backToManu"/>
+        <Button Name="workPage" Content="דף חזרה" HorizontalAlignment="Left" Margin="375,545,0,0" Grid.Row="1" VerticalAlignment="Top" RenderTransformOrigin="0.09,-0.327" Click="workPage"/>-->
+            <Button x:Name="backButton" Click="GoBack" IsEnabled="{Binding Frame.CanGoBack, ElementName=pageRoot}" Style="{StaticResource BackButtonStyle}"/>
             <StackPanel Name="imagePanel" Grid.Row="1" Orientation="Horizontal"/>
+            <TextBlock Name="tb_letter" Grid.Column="1" TextAlignment="Center" HorizontalAlignment="Left" Height="165" Margin="475,38,0,-63" TextWrapping="Wrap"  VerticalAlignment="Top" Width="110" FontFamily="Bodoni MT Black" FontWeight="Bold" Foreground="#FF060606" FontSize="120"/>
         </Grid>
-      
-        <Button Name="btn_workPage" Content="לדף עבודה" HorizontalAlignment="Left" Margin="97,577,0,0" Grid.Row="1" VerticalAlignment="Top" Click="Button_Click_1"/>
-        <Button Name="btn_game" Content="למשחק מצאו את האותיות" HorizontalAlignment="Left" Margin="225,577,0,0" Grid.Row="1" VerticalAlignment="Top" Click="Button_Click_2"/>
-        <Grid Name="Picture_grid" HorizontalAlignment="Left" Height="385" Margin="280,40,0,0" Grid.Row="1" VerticalAlignment="Top" Width="475">
+        <!--<Grid Name="Picture_grid" HorizontalAlignment="Left" Height="385" Margin="364,40,0,0" Grid.Row="1" VerticalAlignment="Top" Width="475">
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="150"></ColumnDefinition>
                 <ColumnDefinition Width="150"></ColumnDefinition>
@@ -72,7 +77,21 @@
                 <RowDefinition></RowDefinition>
                 <RowDefinition></RowDefinition>
             </Grid.RowDefinitions>
-        </Grid>
+        </Grid>-->
+        <TextBlock Name="tb_Word1" TextAlignment="Center" HorizontalAlignment="Left"  Margin="288,130,0,0" Grid.Row="1" TextWrapping="Wrap"  VerticalAlignment="Top" Height="50" Width="278" Foreground="#FF060606" FontSize="35" FontFamily="Buxton Sketch"/>
+        <TextBlock Name="tb_Word2" TextAlignment="Center" HorizontalAlignment="Left" Margin="129,276,0,0" Grid.Row="1" TextWrapping="Wrap"  VerticalAlignment="Top" Height="124" Width="286"  Foreground="#FF060606" FontSize="35" FontFamily="Buxton Sketch"/>
+        <TextBlock Name="tb_Word3" TextAlignment="Center" HorizontalAlignment="Left" Margin="339,442,0,0" Grid.Row="1" TextWrapping="Wrap"  VerticalAlignment="Top" Height="50" Width="278"  Foreground="#FF060606" FontSize="35" FontFamily="Buxton Sketch"/>
+        <TextBlock Name="tb_Word4" TextAlignment="Center" HorizontalAlignment="Left" Margin="744,280,0,0" Grid.Row="1" TextWrapping="Wrap"  VerticalAlignment="Top" Height="50" Width="278" Foreground="#FF060606" FontSize="35" FontFamily="Buxton Sketch"/>
+
+        <Image Name="img_Word1" HorizontalAlignment="Left" Height="105" Margin="685,105,0,0" Grid.Row="1" VerticalAlignment="Top" Width="135"/>
+        <Image Name="img_Word2" HorizontalAlignment="Left" Height="102" Margin="528,260,0,0" Grid.Row="1" VerticalAlignment="Top" Width="130"/>
+        <Image Name="img_Word3" HorizontalAlignment="Left" Height="105" Margin="725,420,0,0" Grid.Row="1" VerticalAlignment="Top" Width="140"/>
+        <Image Name="img_Word4" HorizontalAlignment="Left" Height="102" Margin="1138,260,0,0" Grid.Row="1" VerticalAlignment="Top" Width="135"/>
+
+        <MediaElement Visibility="Collapsed" Name="mdel_Word1" HorizontalAlignment="Left" Height="40" Margin="225,130,0,0" Grid.Row="1" VerticalAlignment="Top" Width="88"/>
+        <MediaElement Visibility="Collapsed" Name="mdel_Word2" HorizontalAlignment="Left" Height="40" Margin="225,452,0,0" Grid.Row="1" VerticalAlignment="Top" Width="88"/>
+        <MediaElement Visibility="Collapsed" Name="mdel_Word3" HorizontalAlignment="Left" Height="40" Margin="744,335,0,0" Grid.Row="1" VerticalAlignment="Top" Width="88"/>
+        <MediaElement Visibility="Collapsed" Name="mdel_Word4" HorizontalAlignment="Left" Height="40" Margin="36,290,0,0" Grid.Row="1" VerticalAlignment="Top" Width="88"/>
 
         <VisualStateManager.VisualStateGroups>
 
@@ -95,9 +114,6 @@
                     <Storyboard>
                         <ObjectAnimationUsingKeyFrames Storyboard.TargetName="backButton" Storyboard.TargetProperty="Style">
                             <DiscreteObjectKeyFrame KeyTime="0" Value="{StaticResource SnappedBackButtonStyle}"/>
-                        </ObjectAnimationUsingKeyFrames>
-                        <ObjectAnimationUsingKeyFrames Storyboard.TargetName="pageTitle" Storyboard.TargetProperty="Style">
-                            <DiscreteObjectKeyFrame KeyTime="0" Value="{StaticResource SnappedPageHeaderTextStyle}"/>
                         </ObjectAnimationUsingKeyFrames>
                     </Storyboard>
                 </VisualState>

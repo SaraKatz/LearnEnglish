@@ -14,13 +14,14 @@
                     <ColumnDefinition Width="50*"/>
                 </Grid.ColumnDefinitions>
                 <!--<StackPanel x:Name="LeftCommands" Orientation="Horizonהtal" Grid.Column="0" HorizontalAlignment="Left">-->
-                <Button x:Name="stop"  AutomationProperties.Name="לסיום" Style="{StaticResource StopAppBarButtonStyle }" HorizontalAlignment="Left" Click="ABC_song_MediaEnded"/>
+                <Button x:Name="stop"  AutomationProperties.Name="לסיום" Style="{StaticResource StopAppBarButtonStyle }" HorizontalAlignment="Left" Click="ABC_song_MediaEnded" Margin="286,0,0,0"/>
                 <Button x:Name="btn_stop" AutomationProperties.Name="השהה" Style="{StaticResource PauseAppBarButtonStyle }" HorizontalAlignment="Left" Click="btn_stop_Click" Margin="191,0,0,0" />
                 <Button x:Name="btn_play" AutomationProperties.Name="הפעל" Style="{StaticResource PlayAppBarButtonStyle }" Margin="100,0,0,0" Click="btn_play_Click"  />
+                <Button x:Name="back" AutomationProperties.Name="החלפת משתמש" Style="{StaticResource BackAppBarButtonStyle }" Margin="16,0,0,0" Click="back_Click"  />
 
                 <!--</StackPanel>
                 <StackPanel x:Name="RightCommands" Orientation="Horizontal" Grid.Column="1" HorizontalAlignment="Right">
-                </StackPanel>-->
+                </StackPanel>Minimum="0.0"Maximum="100.2"-->
             </Grid>
         </AppBar>
 
@@ -31,8 +32,24 @@
 
     <Grid>
         <Grid.Background>
-            <ImageBrush ImageSource="Assets/abc.png"/>
+            <ImageBrush ImageSource="Assets/backgrounds/מסכים לימוד אנגלית2.jpg"/>
         </Grid.Background>
-        <MediaElement Visibility="Collapsed" Name="ABC_song" AutoPlay="False" Source="Assets/ABC-Song---Nursery-Rhymes[www.savevid.com] (1).mp4"></MediaElement>
+        <MediaElement Visibility="Collapsed" Name="ABC_song" AutoPlay="False" Source="Assets/ABC-Song---Nursery-Rhymes[www.savevid.com] (1).mp4" MediaOpened="ABC_song_MediaOpened"  ></MediaElement>
+        <Slider Name="timelineSlider"  Width="1400"  PointerEntered="timelineSlider_PointerEntered" PointerCaptureLost="timelineSlider_PointerCaptureLost" VerticalAlignment="Bottom"/>
+        <Rectangle  Name="to_map" HorizontalAlignment="Left" Height="30" Margin="760,305,0,0" VerticalAlignment="Top" Width="215"  Tapped="to_map_Click">
+            <Rectangle.Fill>
+                <ImageBrush ImageSource="Assets/backgrounds/למפה.png"/>
+            </Rectangle.Fill>
+        </Rectangle>
+        <Rectangle Name="to_lastLesson" HorizontalAlignment="Left" Height="30" Margin="580,390,0,0" VerticalAlignment="Top" Width="215" Tapped="to_lastLesson_Click">
+            <Rectangle.Fill>
+                <ImageBrush ImageSource="Assets/backgrounds/לשיעור קודם.png"/>
+            </Rectangle.Fill>
+        </Rectangle>
+        <Rectangle  Name="to_song" HorizontalAlignment="Left" Height="35" Margin="395,460,0,0" VerticalAlignment="Top" Width="205" Tapped="to_song_Click">
+            <Rectangle.Fill>
+                <ImageBrush ImageSource="Assets/backgrounds/לשיר.png"/>
+            </Rectangle.Fill>
+        </Rectangle>
     </Grid>
 </Page>

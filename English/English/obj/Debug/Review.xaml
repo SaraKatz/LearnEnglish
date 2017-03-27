@@ -18,11 +18,14 @@
                 </Grid.ColumnDefinitions>
                 <StackPanel x:Name="LeftCommands" Orientation="Horizontal" Grid.Column="0" HorizontalAlignment="Left">
                     <Button x:ConnectionId='4' x:Name="toLesssonMap" AutomationProperties.Name="בחזרה למפת השיעורים" Style="{StaticResource MapAppBarButtonStyle }" HorizontalAlignment="Left"                           />
-                    <Button x:ConnectionId='5' x:Name="learnSmallLetter" AutomationProperties.Name="לימוד אות קטנה" Style="{StaticResource StarAppBarButtonStyle }" Height="84" VerticalAlignment="Bottom"                                Margin="0,0,0,16"/>
-                    <Button x:ConnectionId='6' x:Name="learnNextlLetter" AutomationProperties.Name="לאות הבאה" Style="{StaticResource FontAppBarButtonStyle }" Width="100" Height="84" VerticalAlignment="Bottom"                                Margin="0,0,0,16" />
-      <Border />              <Button x:ConnectionId='7' x:Name="pictuers" AutomationProperties.Name="תמונות האות" Style="{StaticResource PicturesAppBarButtonStyle }" Height="84" VerticalAlignment="Bottom"                        Width="120" RenderTransformOrigin="1,0.571" Margin="0,0,0,14"  />
+                    <Button x:ConnectionId='5' x:Name="learnSmallLetter" AutomationProperties.Name="לימוד אות קטנה" Style="{StaticResource FontAppBarButtonStyle }" Height="84" VerticalAlignment="Bottom"                                Margin="0,0,0,16"/>
+                    <!--<Button x:Name="learnNextlLetter" AutomationProperties.Name="לאות הבאה" Style="{StaticResource FontAppBarButtonStyle }" Width="100" Height="84" VerticalAlignment="Bottom" Click="learnNextlLetter_Click" Margin="0,0,0,16" />-->
+                    <Border />
+                    <Button x:ConnectionId='6' x:Name="pictuers" AutomationProperties.Name="תמונות האות" Style="{StaticResource PicturesAppBarButtonStyle }" Height="84" VerticalAlignment="Bottom"                        Width="120" RenderTransformOrigin="1,0.571" Margin="0,0,0,14"  />
                 </StackPanel>
                 <StackPanel x:Name="RightCommands" Orientation="Horizontal" Grid.Column="1" HorizontalAlignment="Right">
+
+
                     <Button x:ConnectionId='1' x:Name="earase" AutomationProperties.Name="מחק" Style="{StaticResource  DeleteAppBarButtonStyle}" HorizontalAlignment="Left"                      />
                     <Button x:ConnectionId='2' x:Name="wright"  AutomationProperties.Name="כתוב" Style="{StaticResource EditAppBarButtonStyle  }" HorizontalAlignment="Left"                      />
                     <Button x:ConnectionId='3' x:Name="color"  AutomationProperties.Name="צבע" Style="{StaticResource FontColorAppBarButtonStyle  }" HorizontalAlignment="Left"                      />
@@ -43,7 +46,10 @@
         * Row 0 contains the back button and page title
         * Row 1 contains the rest of the page layout
     -->
-    <Grid Style="{StaticResource LayoutRootStyle}" Background="Beige">
+    <Grid Style="{StaticResource LayoutRootStyle}" Margin="0,8,0,-8">
+        <Grid.Background>
+            <ImageBrush ImageSource="Assets/backgrounds/חזרה.jpg"/>
+        </Grid.Background>
         <Grid.RowDefinitions>
             <RowDefinition Height="140"/>
             <RowDefinition Height="*"/>
@@ -59,22 +65,48 @@
                 <ColumnDefinition Width="Auto"/>
                 <ColumnDefinition Width="*"/>
             </Grid.ColumnDefinitions>
-            <Button x:ConnectionId='8' x:Name="backButton"                IsEnabled="{Binding Frame.CanGoBack, ElementName=pageRoot}" Style="{StaticResource BackButtonStyle}"/>
-            <TextBlock Text="כתוב עם האצבע או עם העכבר את האות שלמדנו " Margin="96,56,-629,-56" Foreground="#FFEA0C67" FontSize="56" FontWeight="Bold" Grid.ColumnSpan="2"/>
+            <Button x:ConnectionId='16' x:Name="backButton"                IsEnabled="{Binding Frame.CanGoBack, ElementName=pageRoot}" Style="{StaticResource BackButtonStyle}"/>
+            <!--<TextBlock Text="כתוב עם האצבע או עם העכבר את האות שלמדנו " Margin="96,56,-629,-56" Foreground="#FFEA0C67" FontSize="56" FontWeight="Bold" Grid.ColumnSpan="2"/>-->
         </Grid>
-       
-        
-         <!--<FlipView HorizontalAlignment="Left" Margin="200,415,0,0" Grid.Row="1" VerticalAlignment="Top" Grid.Column="1"/>-->
-       
-        <Border BorderThickness="25"  Grid.ColumnSpan="2" HorizontalAlignment="Left" Height="554" Grid.Row="1"  VerticalAlignment="Top" Width="1025" BorderBrush="#FF724917" Background="White" Grid.Column="1" >
-         <Rectangle Margin="10,-10,15,10" />
-        </Border>
-        <Canvas Name="myCanvas" Grid.Row="1" Grid.Column="2" Background="OliveDrab" Margin="14,24,184,98"/>
-        
-        <TextBlock Name="letterToWright" FontSize="450" Grid.Row="1"   Foreground="Black" FontFamily="Copperplate Gothic Bold" Grid.Column="1"  TextAlignment="Center"/>
-        <MediaElement Source="Assets/2237.wmv" Margin="381,396,7,102" Grid.Row="1" IsLooping="True" Grid.Column="1"/>
-        <Rectangle HorizontalAlignment="Left" Height="502" Margin="20,24,0,0" Grid.Row="1" VerticalAlignment="Top" Width="473" Grid.Column="1">
-        </Rectangle>
+
+
+        <!--<FlipView HorizontalAlignment="Left" Margin="200,415,0,0" Grid.Row="1" VerticalAlignment="Top" Grid.Column="1"/>-->
+
+        <!--<Border BorderThickness="25"  Grid.ColumnSpan="2" HorizontalAlignment="Left" Height="554" Grid.Row="1"  VerticalAlignment="Top" Width="1025" BorderBrush="#FF724917" Background="White" Grid.Column="1" >
+            <Rectangle Margin="10,-10,15,10" />
+        </Border>Visibility="Collapsed"  -->
+        <Canvas Name="myCanvas" Grid.Row="1" Grid.Column="2"  Margin="52,180,277,102" Background="White"/>
+
+        <TextBlock Name="letterToWright" FontSize="350" VerticalAlignment="Top" Height="521" Margin="140,43,0,0" Width="363"  Foreground="Black" FontFamily="Copperplate Gothic Bold" Grid.Column="1"  TextAlignment="Center" Grid.Row="1" />
+        <!--<MediaElement Source="Assets/2237.wmv" Margin="381,396,7,102" Grid.Row="1" IsLooping="True" Grid.Column="1"/>-->
+        <!--<Rectangle HorizontalAlignment="Left"  Height="435" Margin="140,91,0,0" Grid.Row="1" VerticalAlignment="Top" Width="363" Grid.Column="1">
+        </Rectangle>-->
+        <Grid Name="colorGrid" Visibility="Collapsed" Grid.Column="2" HorizontalAlignment="Left" Height="350" Margin="632,127,0,0" Grid.Row="1" VerticalAlignment="Top" Width="41">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+
+            </Grid.RowDefinitions>
+            <!--<Button Name="RectangleColor1" Grid.Row="0" Background="BlueViolet" Click="RectangleColor1_Click" ></Button>-->
+            <Rectangle x:ConnectionId='7' Name="RectangleColor1" Grid.Row="0" Fill="BlueViolet"                                 Tag="BlueViolet"/>
+            <Rectangle x:ConnectionId='8' Name="RectangleColor2" Grid.Row="1" Fill="Red"                                />
+            <Rectangle x:ConnectionId='9' Name="RectangleColor3" Grid.Row="2" Fill="Yellow"                                />
+            <Rectangle x:ConnectionId='10' Name="RectangleColor4" Grid.Row="3" Fill="DeepPink"                                ></Rectangle>
+            <Rectangle x:ConnectionId='11' Name="RectangleColor5" Grid.Row="4" Fill="GreenYellow"                                />
+            <Rectangle x:ConnectionId='12' Name="RectangleColor6" Grid.Row="5" Fill="Purple"                                />
+            <Rectangle x:ConnectionId='13' Name="RectangleColor7" Grid.Row="6" Fill="Orange"                                />
+            <Rectangle x:ConnectionId='14' Name="RectangleColor8" Grid.Row="7" Fill="Turquoise"                                ></Rectangle>
+            <Rectangle x:ConnectionId='15' Name="RectangleColor9" Grid.Row="8" Fill="Gray"                                />
+
+        </Grid>
+
         <VisualStateManager.VisualStateGroups>
 
             <!-- Visual states reflect the application's view state #FF4A7424-->

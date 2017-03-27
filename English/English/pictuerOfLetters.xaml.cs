@@ -29,15 +29,15 @@ namespace English
     {
         Lesson currentLesson;
         HadLearnt lessonHadLearnt;
-        Image img;
-        TextBlock tb;
-        MediaElement mdel;
+        List<Image> img;
+        List<TextBlock> tb;
+        List<MediaElement> mdel;
 
         public pictuerOfLetters()
         {
             this.InitializeComponent();
         }
-        
+
         /// <summary>
         /// Populates the page with content passed during navigation.  Any saved state is also
         /// provided when recreating a page from a prior session.
@@ -48,66 +48,99 @@ namespace English
         /// <param name="pageState">A dictionary of state preserved by this page during an earlier
         /// session.  This will be null the first time a page is visited.</param>
         protected async override void LoadState(object navigationParameter, Dictionary<String, Object> pageState)
-        {            
+        {
             currentLesson = navigationParameter as Lesson;
             int i = 0;
             lessonHadLearnt = new HadLearnt(currentLesson);
-            //מציאת האות הנבחרת ללימוד והצגת תמונותיה
 
+            tb = new List<TextBlock>();
+            img = new List<Image>();
+            mdel = new List<MediaElement>();
+
+            tb_letter.Text = currentLesson.selectedLetter.ToUpper();
+
+            //מציאת האות הנבחרת ללימוד והצגת תמונותיה
             foreach (var word in lessonHadLearnt.pictuers_HadLearnt)
             {
                 if (word.LettersBigShape.Equals(currentLesson.selectedLetter) || word.LettersSmallShape.Equals(currentLesson.selectedLetter))
                 {
                     //הוספת המילה
-                    tb = new TextBlock() { Text = "\r" + word.Word, Foreground = new SolidColorBrush(Colors.Blue), FontSize = 25, TextAlignment = TextAlignment.Center };
-                    Grid.SetColumn(tb, 0);
-                    Grid.SetRow(tb, i);
-                    Picture_grid.Children.Add(tb);
+                    tb.Add(new TextBlock() { Text = word.Word, Foreground = new SolidColorBrush(Colors.Blue), FontSize = 25, TextAlignment = TextAlignment.Center });
 
-                    var storyboard = new Storyboard();
-                    //var Animation = new DoubleAnimation
-                    //{
-                    //    From = 0,
-                    //    To = 200,
-                    //    Duration = new Duration(new TimeSpan(0, 0, 0, 7, 0)),
-                    //};
-                    //storyboard.Children.Add(Animation);
-
-
-                    //Storyboard.SetTargetProperty(Animation, "Tag");
-                    var Animation = new DoubleAnimation
-                    {
-                        From = 0,
-                        To = 1,
-                        Duration = new Duration(new TimeSpan(0, 0, 0, 5, 0)),
-                    };
-                    storyboard.Children.Add(Animation);
-
-                    Storyboard.SetTargetProperty(Animation, "Opacity");
+                    //הוספת השמע
+                    mdel.Add(new MediaElement() { Source = new Uri(word.WordSound), Visibility = Windows.UI.Xaml.Visibility.Collapsed });
 
                     //הוספת התמונה
-                    img = new Image() { Source = word.WordPictuer,Tag=0.0,Height=100,Width=100};
-                    //img.Margin=new Thickness(Double.Parse(img.Tag.ToString()),0,0,0);
-                    Grid.SetColumn(img, 2);
-                    Grid.SetRow(img, i);
+                    img.Add(new Image() { Source = word.WordPictuer, Tag = 0.0, Height = 100, Width = 100 });
 
-                    Storyboard.SetTarget(storyboard, img);
-                    Picture_grid.Children.Add(img);
-                    
-                    storyboard.Begin();
-                    
-                    //הוספת השמע
-                    mdel = new MediaElement() { Source = new Uri(word.WordSound),Visibility=Windows.UI.Xaml.Visibility.Collapsed };
-                    mdel.Play();
-                    Grid.SetColumn(mdel, 0);
-                    Grid.SetRow(mdel, i++);
-                    Picture_grid.Children.Add(mdel);
-                    //הפעלת השמע ל-5 שניות
-                    await System.Threading.Tasks.Task.Delay(4000);
-                    mdel.Pause();
-                   
                 }
             }
+            //הפעלה
+            var storyboard = new Storyboard();
+            var Animation = new DoubleAnimation
+            {
+                From = 0,
+                To = 1,
+                Duration = new Duration(new TimeSpan(0, 0, 0, 5, 0)),
+            };
+            storyboard.Children.Add(Animation);
+
+            Storyboard.SetTargetProperty(Animation, "Opacity");
+
+            //1
+            tb_Word1.Text = tb[0].Text;
+            mdel_Word1.Source = mdel[0].Source;
+            mdel[0].Play();
+            //await System.Threading.Tasks.Task.Delay(4000);
+            //mdel[0].Stop();
+            img_Word1.Source = img[0].Source;
+            Storyboard.SetTarget(storyboard, img_Word1);
+
+            storyboard.Begin();
+            await System.Threading.Tasks.Task.Delay(4000);
+
+
+            //2
+            tb_Word2.Text = tb[1].Text;
+            mdel_Word2.Source = mdel[1].Source;
+            mdel[1].Play();
+
+            img_Word2.Source = img[1].Source;
+            storyboard.Stop();
+            Storyboard.SetTarget(storyboard, img_Word2);
+
+            storyboard.Begin();
+            storyboard.Stop();
+            await System.Threading.Tasks.Task.Delay(4000);
+
+            //3
+            tb_Word3.Text = tb[2].Text;
+            mdel_Word3.Source = mdel[2].Source;
+            mdel[2].Play();
+            
+            img_Word3.Source = img[2].Source;
+            storyboard.Stop();
+            Storyboard.SetTarget(storyboard, img_Word3);
+
+
+            storyboard.Begin();
+            await System.Threading.Tasks.Task.Delay(4000);
+
+            //4
+            tb_Word4.Text = tb[3].Text;
+            mdel_Word4.Source = mdel[3].Source;
+            mdel[3].Play();
+           
+
+            img_Word4.Source = img[3].Source;
+            storyboard.Stop();
+            Storyboard.SetTarget(storyboard, img_Word4);
+
+
+            storyboard.Begin();
+
+
+
         }
         /// <summary>
         /// Preserves state associated with this page in case the application is suspended or the
@@ -128,10 +161,14 @@ namespace English
         {
             this.Frame.Navigate(typeof(game_discoverThePicture), currentLesson);
         }
-  
+
         private void toLesssonMap_Click(object sender, RoutedEventArgs e)
         {
-            this.Frame.Navigate(typeof(lessonMapPage),currentLesson);
+            this.Frame.Navigate(typeof(lessonMapPage), currentLesson);
+        }
+        private void learnNextlLetter_Click(object sender, RoutedEventArgs e)
+        {
+            this.Frame.Navigate(typeof(lessonSummaryPage), currentLesson);
         }
 
     }

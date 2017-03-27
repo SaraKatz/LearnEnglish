@@ -154,6 +154,10 @@ namespace English.English_XamlTypeInfo
                 xamlType = new global::English.English_XamlTypeInfo.XamlSystemBaseType(typeName, typeof(global::Windows.UI.Xaml.Controls.UserControl));
                 break;
 
+            case "Boolean":
+                xamlType = new global::English.English_XamlTypeInfo.XamlSystemBaseType(typeName, typeof(global::System.Boolean));
+                break;
+
             case "Int32":
                 xamlType = new global::English.English_XamlTypeInfo.XamlSystemBaseType(typeName, typeof(global::System.Int32));
                 break;
@@ -190,6 +194,9 @@ namespace English.English_XamlTypeInfo
             case "English.abcSong":
                 userType = new global::English.English_XamlTypeInfo.XamlUserType(this, typeName, typeof(global::English.abcSong), GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
                 userType.Activator = Activate_3_abcSong;
+                userType.AddMemberName("_sliderpressed");
+                AddToMapOfTypeToStandardName(typeof(global::System.Boolean),
+                                                   "Boolean");
                 xamlType = userType;
                 break;
 
@@ -304,22 +311,32 @@ namespace English.English_XamlTypeInfo
             var that = (global::Windows.UI.Color)instance;
             that.R = (global::System.Byte)Value;
         }
-        private object get_4_Review_Flag(object instance)
+        private object get_4_abcSong__sliderpressed(object instance)
+        {
+            var that = (global::English.abcSong)instance;
+            return that._sliderpressed;
+        }
+        private void set_4_abcSong__sliderpressed(object instance, object Value)
+        {
+            var that = (global::English.abcSong)instance;
+            that._sliderpressed = (global::System.Boolean)Value;
+        }
+        private object get_5_Review_Flag(object instance)
         {
             var that = (global::English.Review)instance;
             return that.Flag;
         }
-        private void set_4_Review_Flag(object instance, object Value)
+        private void set_5_Review_Flag(object instance, object Value)
         {
             var that = (global::English.Review)instance;
             that.Flag = (global::System.Int32)Value;
         }
-        private object get_5_workPage_i(object instance)
+        private object get_6_workPage_i(object instance)
         {
             var that = (global::English.workPage)instance;
             return that.i;
         }
-        private void set_5_workPage_i(object instance, object Value)
+        private void set_6_workPage_i(object instance, object Value)
         {
             var that = (global::English.workPage)instance;
             that.i = (global::System.Int32)Value;
@@ -356,17 +373,23 @@ namespace English.English_XamlTypeInfo
                 xamlMember.Getter = get_3_Color_R;
                 xamlMember.Setter = set_3_Color_R;
                 break;
+            case "English.abcSong._sliderpressed":
+                userType = (global::English.English_XamlTypeInfo.XamlUserType)GetXamlTypeByName("English.abcSong");
+                xamlMember = new global::English.English_XamlTypeInfo.XamlMember(this, "_sliderpressed", "Boolean");
+                xamlMember.Getter = get_4_abcSong__sliderpressed;
+                xamlMember.Setter = set_4_abcSong__sliderpressed;
+                break;
             case "English.Review.Flag":
                 userType = (global::English.English_XamlTypeInfo.XamlUserType)GetXamlTypeByName("English.Review");
                 xamlMember = new global::English.English_XamlTypeInfo.XamlMember(this, "Flag", "Int32");
-                xamlMember.Getter = get_4_Review_Flag;
-                xamlMember.Setter = set_4_Review_Flag;
+                xamlMember.Getter = get_5_Review_Flag;
+                xamlMember.Setter = set_5_Review_Flag;
                 break;
             case "English.workPage.i":
                 userType = (global::English.English_XamlTypeInfo.XamlUserType)GetXamlTypeByName("English.workPage");
                 xamlMember = new global::English.English_XamlTypeInfo.XamlMember(this, "i", "Int32");
-                xamlMember.Getter = get_5_workPage_i;
-                xamlMember.Setter = set_5_workPage_i;
+                xamlMember.Getter = get_6_workPage_i;
+                xamlMember.Setter = set_6_workPage_i;
                 break;
             }
             return xamlMember;

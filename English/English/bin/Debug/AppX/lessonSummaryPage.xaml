@@ -39,7 +39,7 @@
     -->
     <Grid Style="{StaticResource LayoutRootStyle}">
         <Grid.Background>
-            <ImageBrush ImageSource="Assets/רקע דף.png"/>
+            <ImageBrush ImageSource="Assets/backgrounds/אותיות שנלמד השיעור.jpg"/>
         </Grid.Background>
         <Grid.RowDefinitions>
             <RowDefinition Height="140"/>
@@ -53,7 +53,6 @@
                 <ColumnDefinition Width="*"/>
             </Grid.ColumnDefinitions>
             <Button x:ConnectionId='2' x:Name="backButton"                            IsEnabled="{Binding Frame.CanGoBack, ElementName=pageRoot}" Style="{StaticResource BackButtonStyle}"/>
-            <TextBlock x:Name="pageTitle" Grid.Column="1"  Text="האותיות שנלמד השעור" Style="{StaticResource PageHeaderTextStyle}" FontFamily="Script MT Bold" Height="80" FontSize="70" Foreground="#DE110740" HorizontalAlignment="Right" Margin="0,0,130,-5" FontWeight="Bold"/>
        
         </Grid>
         
@@ -62,7 +61,7 @@
         <!--<MediaElement HorizontalAlignment="Left" Height="70" Margin="222,106,0,0" Grid.Row="1" VerticalAlignment="Top" Width="103" Source="ms-appx:///LettersClipvid-20130806-wa0003.mp4"/>-->
         <!--<Button Foreground="#FFF3B0F9" BorderBrush="Black" Content="התחל" Grid.Row="1" Margin="330,385,0,205" Click="Button_Click_1" Width="100" Background="#FFF7CDFB"/>-->
         <!--<ComboBox  Name="jony" HorizontalAlignment="Left" Margin="530,391,0,0" Grid.Row="1" VerticalAlignment="Top" Width="120"/>-->
-        <Grid Name="buttonGrid" HorizontalAlignment="Left"  Margin="208,50,0,0" Grid.Row="1" VerticalAlignment="Top" >
+        <Grid Name="buttonGrid" HorizontalAlignment="Left"  Margin="208,134,0,0" Grid.Row="1" VerticalAlignment="Top" >
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="300"></ColumnDefinition>
                 <ColumnDefinition Width="300"></ColumnDefinition>

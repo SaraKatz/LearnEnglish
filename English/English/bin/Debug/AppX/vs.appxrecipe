@@ -5,7 +5,7 @@
     <WindowsUser>sheva</WindowsUser>
     <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
     <PackageArchitecture>neutral</PackageArchitecture>
-    <RegisteredManifestChecksum>8A2C03840167ECEC5A666AABA15CF3337825EF1589E4F3D77F0A0EF0C222B2D4</RegisteredManifestChecksum>
+    <RegisteredManifestChecksum>E84A0C7715EC6DFA86A081864FD2C74AB90537B584B9D4633C4AFE4C09FA4200</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>8f80a54f-78ed-4b22-a0f4-369685abcabe_1.0.0.0_neutral__bqdrpfdf8tw28</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>8f80a54f-78ed-4b22-a0f4-369685abcabe_bqdrpfdf8tw28!App</RegisteredUserModeAppID>
     <RegisteredPackageID>8f80a54f-78ed-4b22-a0f4-369685abcabe</RegisteredPackageID>
@@ -13,1077 +13,1601 @@
     <RegisteredVersion>1.0.0.0</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\bin\Debug\AppxManifest.xml">
+    <AppXManifest Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2014-02-10T10:01:14.000</Modified>
+      <Modified>2014-03-20T16:45:32.563</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\bin\Debug\English.exe">
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\bin\Debug\English.exe">
       <PackagePath>English.exe</PackagePath>
-      <Modified>2016-03-09T10:27:16.752</Modified>
+      <Modified>2016-03-09T12:34:39.196</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\bin\Debug\English.pdb">
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\bin\Debug\English.pdb">
       <PackagePath>English.pdb</PackagePath>
-      <Modified>2016-03-09T10:27:16.455</Modified>
+      <Modified>2016-03-09T12:34:36.269</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\Assets\119471_%2896%29.gif">
-      <PackagePath>Assets\119471_%2896%29.gif</PackagePath>
-      <Modified>2013-12-30T11:16:18.000</Modified>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\Assets\1מיקי.scale-100.png">
+      <PackagePath>Assets\1מיקי.scale-100.png</PackagePath>
+      <Modified>2014-02-24T10:37:19.516</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\Assets\2235.gif">
-      <PackagePath>Assets\2235.gif</PackagePath>
-      <Modified>2014-01-04T19:50:26.000</Modified>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\Assets\backgrounds\אישור.png">
+      <PackagePath>Assets\backgrounds\אישור.png</PackagePath>
+      <Modified>2014-02-26T13:53:59.750</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\Assets\2237.gif">
-      <PackagePath>Assets\2237.gif</PackagePath>
-      <Modified>2014-01-12T09:54:36.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\Assets\900.gif">
-      <PackagePath>Assets\900.gif</PackagePath>
-      <Modified>2014-01-04T19:50:26.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\Assets\904.gif">
-      <PackagePath>Assets\904.gif</PackagePath>
-      <Modified>2014-01-04T19:50:26.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\Assets\s_u_01_10142_01_02.gif">
-      <PackagePath>Assets\s_u_01_10142_01_02.gif</PackagePath>
-      <Modified>2014-01-20T08:53:42.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\Assets\1ללא שם.png">
-      <PackagePath>Assets\1ללא שם.png</PackagePath>
-      <Modified>2014-01-05T09:42:30.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\Assets\1מיקי.png">
-      <PackagePath>Assets\1מיקי.png</PackagePath>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\Assets\backgrounds\אריח 150-150.png">
+      <PackagePath>Assets\backgrounds\אריח 150-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2014-01-12T15:47:26.000</Modified>
+      <Modified>2014-02-24T10:37:19.426</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\Assets\abc.png">
-      <PackagePath>Assets\abc.png</PackagePath>
-      <Modified>2014-02-03T11:17:26.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\Assets\game.png">
-      <PackagePath>Assets\game.png</PackagePath>
-      <Modified>2014-02-05T18:16:34.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\Assets\images1.png">
-      <PackagePath>Assets\images1.png</PackagePath>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\Assets\backgrounds\אריח 150-310.png">
+      <PackagePath>Assets\backgrounds\אריח 150-310.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2013-12-18T21:18:24.000</Modified>
+      <Modified>2014-02-24T10:37:19.492</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\Assets\images2.png">
-      <PackagePath>Assets\images2.png</PackagePath>
-      <Modified>2013-12-18T21:18:24.000</Modified>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\Assets\backgrounds\אריח פתיחה .png">
+      <PackagePath>Assets\backgrounds\אריח פתיחה .png</PackagePath>
+      <Modified>2014-02-25T15:25:25.365</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\Assets\images3.png">
-      <PackagePath>Assets\images3.png</PackagePath>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\Assets\backgrounds\אריח פתיחה חדש222222.png">
+      <PackagePath>Assets\backgrounds\אריח פתיחה חדש222222.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2013-12-18T21:21:42.000</Modified>
+      <Modified>2014-02-25T21:40:11.007</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\Assets\Logo.png">
-      <PackagePath>Assets\Logo.png</PackagePath>
-      <Modified>2005-05-30T21:00:00.000</Modified>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\Assets\backgrounds\אריח פתיחה.scale-100.png">
+      <PackagePath>Assets\backgrounds\אריח פתיחה.scale-100.png</PackagePath>
+      <Modified>2014-02-25T15:25:25.365</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\Assets\v.png">
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\Assets\backgrounds\אריח פתיחה2.png">
+      <PackagePath>Assets\backgrounds\אריח פתיחה2.png</PackagePath>
+      <Modified>2014-02-24T10:37:19.516</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\Assets\backgrounds\אריח30.png">
+      <PackagePath>Assets\backgrounds\אריח30.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-02-24T10:37:19.546</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\Assets\backgrounds\לחצן שיעור ורוד - 1.png">
+      <PackagePath>Assets\backgrounds\לחצן שיעור ורוד - 1.png</PackagePath>
+      <Modified>2014-02-26T14:45:08.478</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\Assets\backgrounds\לחצן שיעור ורוד.png">
+      <PackagePath>Assets\backgrounds\לחצן שיעור ורוד.png</PackagePath>
+      <Modified>2014-02-25T15:24:54.727</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\Assets\backgrounds\לחצן שיעור ירוק - 1.png">
+      <PackagePath>Assets\backgrounds\לחצן שיעור ירוק - 1.png</PackagePath>
+      <Modified>2014-02-26T14:41:08.253</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\Assets\backgrounds\לחצן שיעור ירוק.png">
+      <PackagePath>Assets\backgrounds\לחצן שיעור ירוק.png</PackagePath>
+      <Modified>2014-02-25T15:25:44.265</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\Assets\backgrounds\לחצן שיעור כתום - 1.png">
+      <PackagePath>Assets\backgrounds\לחצן שיעור כתום - 1.png</PackagePath>
+      <Modified>2014-02-26T14:42:22.166</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\Assets\backgrounds\לחצן שיעור כתום.png">
+      <PackagePath>Assets\backgrounds\לחצן שיעור כתום.png</PackagePath>
+      <Modified>2014-02-25T15:25:38.472</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\Assets\backgrounds\לחצן שיעור לבן.png">
+      <PackagePath>Assets\backgrounds\לחצן שיעור לבן.png</PackagePath>
+      <Modified>2014-02-27T09:17:27.166</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\Assets\backgrounds\למפה.png">
+      <PackagePath>Assets\backgrounds\למפה.png</PackagePath>
+      <Modified>2014-02-24T11:42:19.870</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\Assets\backgrounds\לשיעור קודם.png">
+      <PackagePath>Assets\backgrounds\לשיעור קודם.png</PackagePath>
+      <Modified>2014-02-24T11:42:20.109</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\Assets\backgrounds\לשיר.png">
+      <PackagePath>Assets\backgrounds\לשיר.png</PackagePath>
+      <Modified>2014-02-24T11:42:20.143</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\Assets\backgrounds\קו.png">
+      <PackagePath>Assets\backgrounds\קו.png</PackagePath>
+      <Modified>2014-03-03T10:42:12.855</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\Assets\backgrounds\רבוע ורוד2.png">
+      <PackagePath>Assets\backgrounds\רבוע ורוד2.png</PackagePath>
+      <Modified>2014-02-25T15:26:43.163</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\Assets\backgrounds\רבוע ירוק2.png">
+      <PackagePath>Assets\backgrounds\רבוע ירוק2.png</PackagePath>
+      <Modified>2014-02-25T15:26:33.607</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\Assets\backgrounds\רבוע כתום2.png">
+      <PackagePath>Assets\backgrounds\רבוע כתום2.png</PackagePath>
+      <Modified>2014-02-25T15:26:50.511</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\Assets\backgrounds\שיעור ורוד.png">
+      <PackagePath>Assets\backgrounds\שיעור ורוד.png</PackagePath>
+      <Modified>2014-03-03T23:25:29.642</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\Assets\backgrounds\קנבס.png">
+      <PackagePath>Assets\backgrounds\קנבס.png</PackagePath>
+      <Modified>2014-02-24T13:02:27.452</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\Assets\backgrounds\רבוע ורוד.png">
+      <PackagePath>Assets\backgrounds\רבוע ורוד.png</PackagePath>
+      <Modified>2014-02-25T15:26:12.614</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\Assets\backgrounds\רבוע ירוק.png">
+      <PackagePath>Assets\backgrounds\רבוע ירוק.png</PackagePath>
+      <Modified>2014-02-25T15:26:38.284</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\Assets\backgrounds\רבוע כתום.png">
+      <PackagePath>Assets\backgrounds\רבוע כתום.png</PackagePath>
+      <Modified>2014-02-25T15:26:56.047</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\Assets\אריח30.scale-100.png">
+      <PackagePath>Assets\אריח30.scale-100.png</PackagePath>
+      <Modified>2014-02-24T10:37:19.546</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\Assets\backgrounds\אריח50.png">
+      <PackagePath>Assets\backgrounds\אריח50.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-02-24T10:37:19.567</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\Assets\images3.scale-100.png">
+      <PackagePath>Assets\images3.scale-100.png</PackagePath>
+      <Modified>2014-02-24T10:37:19.492</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\Assets\v.png">
       <PackagePath>Assets\v.png</PackagePath>
-      <Modified>2014-01-20T09:33:50.000</Modified>
+      <Modified>2014-01-20T09:33:48.165</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\Assets\x.png">
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\Assets\x.png">
       <PackagePath>Assets\x.png</PackagePath>
-      <Modified>2014-01-20T09:34:12.000</Modified>
+      <Modified>2014-01-20T09:34:11.300</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\Assets\מיקי אריח.png">
-      <PackagePath>Assets\מיקי אריח.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2014-01-19T13:26:02.000</Modified>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\Assets\ללא שם.png">
+      <PackagePath>Assets\ללא שם.png</PackagePath>
+      <Modified>2014-02-24T10:55:59.375</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\Assets\מיקי.png">
-      <PackagePath>Assets\מיקי.png</PackagePath>
-      <Modified>2014-01-12T15:28:02.000</Modified>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\Assets\מיקי אריח.scale-100.png">
+      <PackagePath>Assets\מיקי אריח.scale-100.png</PackagePath>
+      <Modified>2014-02-24T10:37:19.426</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\Assets\מיקי_משחק.png">
-      <PackagePath>Assets\מיקי_משחק.png</PackagePath>
-      <Modified>2014-02-05T17:48:08.000</Modified>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\Assets\שיעור שורה 1.png">
+      <PackagePath>Assets\שיעור שורה 1.png</PackagePath>
+      <Modified>2014-02-24T14:00:54.932</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\Assets\משחק.png">
-      <PackagePath>Assets\משחק.png</PackagePath>
-      <Modified>2014-02-05T18:05:16.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\Assets\פתיחה.png">
-      <PackagePath>Assets\פתיחה.png</PackagePath>
-      <Modified>2014-02-05T17:50:14.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\Assets\SmallLogo.png">
-      <PackagePath>Assets\SmallLogo.png</PackagePath>
-      <Modified>2005-05-30T21:00:00.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\Assets\SplashScreen.png">
-      <PackagePath>Assets\SplashScreen.png</PackagePath>
-      <Modified>2005-05-30T21:00:00.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\Assets\StoreLogo.png">
-      <PackagePath>Assets\StoreLogo.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2005-05-30T21:00:00.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\Assets\untitled.png">
-      <PackagePath>Assets\untitled.png</PackagePath>
-      <Modified>2014-01-04T20:25:20.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\Assets\רקע אדום.png">
-      <PackagePath>Assets\רקע אדום.png</PackagePath>
-      <Modified>2014-01-05T10:46:40.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\Assets\רקע דף.png">
-      <PackagePath>Assets\רקע דף.png</PackagePath>
-      <Modified>2014-01-05T10:23:38.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\Assets\רקע קו למעלה.png">
-      <PackagePath>Assets\רקע קו למעלה.png</PackagePath>
-      <Modified>2014-01-05T15:45:26.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\A\accordion.png">
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersPictuers\A\accordion.png">
       <PackagePath>EnglishLessonsMetirial\lettersPictuers\A\accordion.png</PackagePath>
-      <Modified>2014-02-02T10:22:12.000</Modified>
+      <Modified>2014-02-02T10:22:10.641</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\A\ambulance.png">
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersPictuers\A\ambulance.png">
       <PackagePath>EnglishLessonsMetirial\lettersPictuers\A\ambulance.png</PackagePath>
-      <Modified>2014-02-02T10:27:14.000</Modified>
+      <Modified>2014-02-02T10:27:13.966</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\A\atlas.png">
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersPictuers\A\atlas.png">
       <PackagePath>EnglishLessonsMetirial\lettersPictuers\A\atlas.png</PackagePath>
-      <Modified>2014-02-02T10:43:10.000</Modified>
+      <Modified>2014-02-02T10:43:08.757</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\E\eggplant.png">
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersPictuers\E\eggplant.png">
       <PackagePath>EnglishLessonsMetirial\lettersPictuers\E\eggplant.png</PackagePath>
-      <Modified>2014-02-06T11:34:28.000</Modified>
+      <Modified>2014-02-06T11:34:27.821</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\E\envelope.png">
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersPictuers\E\envelope.png">
       <PackagePath>EnglishLessonsMetirial\lettersPictuers\E\envelope.png</PackagePath>
-      <Modified>2014-01-30T13:38:32.000</Modified>
+      <Modified>2014-01-30T13:38:30.791</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\G\grape.png">
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersPictuers\G\grape.png">
       <PackagePath>EnglishLessonsMetirial\lettersPictuers\G\grape.png</PackagePath>
-      <Modified>2014-01-30T14:01:56.000</Modified>
+      <Modified>2014-01-30T14:01:55.788</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\H\hat.png">
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersPictuers\H\hat.png">
       <PackagePath>EnglishLessonsMetirial\lettersPictuers\H\hat.png</PackagePath>
-      <Modified>2014-01-30T14:03:54.000</Modified>
+      <Modified>2014-01-30T14:03:52.509</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\I\iron.png">
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersPictuers\I\iron.png">
       <PackagePath>EnglishLessonsMetirial\lettersPictuers\I\iron.png</PackagePath>
-      <Modified>2014-02-06T09:33:14.000</Modified>
+      <Modified>2014-02-06T09:33:12.605</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\J\jam.png">
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersPictuers\J\jam.png">
       <PackagePath>EnglishLessonsMetirial\lettersPictuers\J\jam.png</PackagePath>
-      <Modified>2014-02-02T11:32:32.000</Modified>
+      <Modified>2014-02-02T11:32:30.563</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\J\juice.png">
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersPictuers\J\juice.png">
       <PackagePath>EnglishLessonsMetirial\lettersPictuers\J\juice.png</PackagePath>
-      <Modified>2014-01-30T14:38:00.000</Modified>
+      <Modified>2014-01-30T14:37:59.245</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\L\leaf.png">
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersPictuers\L\leaf.png">
       <PackagePath>EnglishLessonsMetirial\lettersPictuers\L\leaf.png</PackagePath>
-      <Modified>2014-01-30T15:10:28.000</Modified>
+      <Modified>2014-01-30T15:10:26.449</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\L\lemon.png">
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersPictuers\L\lemon.png">
       <PackagePath>EnglishLessonsMetirial\lettersPictuers\L\lemon.png</PackagePath>
-      <Modified>2014-01-30T15:11:02.000</Modified>
+      <Modified>2014-01-30T15:11:00.720</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\M\mask.png">
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersPictuers\M\mask.png">
       <PackagePath>EnglishLessonsMetirial\lettersPictuers\M\mask.png</PackagePath>
-      <Modified>2014-01-30T15:17:52.000</Modified>
+      <Modified>2014-01-30T15:17:50.062</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\N\nail.png">
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersPictuers\N\nail.png">
       <PackagePath>EnglishLessonsMetirial\lettersPictuers\N\nail.png</PackagePath>
-      <Modified>2014-02-02T11:46:56.000</Modified>
+      <Modified>2014-02-02T11:46:55.082</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\N\notebook.png">
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersPictuers\N\notebook.png">
       <PackagePath>EnglishLessonsMetirial\lettersPictuers\N\notebook.png</PackagePath>
-      <Modified>2014-01-30T15:24:56.000</Modified>
+      <Modified>2014-01-30T15:24:54.107</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\O\onion.png">
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersPictuers\O\onion.png">
       <PackagePath>EnglishLessonsMetirial\lettersPictuers\O\onion.png</PackagePath>
-      <Modified>2014-02-02T16:12:34.000</Modified>
+      <Modified>2014-02-09T18:38:07.548</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\O\orange.png">
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersPictuers\O\orange.png">
       <PackagePath>EnglishLessonsMetirial\lettersPictuers\O\orange.png</PackagePath>
-      <Modified>2014-02-02T16:12:34.000</Modified>
+      <Modified>2014-02-02T16:12:33.777</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\T\telephone.png">
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersPictuers\Q\quarter.png">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\Q\quarter.png</PackagePath>
+      <Modified>2014-03-04T13:26:53.271</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersPictuers\Q\question mark.png">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\Q\question mark.png</PackagePath>
+      <Modified>2014-03-04T10:16:54.206</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersPictuers\Q\ququ.png">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\Q\ququ.png</PackagePath>
+      <Modified>2014-03-04T11:49:15.517</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersPictuers\T\telephone.png">
       <PackagePath>EnglishLessonsMetirial\lettersPictuers\T\telephone.png</PackagePath>
-      <Modified>2014-02-06T10:19:50.000</Modified>
+      <Modified>2014-02-06T10:19:48.078</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\V\vase.png">
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersPictuers\U\united States.png">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\U\united States.png</PackagePath>
+      <Modified>2014-03-03T21:24:20.860</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersPictuers\U\up.png">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\U\up.png</PackagePath>
+      <Modified>2014-03-04T11:40:40.690</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersPictuers\V\vase.png">
       <PackagePath>EnglishLessonsMetirial\lettersPictuers\V\vase.png</PackagePath>
-      <Modified>2014-01-30T15:58:04.000</Modified>
+      <Modified>2014-01-30T15:58:03.466</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\Z\zucchini.png">
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersPictuers\X\box.png">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\X\box.png</PackagePath>
+      <Modified>2014-02-09T12:18:47.120</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersPictuers\Y\yogurt.png">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\Y\yogurt.png</PackagePath>
+      <Modified>2014-03-03T21:25:25.283</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersPictuers\Z\zero.png">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\Z\zero.png</PackagePath>
+      <Modified>2014-03-04T10:09:36.576</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersPictuers\Z\zucchini.png">
       <PackagePath>EnglishLessonsMetirial\lettersPictuers\Z\zucchini.png</PackagePath>
-      <Modified>2014-01-30T16:23:24.000</Modified>
+      <Modified>2014-01-30T16:23:23.418</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\Assets\2237.wmv">
-      <PackagePath>Assets\2237.wmv</PackagePath>
-      <Modified>2014-01-12T09:45:26.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\Assets\900.wmv">
-      <PackagePath>Assets\900.wmv</PackagePath>
-      <Modified>2014-01-04T20:09:54.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\Assets\904.wmv">
-      <PackagePath>Assets\904.wmv</PackagePath>
-      <Modified>2014-01-04T20:11:50.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\Assets\מפעל הפורמטים2237.wmv">
-      <PackagePath>Assets\מפעל הפורמטים2237.wmv</PackagePath>
-      <Modified>2014-01-12T09:52:40.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\Assets\ABC-Song---Nursery-Rhymes[www.savevid.com] %281%29.mp4">
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\Assets\ABC-Song---Nursery-Rhymes[www.savevid.com] %281%29.mp4">
       <PackagePath>Assets\ABC-Song---Nursery-Rhymes[www.savevid.com] %281%29.mp4</PackagePath>
-      <Modified>2014-02-03T10:37:38.000</Modified>
+      <Modified>2014-02-03T10:37:36.234</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\Assets\הסרט שלי.mp4">
-      <PackagePath>Assets\הסרט שלי.mp4</PackagePath>
-      <Modified>2014-02-03T08:15:38.000</Modified>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\Assets\backgrounds\זלדה מדברת.mp4">
+      <PackagePath>Assets\backgrounds\זלדה מדברת.mp4</PackagePath>
+      <Modified>2014-02-24T15:38:39.385</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\וידאו019.mp4">
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\וידאו019.mp4">
       <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\וידאו019.mp4</PackagePath>
-      <Modified>2014-02-03T09:50:34.000</Modified>
+      <Modified>2014-02-03T09:50:33.324</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\וידאו012.mp4">
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\וידאו012.mp4">
       <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\וידאו012.mp4</PackagePath>
-      <Modified>2014-02-03T07:23:08.000</Modified>
+      <Modified>2014-02-03T07:23:07.833</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\וידאו013.mp4">
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\וידאו013.mp4">
       <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\וידאו013.mp4</PackagePath>
-      <Modified>2014-02-03T09:43:42.000</Modified>
+      <Modified>2014-02-03T09:43:41.698</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\וידאו014.mp4">
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\וידאו014.mp4">
       <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\וידאו014.mp4</PackagePath>
-      <Modified>2014-02-03T09:43:42.000</Modified>
+      <Modified>2014-02-03T09:43:41.714</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\וידאו015.mp4">
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\וידאו015.mp4">
       <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\וידאו015.mp4</PackagePath>
-      <Modified>2014-02-03T09:43:42.000</Modified>
+      <Modified>2014-02-03T09:43:41.737</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\wordSuond\וידאו004.mp4">
-      <PackagePath>EnglishLessonsMetirial\wordSuond\וידאו004.mp4</PackagePath>
-      <Modified>2014-01-27T14:55:20.000</Modified>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\Assets\backgrounds\musik.mp3">
+      <PackagePath>Assets\backgrounds\musik.mp3</PackagePath>
+      <Modified>2014-03-05T15:42:45.698</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\wordSuond\וידאו011.mp4">
-      <PackagePath>EnglishLessonsMetirial\wordSuond\וידאו011.mp4</PackagePath>
-      <Modified>2014-01-28T15:37:58.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\Assets\apple.jpg">
-      <PackagePath>Assets\apple.jpg</PackagePath>
-      <Modified>2013-12-25T21:27:24.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\Assets\images.jpg">
-      <PackagePath>Assets\images.jpg</PackagePath>
-      <Modified>2013-12-18T21:08:16.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\Assets\images1.jpg">
-      <PackagePath>Assets\images1.jpg</PackagePath>
-      <Modified>2014-01-04T20:20:22.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\Assets\imagesCAB6GPAE.jpg">
-      <PackagePath>Assets\imagesCAB6GPAE.jpg</PackagePath>
-      <Modified>2013-12-30T11:22:02.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\Assets\imagesCAK6WRKR.jpg">
-      <PackagePath>Assets\imagesCAK6WRKR.jpg</PackagePath>
-      <Modified>2013-12-18T16:43:34.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\Assets\imagesCAQG90OK.jpg">
-      <PackagePath>Assets\imagesCAQG90OK.jpg</PackagePath>
-      <Modified>2014-01-08T11:21:52.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\Assets\lessonPic.jpg">
-      <PackagePath>Assets\lessonPic.jpg</PackagePath>
-      <Modified>2013-12-23T10:23:00.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\Assets\IMG_0288.JPG">
-      <PackagePath>Assets\IMG_0288.JPG</PackagePath>
-      <Modified>2005-05-30T21:00:00.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\Assets\ילד 2.jpg">
-      <PackagePath>Assets\ילד 2.jpg</PackagePath>
-      <Modified>2005-05-30T21:00:00.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\A\apple.jpg">
-      <PackagePath>EnglishLessonsMetirial\lettersPictuers\A\apple.jpg</PackagePath>
-      <Modified>2005-05-30T21:00:00.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\B\baby.jpg">
-      <PackagePath>EnglishLessonsMetirial\lettersPictuers\B\baby.jpg</PackagePath>
-      <Modified>2013-02-06T21:47:06.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\B\ball.jpg">
-      <PackagePath>EnglishLessonsMetirial\lettersPictuers\B\ball.jpg</PackagePath>
-      <Modified>2012-02-29T23:33:26.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\B\balloon.jpg">
-      <PackagePath>EnglishLessonsMetirial\lettersPictuers\B\balloon.jpg</PackagePath>
-      <Modified>2012-02-29T23:15:20.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\B\banana.jpg">
-      <PackagePath>EnglishLessonsMetirial\lettersPictuers\B\banana.jpg</PackagePath>
-      <Modified>2005-05-30T21:00:00.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\C\cake.jpg">
-      <PackagePath>EnglishLessonsMetirial\lettersPictuers\C\cake.jpg</PackagePath>
-      <Modified>2010-03-01T19:44:24.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\C\camera.jpg">
-      <PackagePath>EnglishLessonsMetirial\lettersPictuers\C\camera.jpg</PackagePath>
-      <Modified>2005-05-30T21:00:00.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\C\clothing.jpg">
-      <PackagePath>EnglishLessonsMetirial\lettersPictuers\C\clothing.jpg</PackagePath>
-      <Modified>2013-02-11T21:43:40.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\C\crown.jpg">
-      <PackagePath>EnglishLessonsMetirial\lettersPictuers\C\crown.jpg</PackagePath>
-      <Modified>2010-02-18T10:44:36.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\D\diamond.jpg">
-      <PackagePath>EnglishLessonsMetirial\lettersPictuers\D\diamond.jpg</PackagePath>
-      <Modified>2005-05-30T21:00:00.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\D\disc.jpg">
-      <PackagePath>EnglishLessonsMetirial\lettersPictuers\D\disc.jpg</PackagePath>
-      <Modified>2012-03-08T18:03:16.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\D\dog.jpg">
-      <PackagePath>EnglishLessonsMetirial\lettersPictuers\D\dog.jpg</PackagePath>
-      <Modified>2014-02-02T10:46:46.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\D\doll.jpg">
-      <PackagePath>EnglishLessonsMetirial\lettersPictuers\D\doll.jpg</PackagePath>
-      <Modified>2013-02-14T21:15:46.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\E\eeg.jpg">
-      <PackagePath>EnglishLessonsMetirial\lettersPictuers\E\eeg.jpg</PackagePath>
-      <Modified>2014-02-09T12:41:34.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\E\elephant.jpg">
-      <PackagePath>EnglishLessonsMetirial\lettersPictuers\E\elephant.jpg</PackagePath>
-      <Modified>2014-01-30T13:33:20.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\F\finger.jpg">
-      <PackagePath>EnglishLessonsMetirial\lettersPictuers\F\finger.jpg</PackagePath>
-      <Modified>2014-01-30T13:45:54.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\F\fish.jpg">
-      <PackagePath>EnglishLessonsMetirial\lettersPictuers\F\fish.jpg</PackagePath>
-      <Modified>2012-02-28T17:50:58.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\F\flower.jpg">
-      <PackagePath>EnglishLessonsMetirial\lettersPictuers\F\flower.jpg</PackagePath>
-      <Modified>2010-03-01T21:07:10.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\F\foot.jpg">
-      <PackagePath>EnglishLessonsMetirial\lettersPictuers\F\foot.jpg</PackagePath>
-      <Modified>2005-05-30T21:00:00.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\G\giraffe.jpg">
-      <PackagePath>EnglishLessonsMetirial\lettersPictuers\G\giraffe.jpg</PackagePath>
-      <Modified>2010-05-04T18:32:28.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\G\glasses.jpg">
-      <PackagePath>EnglishLessonsMetirial\lettersPictuers\G\glasses.jpg</PackagePath>
-      <Modified>2013-02-09T20:16:10.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\G\guitar.jpg">
-      <PackagePath>EnglishLessonsMetirial\lettersPictuers\G\guitar.jpg</PackagePath>
-      <Modified>2010-03-19T10:49:32.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\H\hamburger.jpg">
-      <PackagePath>EnglishLessonsMetirial\lettersPictuers\H\hamburger.jpg</PackagePath>
-      <Modified>2012-02-20T18:16:14.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\H\heart.jpg">
-      <PackagePath>EnglishLessonsMetirial\lettersPictuers\H\heart.jpg</PackagePath>
-      <Modified>2013-02-06T21:16:32.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\H\house.jpg">
-      <PackagePath>EnglishLessonsMetirial\lettersPictuers\H\house.jpg</PackagePath>
-      <Modified>2013-02-13T22:24:14.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\I\ice cream.jpg">
-      <PackagePath>EnglishLessonsMetirial\lettersPictuers\I\ice cream.jpg</PackagePath>
-      <Modified>2014-02-02T10:59:10.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\I\igloo.jpg">
-      <PackagePath>EnglishLessonsMetirial\lettersPictuers\I\igloo.jpg</PackagePath>
-      <Modified>2014-02-06T09:32:14.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\I\image.jpg">
-      <PackagePath>EnglishLessonsMetirial\lettersPictuers\I\image.jpg</PackagePath>
-      <Modified>2014-02-02T11:18:06.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\J\jacket.jpg">
-      <PackagePath>EnglishLessonsMetirial\lettersPictuers\J\jacket.jpg</PackagePath>
-      <Modified>2014-01-30T14:29:04.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\J\jelly.jpg">
-      <PackagePath>EnglishLessonsMetirial\lettersPictuers\J\jelly.jpg</PackagePath>
-      <Modified>2010-02-23T15:16:56.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\K\key.jpg">
-      <PackagePath>EnglishLessonsMetirial\lettersPictuers\K\key.jpg</PackagePath>
-      <Modified>2014-01-30T14:40:44.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\K\keyboard.jpg">
-      <PackagePath>EnglishLessonsMetirial\lettersPictuers\K\keyboard.jpg</PackagePath>
-      <Modified>2014-01-30T14:43:18.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\K\kite.jpg">
-      <PackagePath>EnglishLessonsMetirial\lettersPictuers\K\kite.jpg</PackagePath>
-      <Modified>2014-02-02T11:35:06.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\K\kiwi.jpg">
-      <PackagePath>EnglishLessonsMetirial\lettersPictuers\K\kiwi.jpg</PackagePath>
-      <Modified>2014-02-02T11:38:16.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\L\lamp.jpg">
-      <PackagePath>EnglishLessonsMetirial\lettersPictuers\L\lamp.jpg</PackagePath>
-      <Modified>2013-02-06T21:31:26.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\L\lion.jpg">
-      <PackagePath>EnglishLessonsMetirial\lettersPictuers\L\lion.jpg</PackagePath>
-      <Modified>2012-02-26T19:27:10.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\M\Matkot.jpg">
-      <PackagePath>EnglishLessonsMetirial\lettersPictuers\M\Matkot.jpg</PackagePath>
-      <Modified>2013-02-11T13:41:54.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\M\microphone.jpg">
-      <PackagePath>EnglishLessonsMetirial\lettersPictuers\M\microphone.jpg</PackagePath>
-      <Modified>2013-02-15T07:20:52.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\M\milk.jpg">
-      <PackagePath>EnglishLessonsMetirial\lettersPictuers\M\milk.jpg</PackagePath>
-      <Modified>2010-01-10T19:35:44.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\N\nest.jpg">
-      <PackagePath>EnglishLessonsMetirial\lettersPictuers\N\nest.jpg</PackagePath>
-      <Modified>2014-01-30T15:19:50.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\N\nut.jpg">
-      <PackagePath>EnglishLessonsMetirial\lettersPictuers\N\nut.jpg</PackagePath>
-      <Modified>2010-05-09T10:26:32.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\O\olive.jpg">
-      <PackagePath>EnglishLessonsMetirial\lettersPictuers\O\olive.jpg</PackagePath>
-      <Modified>2010-02-26T00:49:00.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\O\organ.jpg">
-      <PackagePath>EnglishLessonsMetirial\lettersPictuers\O\organ.jpg</PackagePath>
-      <Modified>2014-02-02T16:12:34.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\P\pen.jpg">
-      <PackagePath>EnglishLessonsMetirial\lettersPictuers\P\pen.jpg</PackagePath>
-      <Modified>2005-05-30T21:00:00.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\P\pepper.jpg">
-      <PackagePath>EnglishLessonsMetirial\lettersPictuers\P\pepper.jpg</PackagePath>
-      <Modified>2012-02-28T17:41:40.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\P\popcorn.jpg">
-      <PackagePath>EnglishLessonsMetirial\lettersPictuers\P\popcorn.jpg</PackagePath>
-      <Modified>2010-03-03T07:46:22.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\P\present.jpg">
-      <PackagePath>EnglishLessonsMetirial\lettersPictuers\P\present.jpg</PackagePath>
-      <Modified>2010-03-19T10:03:34.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\R\rabbit.jpg">
-      <PackagePath>EnglishLessonsMetirial\lettersPictuers\R\rabbit.jpg</PackagePath>
-      <Modified>2013-02-03T16:14:04.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\R\rake.jpg">
-      <PackagePath>EnglishLessonsMetirial\lettersPictuers\R\rake.jpg</PackagePath>
-      <Modified>2014-01-30T15:44:08.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\R\roof.jpg">
-      <PackagePath>EnglishLessonsMetirial\lettersPictuers\R\roof.jpg</PackagePath>
-      <Modified>2014-01-30T15:39:56.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\R\ruler.jpg">
-      <PackagePath>EnglishLessonsMetirial\lettersPictuers\R\ruler.jpg</PackagePath>
-      <Modified>2014-01-30T15:45:50.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\S\sack.jpg">
-      <PackagePath>EnglishLessonsMetirial\lettersPictuers\S\sack.jpg</PackagePath>
-      <Modified>2013-02-16T18:32:24.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\S\scoote.jpg">
-      <PackagePath>EnglishLessonsMetirial\lettersPictuers\S\scoote.jpg</PackagePath>
-      <Modified>2013-02-15T08:04:56.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\S\snake.jpg">
-      <PackagePath>EnglishLessonsMetirial\lettersPictuers\S\snake.jpg</PackagePath>
-      <Modified>2013-02-12T21:35:22.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\S\sofa.jpg">
-      <PackagePath>EnglishLessonsMetirial\lettersPictuers\S\sofa.jpg</PackagePath>
-      <Modified>2014-02-09T12:39:22.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\T\tractor.jpg">
-      <PackagePath>EnglishLessonsMetirial\lettersPictuers\T\tractor.jpg</PackagePath>
-      <Modified>2014-02-06T10:19:50.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\T\train.jpg">
-      <PackagePath>EnglishLessonsMetirial\lettersPictuers\T\train.jpg</PackagePath>
-      <Modified>2012-09-05T11:57:44.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\T\tree.jpg">
-      <PackagePath>EnglishLessonsMetirial\lettersPictuers\T\tree.jpg</PackagePath>
-      <Modified>2005-05-30T21:00:00.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\U\umbrella.jpg">
-      <PackagePath>EnglishLessonsMetirial\lettersPictuers\U\umbrella.jpg</PackagePath>
-      <Modified>2005-05-30T21:00:00.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\V\vegetable.jpg">
-      <PackagePath>EnglishLessonsMetirial\lettersPictuers\V\vegetable.jpg</PackagePath>
-      <Modified>2012-02-21T18:13:04.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\V\vest.jpg">
-      <PackagePath>EnglishLessonsMetirial\lettersPictuers\V\vest.jpg</PackagePath>
-      <Modified>2014-01-30T16:03:18.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\V\violin.jpg">
-      <PackagePath>EnglishLessonsMetirial\lettersPictuers\V\violin.jpg</PackagePath>
-      <Modified>2010-04-26T22:26:30.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\W\watermelon.jpg">
-      <PackagePath>EnglishLessonsMetirial\lettersPictuers\W\watermelon.jpg</PackagePath>
-      <Modified>2005-05-30T21:00:00.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\W\wine.jpg">
-      <PackagePath>EnglishLessonsMetirial\lettersPictuers\W\wine.jpg</PackagePath>
-      <Modified>2013-02-11T13:57:32.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\W\wool.jpg">
-      <PackagePath>EnglishLessonsMetirial\lettersPictuers\W\wool.jpg</PackagePath>
-      <Modified>2012-02-29T23:23:12.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\X\fox.jpg">
-      <PackagePath>EnglishLessonsMetirial\lettersPictuers\X\fox.jpg</PackagePath>
-      <Modified>2014-01-30T13:43:32.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\X\xylophone.jpg">
-      <PackagePath>EnglishLessonsMetirial\lettersPictuers\X\xylophone.jpg</PackagePath>
-      <Modified>2014-01-30T16:14:08.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\Y\yoyo.jpg">
-      <PackagePath>EnglishLessonsMetirial\lettersPictuers\Y\yoyo.jpg</PackagePath>
-      <Modified>2014-01-30T16:18:08.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\Z\zebra.jpg">
-      <PackagePath>EnglishLessonsMetirial\lettersPictuers\Z\zebra.jpg</PackagePath>
-      <Modified>2014-01-30T16:21:24.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersPictuers\Z\zipper.jpg">
-      <PackagePath>EnglishLessonsMetirial\lettersPictuers\Z\zipper.jpg</PackagePath>
-      <Modified>2010-04-23T06:10:36.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\LettersClip\a1.mov">
-      <PackagePath>EnglishLessonsMetirial\LettersClip\a1.mov</PackagePath>
-      <Modified>2014-02-01T20:09:50.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\LettersClip\a2.mov">
-      <PackagePath>EnglishLessonsMetirial\LettersClip\a2.mov</PackagePath>
-      <Modified>2014-02-02T15:19:00.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\LettersClip\b1.mov">
-      <PackagePath>EnglishLessonsMetirial\LettersClip\b1.mov</PackagePath>
-      <Modified>2014-02-02T15:19:00.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\LettersClip\b2.mov">
-      <PackagePath>EnglishLessonsMetirial\LettersClip\b2.mov</PackagePath>
-      <Modified>2014-02-02T15:19:00.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\LettersClip\c1.mov">
-      <PackagePath>EnglishLessonsMetirial\LettersClip\c1.mov</PackagePath>
-      <Modified>2014-02-02T15:19:00.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\LettersClip\c2.mov">
-      <PackagePath>EnglishLessonsMetirial\LettersClip\c2.mov</PackagePath>
-      <Modified>2014-02-02T15:19:00.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\LettersClip\d1.mov">
-      <PackagePath>EnglishLessonsMetirial\LettersClip\d1.mov</PackagePath>
-      <Modified>2014-02-02T15:19:00.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\LettersClip\d2.mov">
-      <PackagePath>EnglishLessonsMetirial\LettersClip\d2.mov</PackagePath>
-      <Modified>2014-02-02T15:19:00.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\LettersClip\e1.mov">
-      <PackagePath>EnglishLessonsMetirial\LettersClip\e1.mov</PackagePath>
-      <Modified>2014-02-02T15:19:00.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\LettersClip\e2.mov">
-      <PackagePath>EnglishLessonsMetirial\LettersClip\e2.mov</PackagePath>
-      <Modified>2014-02-02T15:19:00.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\LettersClip\f1.mov">
-      <PackagePath>EnglishLessonsMetirial\LettersClip\f1.mov</PackagePath>
-      <Modified>2014-02-02T15:19:00.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\LettersClip\f2.mov">
-      <PackagePath>EnglishLessonsMetirial\LettersClip\f2.mov</PackagePath>
-      <Modified>2014-02-02T15:19:00.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\LettersClip\g1.mov">
-      <PackagePath>EnglishLessonsMetirial\LettersClip\g1.mov</PackagePath>
-      <Modified>2014-02-02T15:19:00.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\LettersClip\g2.mov">
-      <PackagePath>EnglishLessonsMetirial\LettersClip\g2.mov</PackagePath>
-      <Modified>2014-02-02T15:19:00.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\LettersClip\h1.mov">
-      <PackagePath>EnglishLessonsMetirial\LettersClip\h1.mov</PackagePath>
-      <Modified>2014-02-02T15:19:00.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\LettersClip\h2.mov">
-      <PackagePath>EnglishLessonsMetirial\LettersClip\h2.mov</PackagePath>
-      <Modified>2014-02-02T15:19:00.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\LettersClip\i1.mov">
-      <PackagePath>EnglishLessonsMetirial\LettersClip\i1.mov</PackagePath>
-      <Modified>2014-02-02T15:19:00.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\LettersClip\i2.mov">
-      <PackagePath>EnglishLessonsMetirial\LettersClip\i2.mov</PackagePath>
-      <Modified>2014-02-02T15:19:00.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\LettersClip\j1.mov">
-      <PackagePath>EnglishLessonsMetirial\LettersClip\j1.mov</PackagePath>
-      <Modified>2014-02-02T15:19:00.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\LettersClip\j2.mov">
-      <PackagePath>EnglishLessonsMetirial\LettersClip\j2.mov</PackagePath>
-      <Modified>2014-02-02T15:19:00.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\LettersClip\k1.mov">
-      <PackagePath>EnglishLessonsMetirial\LettersClip\k1.mov</PackagePath>
-      <Modified>2014-02-02T15:19:00.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\LettersClip\k2.mov">
-      <PackagePath>EnglishLessonsMetirial\LettersClip\k2.mov</PackagePath>
-      <Modified>2014-02-02T15:19:00.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\LettersClip\L1.mov">
-      <PackagePath>EnglishLessonsMetirial\LettersClip\L1.mov</PackagePath>
-      <Modified>2014-02-02T15:19:00.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\LettersClip\L2.mov">
-      <PackagePath>EnglishLessonsMetirial\LettersClip\L2.mov</PackagePath>
-      <Modified>2014-02-02T15:19:00.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\LettersClip\m1.mov">
-      <PackagePath>EnglishLessonsMetirial\LettersClip\m1.mov</PackagePath>
-      <Modified>2014-02-02T15:19:00.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\LettersClip\m2.mov">
-      <PackagePath>EnglishLessonsMetirial\LettersClip\m2.mov</PackagePath>
-      <Modified>2014-02-02T15:19:00.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\LettersClip\n1.mov">
-      <PackagePath>EnglishLessonsMetirial\LettersClip\n1.mov</PackagePath>
-      <Modified>2014-02-02T15:19:00.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\LettersClip\n2.mov">
-      <PackagePath>EnglishLessonsMetirial\LettersClip\n2.mov</PackagePath>
-      <Modified>2014-02-02T15:19:00.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\LettersClip\o1.mov">
-      <PackagePath>EnglishLessonsMetirial\LettersClip\o1.mov</PackagePath>
-      <Modified>2014-02-02T15:19:00.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\LettersClip\o2.mov">
-      <PackagePath>EnglishLessonsMetirial\LettersClip\o2.mov</PackagePath>
-      <Modified>2014-02-02T15:19:00.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\LettersClip\p1.mov">
-      <PackagePath>EnglishLessonsMetirial\LettersClip\p1.mov</PackagePath>
-      <Modified>2014-02-02T15:19:00.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\LettersClip\p2.mov">
-      <PackagePath>EnglishLessonsMetirial\LettersClip\p2.mov</PackagePath>
-      <Modified>2014-02-02T15:19:00.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\LettersClip\q1.mov">
-      <PackagePath>EnglishLessonsMetirial\LettersClip\q1.mov</PackagePath>
-      <Modified>2014-02-02T15:19:00.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\LettersClip\q2.mov">
-      <PackagePath>EnglishLessonsMetirial\LettersClip\q2.mov</PackagePath>
-      <Modified>2014-02-02T15:19:00.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\LettersClip\r1.mov">
-      <PackagePath>EnglishLessonsMetirial\LettersClip\r1.mov</PackagePath>
-      <Modified>2014-02-02T15:19:00.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\LettersClip\r2.mov">
-      <PackagePath>EnglishLessonsMetirial\LettersClip\r2.mov</PackagePath>
-      <Modified>2014-02-02T15:19:00.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\LettersClip\s1.mov">
-      <PackagePath>EnglishLessonsMetirial\LettersClip\s1.mov</PackagePath>
-      <Modified>2014-02-02T15:19:00.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\LettersClip\s2.mov">
-      <PackagePath>EnglishLessonsMetirial\LettersClip\s2.mov</PackagePath>
-      <Modified>2014-02-02T15:19:00.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\LettersClip\t1.mov">
-      <PackagePath>EnglishLessonsMetirial\LettersClip\t1.mov</PackagePath>
-      <Modified>2014-02-02T15:19:00.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\LettersClip\t2.mov">
-      <PackagePath>EnglishLessonsMetirial\LettersClip\t2.mov</PackagePath>
-      <Modified>2014-02-02T15:19:00.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\LettersClip\u1.mov">
-      <PackagePath>EnglishLessonsMetirial\LettersClip\u1.mov</PackagePath>
-      <Modified>2014-02-02T15:19:00.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\LettersClip\u2.mov">
-      <PackagePath>EnglishLessonsMetirial\LettersClip\u2.mov</PackagePath>
-      <Modified>2014-02-02T15:19:00.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\LettersClip\v1.mov">
-      <PackagePath>EnglishLessonsMetirial\LettersClip\v1.mov</PackagePath>
-      <Modified>2014-02-02T15:19:00.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\LettersClip\v2.mov">
-      <PackagePath>EnglishLessonsMetirial\LettersClip\v2.mov</PackagePath>
-      <Modified>2014-02-02T15:19:00.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\LettersClip\w1.mov">
-      <PackagePath>EnglishLessonsMetirial\LettersClip\w1.mov</PackagePath>
-      <Modified>2014-02-02T15:19:00.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\LettersClip\w2.mov">
-      <PackagePath>EnglishLessonsMetirial\LettersClip\w2.mov</PackagePath>
-      <Modified>2014-02-02T15:19:00.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\LettersClip\x1.mov">
-      <PackagePath>EnglishLessonsMetirial\LettersClip\x1.mov</PackagePath>
-      <Modified>2014-02-02T15:19:00.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\LettersClip\x2.mov">
-      <PackagePath>EnglishLessonsMetirial\LettersClip\x2.mov</PackagePath>
-      <Modified>2014-02-02T15:19:00.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\LettersClip\y1.mov">
-      <PackagePath>EnglishLessonsMetirial\LettersClip\y1.mov</PackagePath>
-      <Modified>2014-02-02T15:19:00.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\LettersClip\y2.mov">
-      <PackagePath>EnglishLessonsMetirial\LettersClip\y2.mov</PackagePath>
-      <Modified>2014-02-02T15:19:00.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\LettersClip\z1.mov">
-      <PackagePath>EnglishLessonsMetirial\LettersClip\z1.mov</PackagePath>
-      <Modified>2014-02-02T15:19:00.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\LettersClip\z2.mov">
-      <PackagePath>EnglishLessonsMetirial\LettersClip\z2.mov</PackagePath>
-      <Modified>2014-02-02T15:19:00.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\Common\ReadMe.txt">
-      <PackagePath>Common\ReadMe.txt</PackagePath>
-      <Modified>2005-05-30T21:00:00.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\i2_sound.mp3">
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\i2_sound.mp3">
       <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\i2_sound.mp3</PackagePath>
-      <Modified>2014-02-07T14:22:14.000</Modified>
+      <Modified>2014-02-07T14:22:12.721</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\i1_sound.mp3">
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\i1_sound.mp3">
       <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\i1_sound.mp3</PackagePath>
-      <Modified>2014-02-07T14:22:14.000</Modified>
+      <Modified>2014-02-07T14:22:13.271</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\j1_sound.mp3">
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\j1_sound.mp3">
       <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\j1_sound.mp3</PackagePath>
-      <Modified>2014-02-07T14:22:14.000</Modified>
+      <Modified>2014-02-07T14:22:13.560</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\j2_sound.mp3">
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\j2_sound.mp3">
       <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\j2_sound.mp3</PackagePath>
-      <Modified>2014-02-07T14:22:14.000</Modified>
+      <Modified>2014-02-07T14:22:13.890</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\k1_sound.mp3">
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\k1_sound.mp3">
       <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\k1_sound.mp3</PackagePath>
-      <Modified>2014-02-07T14:22:14.000</Modified>
+      <Modified>2014-02-07T14:22:13.970</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\k2_sound.mp3">
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\k2_sound.mp3">
       <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\k2_sound.mp3</PackagePath>
-      <Modified>2014-02-07T14:22:16.000</Modified>
+      <Modified>2014-02-07T14:22:14.262</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\l1_sound.mp3">
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\l1_sound.mp3">
       <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\l1_sound.mp3</PackagePath>
-      <Modified>2014-02-07T14:22:16.000</Modified>
+      <Modified>2014-02-07T14:22:14.609</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\l2_sound.mp3">
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\l2_sound.mp3">
       <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\l2_sound.mp3</PackagePath>
-      <Modified>2014-02-07T14:22:16.000</Modified>
+      <Modified>2014-02-07T14:22:14.979</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\m1_sound.mp3">
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\m1_sound.mp3">
       <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\m1_sound.mp3</PackagePath>
-      <Modified>2014-02-07T14:22:16.000</Modified>
+      <Modified>2014-02-07T14:22:15.328</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\m2_sound.mp3">
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\m2_sound.mp3">
       <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\m2_sound.mp3</PackagePath>
-      <Modified>2014-02-07T14:22:16.000</Modified>
+      <Modified>2014-02-07T14:22:15.453</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\n1_sound.mp3">
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\n1_sound.mp3">
       <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\n1_sound.mp3</PackagePath>
-      <Modified>2014-02-07T14:22:18.000</Modified>
+      <Modified>2014-02-07T14:22:16.261</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\n2_sound.mp3">
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\n2_sound.mp3">
       <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\n2_sound.mp3</PackagePath>
-      <Modified>2014-02-07T14:22:18.000</Modified>
+      <Modified>2014-02-07T14:22:16.707</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\o1_sound.mp3">
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\o1_sound.mp3">
       <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\o1_sound.mp3</PackagePath>
-      <Modified>2014-02-07T14:22:18.000</Modified>
+      <Modified>2014-02-07T14:22:17.132</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\o2_sound.mp3">
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\o2_sound.mp3">
       <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\o2_sound.mp3</PackagePath>
-      <Modified>2014-02-07T14:22:18.000</Modified>
+      <Modified>2014-02-07T14:22:17.353</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\p1_sound.mp3">
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\p1_sound.mp3">
       <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\p1_sound.mp3</PackagePath>
-      <Modified>2014-02-07T14:22:18.000</Modified>
+      <Modified>2014-02-07T14:22:17.546</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\p2_sound.mp3">
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\p2_sound.mp3">
       <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\p2_sound.mp3</PackagePath>
-      <Modified>2014-02-07T14:22:18.000</Modified>
+      <Modified>2014-02-07T14:22:17.787</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\q1_sound.mp3">
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\q1_sound.mp3">
       <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\q1_sound.mp3</PackagePath>
-      <Modified>2014-02-07T14:22:18.000</Modified>
+      <Modified>2014-02-07T14:22:17.947</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\q2_sound.mp3">
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\q2_sound.mp3">
       <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\q2_sound.mp3</PackagePath>
-      <Modified>2014-02-07T14:22:20.000</Modified>
+      <Modified>2014-02-07T14:22:18.438</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\r1_sound.mp3">
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\r1_sound.mp3">
       <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\r1_sound.mp3</PackagePath>
       <Modified>2005-05-30T21:00:00.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\r2_sound.mp3">
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\r2_sound.mp3">
       <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\r2_sound.mp3</PackagePath>
       <Modified>2005-05-30T21:00:00.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\s1_sound.mp3">
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\s1_sound.mp3">
       <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\s1_sound.mp3</PackagePath>
       <Modified>2005-05-30T21:00:00.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\s2_sound.mp3">
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\s2_sound.mp3">
       <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\s2_sound.mp3</PackagePath>
       <Modified>2005-05-30T21:00:00.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\t1_sound.mp3">
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\t1_sound.mp3">
       <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\t1_sound.mp3</PackagePath>
       <Modified>2005-05-30T21:00:00.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\t2_sound.mp3">
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\t2_sound.mp3">
       <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\t2_sound.mp3</PackagePath>
       <Modified>2005-05-30T21:00:00.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\u1_sound.mp3">
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\u1_sound.mp3">
       <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\u1_sound.mp3</PackagePath>
       <Modified>2005-05-30T21:00:00.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\u2_sound.mp3">
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\u2_sound.mp3">
       <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\u2_sound.mp3</PackagePath>
       <Modified>2005-05-30T21:00:00.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\v1_sound.mp3">
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\v1_sound.mp3">
       <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\v1_sound.mp3</PackagePath>
       <Modified>2005-05-30T21:00:00.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\v2_sound.mp3">
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\v2_sound.mp3">
       <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\v2_sound.mp3</PackagePath>
       <Modified>2005-05-30T21:00:00.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\w1_sound.mp3">
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\w1_sound.mp3">
       <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\w1_sound.mp3</PackagePath>
       <Modified>2005-05-30T21:00:00.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\w2_sound.mp3">
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\w2_sound.mp3">
       <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\w2_sound.mp3</PackagePath>
       <Modified>2005-05-30T21:00:00.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\x1_sound.mp3">
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\x1_sound.mp3">
       <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\x1_sound.mp3</PackagePath>
       <Modified>2005-05-30T21:00:00.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\x2_sound.mp3">
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\x2_sound.mp3">
       <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\x2_sound.mp3</PackagePath>
       <Modified>2005-05-30T21:00:00.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\y1_sound.mp3">
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\y1_sound.mp3">
       <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\y1_sound.mp3</PackagePath>
-      <Modified>2005-05-30T21:00:00.000</Modified>
+      <Modified>2014-03-03T23:19:28.003</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\y2_sound.mp3">
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\y2_sound.mp3">
       <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\y2_sound.mp3</PackagePath>
       <Modified>2005-05-30T21:00:00.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\z1_sound.mp3">
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\z1_sound.mp3">
       <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\z1_sound.mp3</PackagePath>
       <Modified>2005-05-30T21:00:00.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\z2_sound.mp3">
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\z2_sound.mp3">
       <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\z2_sound.mp3</PackagePath>
       <Modified>2005-05-30T21:00:00.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSound\020514-232244.mp3">
-      <PackagePath>EnglishLessonsMetirial\lettersSound\020514-232244.mp3</PackagePath>
-      <Modified>2005-05-30T21:00:00.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSound\07 בענין השמחה.mp3">
-      <PackagePath>EnglishLessonsMetirial\lettersSound\07 בענין השמחה.mp3</PackagePath>
-      <Modified>2014-01-19T15:26:38.000</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\a1_sound.mp3">
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\a1_sound.mp3">
       <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\a1_sound.mp3</PackagePath>
       <Modified>2005-05-30T21:00:00.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\a2_sound.mp3">
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\a2_sound.mp3">
       <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\a2_sound.mp3</PackagePath>
       <Modified>2005-05-30T21:00:00.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\b1_sound.mp3">
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\b1_sound.mp3">
       <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\b1_sound.mp3</PackagePath>
       <Modified>2005-05-30T21:00:00.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\b2_sound.mp3">
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\b2_sound.mp3">
       <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\b2_sound.mp3</PackagePath>
       <Modified>2005-05-30T21:00:00.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\c1_sound.mp3">
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\c1_sound.mp3">
       <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\c1_sound.mp3</PackagePath>
       <Modified>2005-05-30T21:00:00.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\c2_sound.mp3">
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\c2_sound.mp3">
       <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\c2_sound.mp3</PackagePath>
       <Modified>2005-05-30T21:00:00.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\d1_sound.mp3">
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\d1_sound.mp3">
       <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\d1_sound.mp3</PackagePath>
       <Modified>2005-05-30T21:00:00.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\d2_sound.mp3">
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\d2_sound.mp3">
       <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\d2_sound.mp3</PackagePath>
       <Modified>2005-05-30T21:00:00.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\e1_sound.mp3">
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\e1_sound.mp3">
       <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\e1_sound.mp3</PackagePath>
       <Modified>2005-05-30T21:00:00.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\e2_sound.mp3">
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\e2_sound.mp3">
       <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\e2_sound.mp3</PackagePath>
       <Modified>2005-05-30T21:00:00.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\f1_sound.mp3">
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\f1_sound.mp3">
       <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\f1_sound.mp3</PackagePath>
       <Modified>2005-05-30T21:00:00.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\f2_sound.mp3">
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\f2_sound.mp3">
       <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\f2_sound.mp3</PackagePath>
       <Modified>2005-05-30T21:00:00.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\g1_sound.mp3">
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\g1_sound.mp3">
       <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\g1_sound.mp3</PackagePath>
       <Modified>2005-05-30T21:00:00.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\g2_sound.mp3">
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\g2_sound.mp3">
       <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\g2_sound.mp3</PackagePath>
       <Modified>2005-05-30T21:00:00.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\h1_sound.mp3">
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\h1_sound.mp3">
       <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\h1_sound.mp3</PackagePath>
       <Modified>2005-05-30T21:00:00.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\h2_sound.mp3">
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersSoundExplaenation\h2_sound.mp3">
       <PackagePath>EnglishLessonsMetirial\lettersSoundExplaenation\h2_sound.mp3</PackagePath>
       <Modified>2005-05-30T21:00:00.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\EnglishLessonsMetirial\lettersSound\Track 01.mp3">
-      <PackagePath>EnglishLessonsMetirial\lettersSound\Track 01.mp3</PackagePath>
-      <Modified>2014-01-19T13:47:40.000</Modified>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\Assets\backgrounds\Checkpoint.WAV">
+      <PackagePath>Assets\backgrounds\Checkpoint.WAV</PackagePath>
+      <Modified>2014-03-05T15:13:34.011</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\XML\dataFiles\lessons.xml">
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\Assets\backgrounds\chrcbell.wav">
+      <PackagePath>Assets\backgrounds\chrcbell.wav</PackagePath>
+      <Modified>2014-03-05T15:13:34.049</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\Assets\backgrounds\pickup10.wav">
+      <PackagePath>Assets\backgrounds\pickup10.wav</PackagePath>
+      <Modified>2014-03-05T15:13:34.119</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\Assets\backgrounds\Yeah.wav">
+      <PackagePath>Assets\backgrounds\Yeah.wav</PackagePath>
+      <Modified>2014-03-05T15:13:33.919</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\Assets\backgrounds\אותיות שנלמד השיעור.jpg">
+      <PackagePath>Assets\backgrounds\אותיות שנלמד השיעור.jpg</PackagePath>
+      <Modified>2014-03-02T09:12:10.168</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\Assets\backgrounds\דף עבודה .jpg">
+      <PackagePath>Assets\backgrounds\דף עבודה .jpg</PackagePath>
+      <Modified>2014-03-02T09:12:18.614</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\Assets\backgrounds\חזרה.jpg">
+      <PackagePath>Assets\backgrounds\חזרה.jpg</PackagePath>
+      <Modified>2014-02-25T15:25:32.153</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\Assets\backgrounds\מסך כתיבת אות.jpg">
+      <PackagePath>Assets\backgrounds\מסך כתיבת אות.jpg</PackagePath>
+      <Modified>2014-03-03T22:05:26.756</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\Assets\backgrounds\תמונות של האות.jpg">
+      <PackagePath>Assets\backgrounds\תמונות של האות.jpg</PackagePath>
+      <Modified>2014-02-27T15:03:56.320</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\Assets\backgrounds\מפת שיעורים.jpg">
+      <PackagePath>Assets\backgrounds\מפת שיעורים.jpg</PackagePath>
+      <Modified>2014-02-25T15:25:52.937</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\Assets\backgrounds\מסכים לימוד אנגלית ב.jpg">
+      <PackagePath>Assets\backgrounds\מסכים לימוד אנגלית ב.jpg</PackagePath>
+      <Modified>2014-02-24T10:37:19.595</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\Assets\backgrounds\מסכים לימוד אנגלית ב2.jpg">
+      <PackagePath>Assets\backgrounds\מסכים לימוד אנגלית ב2.jpg</PackagePath>
+      <Modified>2014-02-24T15:30:46.076</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\Assets\backgrounds\מסכים לימוד אנגלית ג.jpg">
+      <PackagePath>Assets\backgrounds\מסכים לימוד אנגלית ג.jpg</PackagePath>
+      <Modified>2014-02-24T10:37:19.669</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\Assets\backgrounds\מסכים לימוד אנגלית ג2.jpg">
+      <PackagePath>Assets\backgrounds\מסכים לימוד אנגלית ג2.jpg</PackagePath>
+      <Modified>2014-02-24T10:37:19.743</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\Assets\backgrounds\מסכים לימוד אנגלית ג3.jpg">
+      <PackagePath>Assets\backgrounds\מסכים לימוד אנגלית ג3.jpg</PackagePath>
+      <Modified>2014-02-24T15:53:23.457</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\Assets\backgrounds\מסכים לימוד אנגלית ג4.jpg">
+      <PackagePath>Assets\backgrounds\מסכים לימוד אנגלית ג4.jpg</PackagePath>
+      <Modified>2014-02-24T10:37:19.793</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\Assets\backgrounds\מסכים לימוד אנגלית.jpg">
+      <PackagePath>Assets\backgrounds\מסכים לימוד אנגלית.jpg</PackagePath>
+      <Modified>2014-02-24T10:37:19.834</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\Assets\backgrounds\מסכים לימוד אנגלית2.jpg">
+      <PackagePath>Assets\backgrounds\מסכים לימוד אנגלית2.jpg</PackagePath>
+      <Modified>2014-02-24T10:37:19.249</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\Assets\backgrounds\מסכים לימוד אנגלית3.jpg">
+      <PackagePath>Assets\backgrounds\מסכים לימוד אנגלית3.jpg</PackagePath>
+      <Modified>2014-02-24T10:37:19.389</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\Assets\מסכים לימוד אנגלית.jpg">
+      <PackagePath>Assets\מסכים לימוד אנגלית.jpg</PackagePath>
+      <Modified>2014-02-22T21:57:47.922</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersPictuers\A\apple.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\A\apple.jpg</PackagePath>
+      <Modified>2005-05-30T21:00:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersPictuers\B\baby.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\B\baby.jpg</PackagePath>
+      <Modified>2013-02-06T21:47:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersPictuers\B\ball.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\B\ball.jpg</PackagePath>
+      <Modified>2012-02-29T23:33:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersPictuers\B\balloon.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\B\balloon.jpg</PackagePath>
+      <Modified>2012-02-29T23:15:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersPictuers\B\banana.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\B\banana.jpg</PackagePath>
+      <Modified>2005-05-30T21:00:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersPictuers\C\cake.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\C\cake.jpg</PackagePath>
+      <Modified>2010-03-01T19:44:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersPictuers\C\camera.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\C\camera.jpg</PackagePath>
+      <Modified>2005-05-30T21:00:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersPictuers\C\clothing.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\C\clothing.jpg</PackagePath>
+      <Modified>2013-02-11T21:43:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersPictuers\C\crown.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\C\crown.jpg</PackagePath>
+      <Modified>2010-02-18T10:44:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersPictuers\C\cup.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\C\cup.jpg</PackagePath>
+      <Modified>2014-03-05T10:51:43.626</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersPictuers\D\diamond.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\D\diamond.jpg</PackagePath>
+      <Modified>2005-05-30T21:00:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersPictuers\D\disc.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\D\disc.jpg</PackagePath>
+      <Modified>2012-03-08T18:03:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersPictuers\D\dog.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\D\dog.jpg</PackagePath>
+      <Modified>2014-02-02T10:46:45.437</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersPictuers\D\doll.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\D\doll.jpg</PackagePath>
+      <Modified>2014-02-09T18:31:03.932</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersPictuers\E\eeg.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\E\eeg.jpg</PackagePath>
+      <Modified>2014-02-09T12:41:32.033</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersPictuers\E\elephant.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\E\elephant.jpg</PackagePath>
+      <Modified>2014-01-30T13:33:19.153</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersPictuers\F\finger.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\F\finger.jpg</PackagePath>
+      <Modified>2014-01-30T13:45:53.145</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersPictuers\F\fish.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\F\fish.jpg</PackagePath>
+      <Modified>2012-02-28T17:50:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersPictuers\F\flower.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\F\flower.jpg</PackagePath>
+      <Modified>2010-03-01T21:07:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersPictuers\F\foot.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\F\foot.jpg</PackagePath>
+      <Modified>2005-05-30T21:00:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersPictuers\G\giraffe.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\G\giraffe.jpg</PackagePath>
+      <Modified>2010-05-04T18:32:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersPictuers\G\glasses.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\G\glasses.jpg</PackagePath>
+      <Modified>2013-02-09T20:16:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersPictuers\G\guitar.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\G\guitar.jpg</PackagePath>
+      <Modified>2010-03-19T10:49:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersPictuers\H\hamburger.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\H\hamburger.jpg</PackagePath>
+      <Modified>2012-02-20T18:16:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersPictuers\H\heart.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\H\heart.jpg</PackagePath>
+      <Modified>2013-02-06T21:16:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersPictuers\H\house.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\H\house.jpg</PackagePath>
+      <Modified>2013-02-13T22:24:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersPictuers\I\ice cream.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\I\ice cream.jpg</PackagePath>
+      <Modified>2014-02-02T10:59:09.311</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersPictuers\I\igloo.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\I\igloo.jpg</PackagePath>
+      <Modified>2014-02-06T09:32:13.767</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersPictuers\I\image.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\I\image.jpg</PackagePath>
+      <Modified>2014-02-02T11:18:05.513</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersPictuers\J\jacket.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\J\jacket.jpg</PackagePath>
+      <Modified>2014-01-30T14:29:02.686</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersPictuers\J\jelly.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\J\jelly.jpg</PackagePath>
+      <Modified>2010-02-23T15:16:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersPictuers\K\key.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\K\key.jpg</PackagePath>
+      <Modified>2014-01-30T14:40:43.670</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersPictuers\K\keyboard.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\K\keyboard.jpg</PackagePath>
+      <Modified>2014-01-30T14:43:16.688</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersPictuers\K\kite.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\K\kite.jpg</PackagePath>
+      <Modified>2014-02-02T11:35:04.616</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersPictuers\K\kiwi.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\K\kiwi.jpg</PackagePath>
+      <Modified>2014-02-02T11:38:14.842</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersPictuers\L\laundering.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\L\laundering.jpg</PackagePath>
+      <Modified>2013-02-11T21:43:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersPictuers\L\lion.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\L\lion.jpg</PackagePath>
+      <Modified>2012-02-26T19:27:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersPictuers\M\Matkot.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\M\Matkot.jpg</PackagePath>
+      <Modified>2013-02-11T13:41:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersPictuers\M\microphone.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\M\microphone.jpg</PackagePath>
+      <Modified>2013-02-15T07:20:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersPictuers\M\milk.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\M\milk.jpg</PackagePath>
+      <Modified>2014-02-09T18:39:35.531</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersPictuers\N\nest.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\N\nest.jpg</PackagePath>
+      <Modified>2014-01-30T15:19:49.794</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersPictuers\N\nut.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\N\nut.jpg</PackagePath>
+      <Modified>2010-05-09T10:26:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersPictuers\O\olive.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\O\olive.jpg</PackagePath>
+      <Modified>2010-02-26T00:49:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersPictuers\O\organ.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\O\organ.jpg</PackagePath>
+      <Modified>2014-02-02T16:12:33.793</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersPictuers\P\pen.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\P\pen.jpg</PackagePath>
+      <Modified>2005-05-30T21:00:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersPictuers\P\pepper.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\P\pepper.jpg</PackagePath>
+      <Modified>2012-02-28T17:41:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersPictuers\P\popcorn.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\P\popcorn.jpg</PackagePath>
+      <Modified>2010-03-03T07:46:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersPictuers\P\present.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\P\present.jpg</PackagePath>
+      <Modified>2010-03-19T10:03:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersPictuers\Q\queen.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\Q\queen.jpg</PackagePath>
+      <Modified>2014-03-03T21:06:10.072</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersPictuers\R\rabbit.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\R\rabbit.jpg</PackagePath>
+      <Modified>2013-02-03T16:14:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersPictuers\R\rake.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\R\rake.jpg</PackagePath>
+      <Modified>2014-01-30T15:44:07.502</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersPictuers\R\roof.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\R\roof.jpg</PackagePath>
+      <Modified>2014-01-30T15:39:55.843</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersPictuers\R\ruler.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\R\ruler.jpg</PackagePath>
+      <Modified>2014-01-30T15:45:48.073</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersPictuers\S\sack.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\S\sack.jpg</PackagePath>
+      <Modified>2013-02-16T18:32:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersPictuers\S\scoote.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\S\scoote.jpg</PackagePath>
+      <Modified>2013-02-15T08:04:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersPictuers\S\snake.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\S\snake.jpg</PackagePath>
+      <Modified>2013-02-12T21:35:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersPictuers\S\sofa.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\S\sofa.jpg</PackagePath>
+      <Modified>2014-02-09T12:39:20.773</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersPictuers\T\tractor.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\T\tractor.jpg</PackagePath>
+      <Modified>2014-02-06T10:19:48.088</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersPictuers\T\train.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\T\train.jpg</PackagePath>
+      <Modified>2012-09-05T11:57:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersPictuers\T\tree.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\T\tree.jpg</PackagePath>
+      <Modified>2005-05-30T21:00:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersPictuers\U\umbrella.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\U\umbrella.jpg</PackagePath>
+      <Modified>2005-05-30T21:00:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersPictuers\U\unicycle.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\U\unicycle.jpg</PackagePath>
+      <Modified>2014-03-03T21:32:02.507</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersPictuers\V\vegetable.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\V\vegetable.jpg</PackagePath>
+      <Modified>2012-02-21T18:13:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersPictuers\V\vest.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\V\vest.jpg</PackagePath>
+      <Modified>2014-01-30T16:03:16.434</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersPictuers\V\violin.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\V\violin.jpg</PackagePath>
+      <Modified>2010-04-26T22:26:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersPictuers\W\water.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\W\water.jpg</PackagePath>
+      <Modified>2010-03-01T19:55:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersPictuers\W\watermelon.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\W\watermelon.jpg</PackagePath>
+      <Modified>2005-05-30T21:00:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersPictuers\W\wine.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\W\wine.jpg</PackagePath>
+      <Modified>2013-02-11T13:57:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersPictuers\W\wool.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\W\wool.jpg</PackagePath>
+      <Modified>2012-02-29T23:23:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersPictuers\X\fox.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\X\fox.jpg</PackagePath>
+      <Modified>2014-01-30T13:43:31.983</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersPictuers\X\ox.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\X\ox.jpg</PackagePath>
+      <Modified>2014-03-03T21:18:11.234</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersPictuers\X\xylophone.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\X\xylophone.jpg</PackagePath>
+      <Modified>2014-01-30T16:14:06.719</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersPictuers\Y\yarmulke.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\Y\yarmulke.jpg</PackagePath>
+      <Modified>2014-02-09T12:51:53.361</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersPictuers\Y\yellow.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\Y\yellow.jpg</PackagePath>
+      <Modified>2014-03-03T21:26:56.152</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersPictuers\Y\yoyo.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\Y\yoyo.jpg</PackagePath>
+      <Modified>2014-01-30T16:18:07.845</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersPictuers\Z\zebra.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\Z\zebra.jpg</PackagePath>
+      <Modified>2014-01-30T16:21:23.293</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\lettersPictuers\Z\zipper.jpg">
+      <PackagePath>EnglishLessonsMetirial\lettersPictuers\Z\zipper.jpg</PackagePath>
+      <Modified>2014-02-09T18:51:34.437</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\Assets\backgrounds\זלדה.avi">
+      <PackagePath>Assets\backgrounds\זלדה.avi</PackagePath>
+      <Modified>2014-03-04T21:35:42.413</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\LettersClip\a1.mov">
+      <PackagePath>EnglishLessonsMetirial\LettersClip\a1.mov</PackagePath>
+      <Modified>2014-02-01T20:09:49.987</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\Common\a2.mov">
+      <PackagePath>Common\a2.mov</PackagePath>
+      <Modified>2014-02-02T15:18:58.626</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\LettersClip\b1.mov">
+      <PackagePath>EnglishLessonsMetirial\LettersClip\b1.mov</PackagePath>
+      <Modified>2014-02-02T15:18:58.633</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\LettersClip\b2.mov">
+      <PackagePath>EnglishLessonsMetirial\LettersClip\b2.mov</PackagePath>
+      <Modified>2014-02-02T15:18:58.652</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\LettersClip\c1.mov">
+      <PackagePath>EnglishLessonsMetirial\LettersClip\c1.mov</PackagePath>
+      <Modified>2014-02-02T15:18:58.658</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\LettersClip\c2.mov">
+      <PackagePath>EnglishLessonsMetirial\LettersClip\c2.mov</PackagePath>
+      <Modified>2014-02-02T15:18:58.666</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\LettersClip\d1.mov">
+      <PackagePath>EnglishLessonsMetirial\LettersClip\d1.mov</PackagePath>
+      <Modified>2014-02-02T15:18:58.673</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\LettersClip\d2.mov">
+      <PackagePath>EnglishLessonsMetirial\LettersClip\d2.mov</PackagePath>
+      <Modified>2014-02-02T15:18:58.680</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\LettersClip\e1.mov">
+      <PackagePath>EnglishLessonsMetirial\LettersClip\e1.mov</PackagePath>
+      <Modified>2014-02-02T15:18:58.699</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\LettersClip\e2.mov">
+      <PackagePath>EnglishLessonsMetirial\LettersClip\e2.mov</PackagePath>
+      <Modified>2014-02-02T15:18:58.722</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\LettersClip\f1.mov">
+      <PackagePath>EnglishLessonsMetirial\LettersClip\f1.mov</PackagePath>
+      <Modified>2014-02-02T15:18:58.728</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\LettersClip\f2.mov">
+      <PackagePath>EnglishLessonsMetirial\LettersClip\f2.mov</PackagePath>
+      <Modified>2014-02-02T15:18:58.735</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\LettersClip\g1.mov">
+      <PackagePath>EnglishLessonsMetirial\LettersClip\g1.mov</PackagePath>
+      <Modified>2014-02-02T15:18:58.742</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\LettersClip\g2.mov">
+      <PackagePath>EnglishLessonsMetirial\LettersClip\g2.mov</PackagePath>
+      <Modified>2014-02-02T15:18:58.749</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\LettersClip\h1.mov">
+      <PackagePath>EnglishLessonsMetirial\LettersClip\h1.mov</PackagePath>
+      <Modified>2014-02-02T15:18:58.756</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\LettersClip\h2.mov">
+      <PackagePath>EnglishLessonsMetirial\LettersClip\h2.mov</PackagePath>
+      <Modified>2014-02-02T15:18:58.762</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\LettersClip\i1.mov">
+      <PackagePath>EnglishLessonsMetirial\LettersClip\i1.mov</PackagePath>
+      <Modified>2014-02-02T15:18:58.768</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\LettersClip\i2.mov">
+      <PackagePath>EnglishLessonsMetirial\LettersClip\i2.mov</PackagePath>
+      <Modified>2014-02-02T15:18:58.775</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\LettersClip\j1.mov">
+      <PackagePath>EnglishLessonsMetirial\LettersClip\j1.mov</PackagePath>
+      <Modified>2014-02-02T15:18:58.782</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\LettersClip\j2.mov">
+      <PackagePath>EnglishLessonsMetirial\LettersClip\j2.mov</PackagePath>
+      <Modified>2014-02-02T15:18:58.790</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\LettersClip\k1.mov">
+      <PackagePath>EnglishLessonsMetirial\LettersClip\k1.mov</PackagePath>
+      <Modified>2014-02-02T15:18:58.798</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\LettersClip\k2.mov">
+      <PackagePath>EnglishLessonsMetirial\LettersClip\k2.mov</PackagePath>
+      <Modified>2014-02-02T15:18:58.805</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\LettersClip\L1.mov">
+      <PackagePath>EnglishLessonsMetirial\LettersClip\L1.mov</PackagePath>
+      <Modified>2014-02-02T15:18:58.359</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\LettersClip\L2.mov">
+      <PackagePath>EnglishLessonsMetirial\LettersClip\L2.mov</PackagePath>
+      <Modified>2014-02-02T15:18:58.367</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\LettersClip\m1.mov">
+      <PackagePath>EnglishLessonsMetirial\LettersClip\m1.mov</PackagePath>
+      <Modified>2014-02-02T15:18:58.374</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\LettersClip\m2.mov">
+      <PackagePath>EnglishLessonsMetirial\LettersClip\m2.mov</PackagePath>
+      <Modified>2014-02-02T15:18:58.399</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\LettersClip\n1.mov">
+      <PackagePath>EnglishLessonsMetirial\LettersClip\n1.mov</PackagePath>
+      <Modified>2014-02-02T15:18:58.407</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\LettersClip\n2.mov">
+      <PackagePath>EnglishLessonsMetirial\LettersClip\n2.mov</PackagePath>
+      <Modified>2014-02-02T15:18:58.414</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\LettersClip\o1.mov">
+      <PackagePath>EnglishLessonsMetirial\LettersClip\o1.mov</PackagePath>
+      <Modified>2014-02-02T15:18:58.422</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\LettersClip\o2.mov">
+      <PackagePath>EnglishLessonsMetirial\LettersClip\o2.mov</PackagePath>
+      <Modified>2014-02-02T15:18:58.444</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\LettersClip\p1.mov">
+      <PackagePath>EnglishLessonsMetirial\LettersClip\p1.mov</PackagePath>
+      <Modified>2014-02-02T15:18:58.451</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\LettersClip\p2.mov">
+      <PackagePath>EnglishLessonsMetirial\LettersClip\p2.mov</PackagePath>
+      <Modified>2014-02-02T15:18:58.458</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\LettersClip\q1.mov">
+      <PackagePath>EnglishLessonsMetirial\LettersClip\q1.mov</PackagePath>
+      <Modified>2014-02-02T15:18:58.465</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\LettersClip\q2.mov">
+      <PackagePath>EnglishLessonsMetirial\LettersClip\q2.mov</PackagePath>
+      <Modified>2014-02-02T15:18:58.477</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\LettersClip\r1.mov">
+      <PackagePath>EnglishLessonsMetirial\LettersClip\r1.mov</PackagePath>
+      <Modified>2014-02-02T15:18:58.484</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\LettersClip\r2.mov">
+      <PackagePath>EnglishLessonsMetirial\LettersClip\r2.mov</PackagePath>
+      <Modified>2014-02-02T15:18:58.492</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\LettersClip\s1.mov">
+      <PackagePath>EnglishLessonsMetirial\LettersClip\s1.mov</PackagePath>
+      <Modified>2014-02-02T15:18:58.499</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\LettersClip\s2.mov">
+      <PackagePath>EnglishLessonsMetirial\LettersClip\s2.mov</PackagePath>
+      <Modified>2014-02-02T15:18:58.508</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\LettersClip\t1.mov">
+      <PackagePath>EnglishLessonsMetirial\LettersClip\t1.mov</PackagePath>
+      <Modified>2014-02-02T15:18:58.515</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\LettersClip\t2.mov">
+      <PackagePath>EnglishLessonsMetirial\LettersClip\t2.mov</PackagePath>
+      <Modified>2014-02-02T15:18:58.536</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\LettersClip\u1.mov">
+      <PackagePath>EnglishLessonsMetirial\LettersClip\u1.mov</PackagePath>
+      <Modified>2014-02-02T15:18:58.543</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\LettersClip\u2.mov">
+      <PackagePath>EnglishLessonsMetirial\LettersClip\u2.mov</PackagePath>
+      <Modified>2014-02-02T15:18:58.549</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\LettersClip\v1.mov">
+      <PackagePath>EnglishLessonsMetirial\LettersClip\v1.mov</PackagePath>
+      <Modified>2014-02-02T15:18:58.556</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\LettersClip\v2.mov">
+      <PackagePath>EnglishLessonsMetirial\LettersClip\v2.mov</PackagePath>
+      <Modified>2014-02-02T15:18:58.563</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\LettersClip\w1.mov">
+      <PackagePath>EnglishLessonsMetirial\LettersClip\w1.mov</PackagePath>
+      <Modified>2014-02-02T15:18:58.571</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\LettersClip\w2.mov">
+      <PackagePath>EnglishLessonsMetirial\LettersClip\w2.mov</PackagePath>
+      <Modified>2014-02-02T15:18:58.577</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\LettersClip\x1.mov">
+      <PackagePath>EnglishLessonsMetirial\LettersClip\x1.mov</PackagePath>
+      <Modified>2014-02-02T15:18:58.584</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\LettersClip\x2.mov">
+      <PackagePath>EnglishLessonsMetirial\LettersClip\x2.mov</PackagePath>
+      <Modified>2014-02-02T15:18:58.591</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\LettersClip\y1.mov">
+      <PackagePath>EnglishLessonsMetirial\LettersClip\y1.mov</PackagePath>
+      <Modified>2014-02-02T15:18:58.598</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\LettersClip\y2.mov">
+      <PackagePath>EnglishLessonsMetirial\LettersClip\y2.mov</PackagePath>
+      <Modified>2014-02-02T15:18:58.605</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\LettersClip\z1.mov">
+      <PackagePath>EnglishLessonsMetirial\LettersClip\z1.mov</PackagePath>
+      <Modified>2014-02-02T15:18:58.611</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\LettersClip\z2.mov">
+      <PackagePath>EnglishLessonsMetirial\LettersClip\z2.mov</PackagePath>
+      <Modified>2014-02-02T15:18:58.619</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2005-05-30T21:00:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\wordSuond\A\acordion.m4a">
+      <PackagePath>EnglishLessonsMetirial\wordSuond\A\acordion.m4a</PackagePath>
+      <Modified>2014-03-04T16:00:32.556</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\wordSuond\A\ambulace.m4a">
+      <PackagePath>EnglishLessonsMetirial\wordSuond\A\ambulace.m4a</PackagePath>
+      <Modified>2014-03-04T15:59:47.137</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\wordSuond\A\apple.m4a">
+      <PackagePath>EnglishLessonsMetirial\wordSuond\A\apple.m4a</PackagePath>
+      <Modified>2014-03-04T15:59:18.944</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\wordSuond\A\atlas.m4a">
+      <PackagePath>EnglishLessonsMetirial\wordSuond\A\atlas.m4a</PackagePath>
+      <Modified>2014-03-03T12:01:21.839</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\wordSuond\B\baby.m4a">
+      <PackagePath>EnglishLessonsMetirial\wordSuond\B\baby.m4a</PackagePath>
+      <Modified>2014-03-04T16:10:56.121</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\wordSuond\B\ball.m4a">
+      <PackagePath>EnglishLessonsMetirial\wordSuond\B\ball.m4a</PackagePath>
+      <Modified>2014-03-04T16:11:01.965</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\wordSuond\B\balloon.m4a">
+      <PackagePath>EnglishLessonsMetirial\wordSuond\B\balloon.m4a</PackagePath>
+      <Modified>2014-03-04T13:04:59.237</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\wordSuond\B\banana.m4a">
+      <PackagePath>EnglishLessonsMetirial\wordSuond\B\banana.m4a</PackagePath>
+      <Modified>2014-03-03T12:07:55.587</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\wordSuond\C\cake.m4a">
+      <PackagePath>EnglishLessonsMetirial\wordSuond\C\cake.m4a</PackagePath>
+      <Modified>2014-03-04T16:10:47.527</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\wordSuond\C\camera.m4a">
+      <PackagePath>EnglishLessonsMetirial\wordSuond\C\camera.m4a</PackagePath>
+      <Modified>2014-03-04T16:10:32.139</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\wordSuond\C\crown.m4a">
+      <PackagePath>EnglishLessonsMetirial\wordSuond\C\crown.m4a</PackagePath>
+      <Modified>2014-03-04T16:10:25.576</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\wordSuond\C\cup.m4a">
+      <PackagePath>EnglishLessonsMetirial\wordSuond\C\cup.m4a</PackagePath>
+      <Modified>2014-03-04T16:10:38.277</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\wordSuond\D\diamond.m4a">
+      <PackagePath>EnglishLessonsMetirial\wordSuond\D\diamond.m4a</PackagePath>
+      <Modified>2014-03-04T16:10:02.075</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\wordSuond\D\disk.m4a">
+      <PackagePath>EnglishLessonsMetirial\wordSuond\D\disk.m4a</PackagePath>
+      <Modified>2014-03-04T16:09:51.184</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\wordSuond\D\dog.m4a">
+      <PackagePath>EnglishLessonsMetirial\wordSuond\D\dog.m4a</PackagePath>
+      <Modified>2014-03-04T16:09:42.465</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\wordSuond\D\doll.m4a">
+      <PackagePath>EnglishLessonsMetirial\wordSuond\D\doll.m4a</PackagePath>
+      <Modified>2014-03-04T16:10:11.888</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\wordSuond\E\egg.m4a">
+      <PackagePath>EnglishLessonsMetirial\wordSuond\E\egg.m4a</PackagePath>
+      <Modified>2014-03-04T16:09:36.824</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\wordSuond\E\eggplant.m4a">
+      <PackagePath>EnglishLessonsMetirial\wordSuond\E\eggplant.m4a</PackagePath>
+      <Modified>2014-03-04T16:09:19.339</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\wordSuond\E\elefant.m4a">
+      <PackagePath>EnglishLessonsMetirial\wordSuond\E\elefant.m4a</PackagePath>
+      <Modified>2014-03-04T16:08:55.041</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\wordSuond\E\envalope.m4a">
+      <PackagePath>EnglishLessonsMetirial\wordSuond\E\envalope.m4a</PackagePath>
+      <Modified>2014-03-04T16:09:29.652</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\wordSuond\F\finger.m4a">
+      <PackagePath>EnglishLessonsMetirial\wordSuond\F\finger.m4a</PackagePath>
+      <Modified>2014-03-04T16:08:28.040</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\wordSuond\F\fish.m4a">
+      <PackagePath>EnglishLessonsMetirial\wordSuond\F\fish.m4a</PackagePath>
+      <Modified>2014-03-04T16:08:44.150</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\wordSuond\F\flower.m4a">
+      <PackagePath>EnglishLessonsMetirial\wordSuond\F\flower.m4a</PackagePath>
+      <Modified>2014-03-04T16:09:09.870</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\wordSuond\F\foot.m4a">
+      <PackagePath>EnglishLessonsMetirial\wordSuond\F\foot.m4a</PackagePath>
+      <Modified>2014-03-04T16:08:06.476</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\wordSuond\G\giraf.m4a">
+      <PackagePath>EnglishLessonsMetirial\wordSuond\G\giraf.m4a</PackagePath>
+      <Modified>2014-03-04T16:08:20.758</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\wordSuond\G\gitar.m4a">
+      <PackagePath>EnglishLessonsMetirial\wordSuond\G\gitar.m4a</PackagePath>
+      <Modified>2014-03-04T16:07:34.506</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\wordSuond\G\glasses.m4a">
+      <PackagePath>EnglishLessonsMetirial\wordSuond\G\glasses.m4a</PackagePath>
+      <Modified>2014-03-04T16:08:37.931</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\wordSuond\G\grapes.m4a">
+      <PackagePath>EnglishLessonsMetirial\wordSuond\G\grapes.m4a</PackagePath>
+      <Modified>2014-03-04T16:07:43.397</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\wordSuond\H\hamburger.m4a">
+      <PackagePath>EnglishLessonsMetirial\wordSuond\H\hamburger.m4a</PackagePath>
+      <Modified>2014-03-04T16:06:56.364</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\wordSuond\H\hat.m4a">
+      <PackagePath>EnglishLessonsMetirial\wordSuond\H\hat.m4a</PackagePath>
+      <Modified>2014-03-04T16:07:00.958</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\wordSuond\H\huouse.m4a">
+      <PackagePath>EnglishLessonsMetirial\wordSuond\H\huouse.m4a</PackagePath>
+      <Modified>2014-03-04T16:07:11.208</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\wordSuond\H\hurt.m4a">
+      <PackagePath>EnglishLessonsMetirial\wordSuond\H\hurt.m4a</PackagePath>
+      <Modified>2014-03-04T16:07:17.115</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\wordSuond\I\ice cream.m4a">
+      <PackagePath>EnglishLessonsMetirial\wordSuond\I\ice cream.m4a</PackagePath>
+      <Modified>2014-03-04T16:06:38.457</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\wordSuond\I\igloo.m4a">
+      <PackagePath>EnglishLessonsMetirial\wordSuond\I\igloo.m4a</PackagePath>
+      <Modified>2014-03-04T16:06:29.675</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\wordSuond\I\image.m4a">
+      <PackagePath>EnglishLessonsMetirial\wordSuond\I\image.m4a</PackagePath>
+      <Modified>2014-03-04T16:06:17.362</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\wordSuond\I\iron.m4a">
+      <PackagePath>EnglishLessonsMetirial\wordSuond\I\iron.m4a</PackagePath>
+      <Modified>2014-03-04T16:06:46.395</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\wordSuond\J\jaket.m4a">
+      <PackagePath>EnglishLessonsMetirial\wordSuond\J\jaket.m4a</PackagePath>
+      <Modified>2014-03-04T16:05:29.985</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\wordSuond\J\jam.m4a">
+      <PackagePath>EnglishLessonsMetirial\wordSuond\J\jam.m4a</PackagePath>
+      <Modified>2014-03-04T16:06:07.784</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\wordSuond\J\jely.m4a">
+      <PackagePath>EnglishLessonsMetirial\wordSuond\J\jely.m4a</PackagePath>
+      <Modified>2014-03-04T16:05:40.751</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\wordSuond\J\juice.m4a">
+      <PackagePath>EnglishLessonsMetirial\wordSuond\J\juice.m4a</PackagePath>
+      <Modified>2014-03-04T16:05:47.439</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\wordSuond\K\key.m4a">
+      <PackagePath>EnglishLessonsMetirial\wordSuond\K\key.m4a</PackagePath>
+      <Modified>2014-03-04T16:05:18.860</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\wordSuond\K\keybord.m4a">
+      <PackagePath>EnglishLessonsMetirial\wordSuond\K\keybord.m4a</PackagePath>
+      <Modified>2014-03-04T16:05:00.569</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\wordSuond\K\kite.m4a">
+      <PackagePath>EnglishLessonsMetirial\wordSuond\K\kite.m4a</PackagePath>
+      <Modified>2014-03-04T16:04:23.989</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\wordSuond\K\kiwi.m4a">
+      <PackagePath>EnglishLessonsMetirial\wordSuond\K\kiwi.m4a</PackagePath>
+      <Modified>2014-03-04T16:05:10.015</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\wordSuond\L\leaf.m4a">
+      <PackagePath>EnglishLessonsMetirial\wordSuond\L\leaf.m4a</PackagePath>
+      <Modified>2014-03-04T15:12:28.760</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\wordSuond\L\lemon.m4a">
+      <PackagePath>EnglishLessonsMetirial\wordSuond\L\lemon.m4a</PackagePath>
+      <Modified>2014-03-04T15:13:00.519</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\wordSuond\L\lion.m4a">
+      <PackagePath>EnglishLessonsMetirial\wordSuond\L\lion.m4a</PackagePath>
+      <Modified>2014-03-04T15:12:00.942</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\wordSuond\L\loundry.m4a">
+      <PackagePath>EnglishLessonsMetirial\wordSuond\L\loundry.m4a</PackagePath>
+      <Modified>2014-03-04T15:11:25.558</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\wordSuond\M\mask.m4a">
+      <PackagePath>EnglishLessonsMetirial\wordSuond\M\mask.m4a</PackagePath>
+      <Modified>2014-03-04T15:21:02.564</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\wordSuond\M\matkot.m4a">
+      <PackagePath>EnglishLessonsMetirial\wordSuond\M\matkot.m4a</PackagePath>
+      <Modified>2014-03-04T15:22:32.934</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\wordSuond\M\microphon.m4a">
+      <PackagePath>EnglishLessonsMetirial\wordSuond\M\microphon.m4a</PackagePath>
+      <Modified>2014-03-04T15:22:09.264</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\wordSuond\M\milk.m4a">
+      <PackagePath>EnglishLessonsMetirial\wordSuond\M\milk.m4a</PackagePath>
+      <Modified>2014-03-04T15:23:15.287</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\wordSuond\N\nail.m4a">
+      <PackagePath>EnglishLessonsMetirial\wordSuond\N\nail.m4a</PackagePath>
+      <Modified>2014-03-04T15:25:43.156</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\wordSuond\N\nest.m4a">
+      <PackagePath>EnglishLessonsMetirial\wordSuond\N\nest.m4a</PackagePath>
+      <Modified>2014-03-04T15:26:47.865</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\wordSuond\N\notebook.m4a">
+      <PackagePath>EnglishLessonsMetirial\wordSuond\N\notebook.m4a</PackagePath>
+      <Modified>2014-03-04T15:26:23.980</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\wordSuond\N\nut.m4a">
+      <PackagePath>EnglishLessonsMetirial\wordSuond\N\nut.m4a</PackagePath>
+      <Modified>2014-03-04T15:25:07.892</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\wordSuond\O\olive.m4a">
+      <PackagePath>EnglishLessonsMetirial\wordSuond\O\olive.m4a</PackagePath>
+      <Modified>2014-03-04T15:27:33.735</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\wordSuond\O\onion.m4a">
+      <PackagePath>EnglishLessonsMetirial\wordSuond\O\onion.m4a</PackagePath>
+      <Modified>2014-03-04T15:28:16.200</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\wordSuond\O\orange.m4a">
+      <PackagePath>EnglishLessonsMetirial\wordSuond\O\orange.m4a</PackagePath>
+      <Modified>2014-03-04T15:28:48.434</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\wordSuond\O\organ.m4a">
+      <PackagePath>EnglishLessonsMetirial\wordSuond\O\organ.m4a</PackagePath>
+      <Modified>2014-03-04T15:27:54.725</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\wordSuond\P\pen.m4a">
+      <PackagePath>EnglishLessonsMetirial\wordSuond\P\pen.m4a</PackagePath>
+      <Modified>2014-03-04T15:29:33.702</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\wordSuond\P\pepper.m4a">
+      <PackagePath>EnglishLessonsMetirial\wordSuond\P\pepper.m4a</PackagePath>
+      <Modified>2014-03-04T15:30:17.204</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\wordSuond\P\popcorn.m4a">
+      <PackagePath>EnglishLessonsMetirial\wordSuond\P\popcorn.m4a</PackagePath>
+      <Modified>2014-03-04T15:31:34.467</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\wordSuond\P\present.m4a">
+      <PackagePath>EnglishLessonsMetirial\wordSuond\P\present.m4a</PackagePath>
+      <Modified>2014-03-04T15:31:01.702</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\wordSuond\Q\qua qua.m4a">
+      <PackagePath>EnglishLessonsMetirial\wordSuond\Q\qua qua.m4a</PackagePath>
+      <Modified>2014-03-04T15:32:59.111</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\wordSuond\Q\quarter.m4a">
+      <PackagePath>EnglishLessonsMetirial\wordSuond\Q\quarter.m4a</PackagePath>
+      <Modified>2014-03-04T15:32:34.298</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\wordSuond\Q\queen.m4a">
+      <PackagePath>EnglishLessonsMetirial\wordSuond\Q\queen.m4a</PackagePath>
+      <Modified>2014-03-04T15:33:31.432</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\wordSuond\Q\question mark.m4a">
+      <PackagePath>EnglishLessonsMetirial\wordSuond\Q\question mark.m4a</PackagePath>
+      <Modified>2014-03-04T15:34:40.581</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\wordSuond\R\rabit.m4a">
+      <PackagePath>EnglishLessonsMetirial\wordSuond\R\rabit.m4a</PackagePath>
+      <Modified>2014-03-04T15:35:33.366</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\wordSuond\R\rake.m4a">
+      <PackagePath>EnglishLessonsMetirial\wordSuond\R\rake.m4a</PackagePath>
+      <Modified>2014-03-04T15:37:06.528</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\wordSuond\R\roof.m4a">
+      <PackagePath>EnglishLessonsMetirial\wordSuond\R\roof.m4a</PackagePath>
+      <Modified>2014-03-04T15:36:46.635</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\wordSuond\R\ruler.m4a">
+      <PackagePath>EnglishLessonsMetirial\wordSuond\R\ruler.m4a</PackagePath>
+      <Modified>2014-03-04T15:35:59.903</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\wordSuond\S\sack.m4a">
+      <PackagePath>EnglishLessonsMetirial\wordSuond\S\sack.m4a</PackagePath>
+      <Modified>2014-03-04T15:38:10.422</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\wordSuond\S\scoote.m4a">
+      <PackagePath>EnglishLessonsMetirial\wordSuond\S\scoote.m4a</PackagePath>
+      <Modified>2014-03-04T15:39:02.169</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\wordSuond\S\snake.m4a">
+      <PackagePath>EnglishLessonsMetirial\wordSuond\S\snake.m4a</PackagePath>
+      <Modified>2014-03-04T15:39:22.940</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\wordSuond\S\sofa.m4a">
+      <PackagePath>EnglishLessonsMetirial\wordSuond\S\sofa.m4a</PackagePath>
+      <Modified>2014-03-04T15:39:38.564</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\wordSuond\T\tel.m4a">
+      <PackagePath>EnglishLessonsMetirial\wordSuond\T\tel.m4a</PackagePath>
+      <Modified>2014-03-04T15:40:14.449</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\wordSuond\T\tractor.m4a">
+      <PackagePath>EnglishLessonsMetirial\wordSuond\T\tractor.m4a</PackagePath>
+      <Modified>2014-03-04T15:40:49.394</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\wordSuond\T\train.m4a">
+      <PackagePath>EnglishLessonsMetirial\wordSuond\T\train.m4a</PackagePath>
+      <Modified>2014-03-04T15:41:13.562</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\wordSuond\T\tree.m4a">
+      <PackagePath>EnglishLessonsMetirial\wordSuond\T\tree.m4a</PackagePath>
+      <Modified>2014-03-04T15:41:28.674</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\wordSuond\U\umbrella.m4a">
+      <PackagePath>EnglishLessonsMetirial\wordSuond\U\umbrella.m4a</PackagePath>
+      <Modified>2014-03-04T15:42:18.301</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\wordSuond\U\unicycle.m4a">
+      <PackagePath>EnglishLessonsMetirial\wordSuond\U\unicycle.m4a</PackagePath>
+      <Modified>2014-03-04T15:44:01.336</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\wordSuond\U\up.m4a">
+      <PackagePath>EnglishLessonsMetirial\wordSuond\U\up.m4a</PackagePath>
+      <Modified>2014-03-04T15:42:34.901</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\wordSuond\U\usa.m4a">
+      <PackagePath>EnglishLessonsMetirial\wordSuond\U\usa.m4a</PackagePath>
+      <Modified>2014-03-04T15:42:51.398</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\wordSuond\V\vase.m4a">
+      <PackagePath>EnglishLessonsMetirial\wordSuond\V\vase.m4a</PackagePath>
+      <Modified>2014-03-04T15:46:10.333</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\wordSuond\V\vegtables.m4a">
+      <PackagePath>EnglishLessonsMetirial\wordSuond\V\vegtables.m4a</PackagePath>
+      <Modified>2014-03-04T15:46:41.571</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\wordSuond\V\vest.m4a">
+      <PackagePath>EnglishLessonsMetirial\wordSuond\V\vest.m4a</PackagePath>
+      <Modified>2014-03-04T15:45:48.495</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\wordSuond\V\violin.m4a">
+      <PackagePath>EnglishLessonsMetirial\wordSuond\V\violin.m4a</PackagePath>
+      <Modified>2014-03-04T15:44:54.742</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\wordSuond\W\water.m4a">
+      <PackagePath>EnglishLessonsMetirial\wordSuond\W\water.m4a</PackagePath>
+      <Modified>2014-03-04T15:47:17.084</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\wordSuond\W\watermelon.m4a">
+      <PackagePath>EnglishLessonsMetirial\wordSuond\W\watermelon.m4a</PackagePath>
+      <Modified>2014-03-04T15:47:35.234</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\wordSuond\W\wine.m4a">
+      <PackagePath>EnglishLessonsMetirial\wordSuond\W\wine.m4a</PackagePath>
+      <Modified>2014-03-04T15:48:59.847</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\wordSuond\W\wool.m4a">
+      <PackagePath>EnglishLessonsMetirial\wordSuond\W\wool.m4a</PackagePath>
+      <Modified>2014-03-04T15:48:31.863</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\wordSuond\X\box.m4a">
+      <PackagePath>EnglishLessonsMetirial\wordSuond\X\box.m4a</PackagePath>
+      <Modified>2014-03-04T15:49:56.895</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\wordSuond\X\fox.m4a">
+      <PackagePath>EnglishLessonsMetirial\wordSuond\X\fox.m4a</PackagePath>
+      <Modified>2014-03-04T15:50:09.016</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\wordSuond\X\ox.m4a">
+      <PackagePath>EnglishLessonsMetirial\wordSuond\X\ox.m4a</PackagePath>
+      <Modified>2014-03-04T15:49:43.820</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\wordSuond\X\xilofone.m4a">
+      <PackagePath>EnglishLessonsMetirial\wordSuond\X\xilofone.m4a</PackagePath>
+      <Modified>2014-03-04T15:49:28.511</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\wordSuond\Y\yarmulka.m4a">
+      <PackagePath>EnglishLessonsMetirial\wordSuond\Y\yarmulka.m4a</PackagePath>
+      <Modified>2014-03-04T15:50:36.750</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\wordSuond\Y\yellow.m4a">
+      <PackagePath>EnglishLessonsMetirial\wordSuond\Y\yellow.m4a</PackagePath>
+      <Modified>2014-03-04T15:51:33.314</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\wordSuond\Y\yogurt.m4a">
+      <PackagePath>EnglishLessonsMetirial\wordSuond\Y\yogurt.m4a</PackagePath>
+      <Modified>2014-03-04T15:50:56.137</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\wordSuond\Y\yoyo.m4a">
+      <PackagePath>EnglishLessonsMetirial\wordSuond\Y\yoyo.m4a</PackagePath>
+      <Modified>2014-03-04T15:51:11.087</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\wordSuond\Z\zebra.m4a">
+      <PackagePath>EnglishLessonsMetirial\wordSuond\Z\zebra.m4a</PackagePath>
+      <Modified>2014-03-04T15:52:04.757</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\wordSuond\Z\zero.m4a">
+      <PackagePath>EnglishLessonsMetirial\wordSuond\Z\zero.m4a</PackagePath>
+      <Modified>2014-03-04T15:52:56.768</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\wordSuond\Z\ziper.m4a">
+      <PackagePath>EnglishLessonsMetirial\wordSuond\Z\ziper.m4a</PackagePath>
+      <Modified>2014-03-04T15:52:20.145</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\EnglishLessonsMetirial\wordSuond\Z\zucini.m4a">
+      <PackagePath>EnglishLessonsMetirial\wordSuond\Z\zucini.m4a</PackagePath>
+      <Modified>2014-03-04T15:53:15.623</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\XML\dataFiles\lessons.xml">
       <PackagePath>XML\dataFiles\lessons.xml</PackagePath>
-      <Modified>2014-02-09T14:25:10.000</Modified>
+      <Modified>2014-03-05T11:08:02.152</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\XML\dataFiles\users.xml">
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\XML\dataFiles\users.xml">
       <PackagePath>XML\dataFiles\users.xml</PackagePath>
-      <Modified>2013-12-17T19:42:52.000</Modified>
+      <Modified>2013-12-17T19:42:51.302</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\bin\Debug\App.xaml">
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\bin\Debug\App.xaml">
       <PackagePath>App.xaml</PackagePath>
-      <Modified>2014-01-13T09:14:44.000</Modified>
+      <Modified>2014-01-13T09:14:43.751</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\bin\Debug\abcSong.xaml">
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\bin\Debug\abcSong.xaml">
       <PackagePath>abcSong.xaml</PackagePath>
-      <Modified>2014-02-07T14:07:32.000</Modified>
+      <Modified>2014-03-05T12:43:06.087</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\bin\Debug\Common\StandardStyles.xaml">
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\bin\Debug\Common\StandardStyles.xaml">
       <PackagePath>Common\StandardStyles.xaml</PackagePath>
-      <Modified>2014-02-10T13:29:48.000</Modified>
+      <Modified>2014-03-04T22:58:47.699</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\bin\Debug\game_discoverThePicture.xaml">
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\bin\Debug\game_discoverThePicture.xaml">
       <PackagePath>game_discoverThePicture.xaml</PackagePath>
-      <Modified>2014-02-16T09:20:06.000</Modified>
+      <Modified>2014-03-05T16:24:54.133</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\bin\Debug\howToWright.xaml">
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\bin\Debug\howToWright.xaml">
       <PackagePath>howToWright.xaml</PackagePath>
-      <Modified>2014-02-16T09:40:42.000</Modified>
+      <Modified>2014-03-04T22:58:47.718</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\bin\Debug\lessonMapPage.xaml">
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\bin\Debug\lessonMapPage.xaml">
       <PackagePath>lessonMapPage.xaml</PackagePath>
-      <Modified>2014-01-28T16:10:42.000</Modified>
+      <Modified>2014-02-25T16:08:58.887</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\bin\Debug\lessonSummaryPage.xaml">
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\bin\Debug\lessonSummaryPage.xaml">
       <PackagePath>lessonSummaryPage.xaml</PackagePath>
-      <Modified>2014-02-07T14:12:12.000</Modified>
+      <Modified>2014-03-02T17:44:48.330</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\bin\Debug\MainPage.xaml">
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\bin\Debug\MainPage.xaml">
       <PackagePath>MainPage.xaml</PackagePath>
-      <Modified>2014-02-10T09:04:42.000</Modified>
+      <Modified>2014-03-05T15:58:29.047</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\bin\Debug\pictuerOfLetters.xaml">
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\bin\Debug\pictuerOfLetters.xaml">
       <PackagePath>pictuerOfLetters.xaml</PackagePath>
-      <Modified>2014-02-16T09:45:02.000</Modified>
+      <Modified>2014-03-04T23:13:22.817</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\bin\Debug\Review.xaml">
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\bin\Debug\Review.xaml">
       <PackagePath>Review.xaml</PackagePath>
-      <Modified>2014-02-16T09:40:42.000</Modified>
+      <Modified>2014-03-04T23:04:53.507</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\bin\Debug\SplitPage1.xaml">
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\bin\Debug\SplitPage1.xaml">
       <PackagePath>SplitPage1.xaml</PackagePath>
       <Modified>2005-05-30T21:00:00.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\bin\Debug\workPage.xaml">
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\bin\Debug\workPage.xaml">
       <PackagePath>workPage.xaml</PackagePath>
-      <Modified>2014-02-13T12:35:06.000</Modified>
+      <Modified>2014-03-05T16:21:20.877</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\bin\Debug\resources.pri">
+    <AppxPackagedFile Include="E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2014-02-10T10:01:14.000</Modified>
+      <Modified>2014-03-05T15:58:38.272</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

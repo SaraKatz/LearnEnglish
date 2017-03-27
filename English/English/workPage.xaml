@@ -19,6 +19,7 @@
                 <!--<StackPanel x:Name="LeftCommands" Orientation="Horizontal" Grid.Column="0" HorizontalAlignment="Left">-->
                 <!--<Button x:Name="Back"  AutomationProperties.Name="Back" Style="{StaticResource BackAppBarButtonStyle }" HorizontalAlignment="Left" Click="Back_Click"/>-->
                 <Button x:Name="toLesssonMap" AutomationProperties.Name="בחזרה למפת השיעורים" Style="{StaticResource MapAppBarButtonStyle }" HorizontalAlignment="Left" Click="toLesssonMap_Click"/>
+                <Button x:Name="togame" AutomationProperties.Name="למחשק מצאו את האותיות" Style="{StaticResource StarAppBarButtonStyle }" HorizontalAlignment="Left"  Margin="108,0,0,0" Click="togame_Click"/>
                 <!--</StackPanel>
                 <StackPanel x:Name="RightCommands" Orientation="Horizontal" Grid.Column="1" HorizontalAlignment="Right">
                 </StackPanel>-->
@@ -39,7 +40,7 @@
 
     <Grid x:Name="mainGrid" Style="{StaticResource LayoutRootStyle}" >
         <Grid.Background>
-            <ImageBrush ImageSource="Assets/רקע קו למעלה.png"/>
+            <ImageBrush ImageSource="Assets/backgrounds/דף עבודה .jpg"/>
         </Grid.Background>
         <Grid.RowDefinitions>
             <RowDefinition Height="170" />
@@ -83,16 +84,19 @@
         </VisualStateManager.VisualStateGroups>
         <!-- Back button and page title -->
         <Grid>
+            <Grid.Background>
+                <ImageBrush/>
+            </Grid.Background>
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="Auto"/>
                 <ColumnDefinition Width="*"/>
 
             </Grid.ColumnDefinitions>
             <Button x:Name="backButton" Click="GoBack" IsEnabled="{Binding Frame.CanGoBack, ElementName=pageRoot}" Style="{StaticResource BackButtonStyle}" Margin="33,0,0,63"/>
-            <TextBlock x:Name="pageTitle" Grid.Column="1" Text="דף עבודה" Style="{StaticResource PageHeaderTextStyle}" Margin="0,0,-575,0" HorizontalAlignment="Right" Height="95" Width="355" Foreground="#DE04157C" FontSize="72" FontFamily="Arial Black" FontWeight="Bold"/>
+            <!--<TextBlock x:Name="pageTitle" Grid.Column="1" Text="דף עבודה" Style="{StaticResource PageHeaderTextStyle}" Margin="0,0,-575,0" HorizontalAlignment="Right" Height="95" Width="355" Foreground="#DE04157C" FontSize="72" FontFamily="Arial Black" FontWeight="Bold"/>-->
         </Grid>
 
-        <Rectangle Grid.Row="1" Grid.Column="0">
+        <!--<Rectangle Grid.Row="1" Grid.Column="0">
             <Rectangle.Fill>
                 <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
                     <GradientStop Color="White"/>
@@ -115,10 +119,10 @@
                     <GradientStop Color="#FF89F1F1" Offset="1"/>
                 </LinearGradientBrush>
             </Rectangle.Fill>
-        </Rectangle>
-        <TextBlock  HorizontalAlignment="Left" Height="96" Margin="40,34,0,0" Grid.Row="1" Grid.Column="0" TextWrapping="Wrap" Text="לחצו על אות גדולה ובחרו אות קטנה  מתאימה לה " VerticalAlignment="Top" Width="389" FontSize="36" TextAlignment="Right" Foreground="#FF1829D6"/>
+        </Rectangle>-->
+        <!--<TextBlock  HorizontalAlignment="Left" Height="96" Margin="40,34,0,0" Grid.Row="1" Grid.Column="0" TextWrapping="Wrap" Text="לחצו על אות גדולה ובחרו אות קטנה  מתאימה לה " VerticalAlignment="Top" Width="389" FontSize="36" TextAlignment="Right" Foreground="#FF1829D6"/>
         <TextBlock   Grid.Column="1" HorizontalAlignment="Left" Height="96" Margin="30,34,0,0" Grid.Row="1" TextWrapping="Wrap" Text="בחרו מהרשימה אות קטנה מתאימה" VerticalAlignment="Top" Width="384" FontSize="36" TextAlignment="Right" Foreground="#FF2433CB" FontFamily="Gill Sans Ultra Bold Condensed"/>
-        <TextBlock Grid.Column="2" HorizontalAlignment="Left" Height="96" Margin="29,34,0,0" Grid.Row="1" TextWrapping="Wrap" Text="באיזו אות מתחילה התמונה" VerticalAlignment="Top" Width="398" FontSize="36" TextAlignment="Right" Foreground="#FF1E2FE0"/>
+        <TextBlock Grid.Column="2" HorizontalAlignment="Left" Height="96" Margin="29,34,0,0" Grid.Row="1" TextWrapping="Wrap" Text="באיזו אות מתחילה התמונה" VerticalAlignment="Top" Width="398" FontSize="36" TextAlignment="Right" Foreground="#FF1E2FE0"/>-->
         <Grid x:Name="Ex1" Grid.Row="1" Grid.Column="0">
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="*"/>
@@ -136,9 +140,13 @@
                 <RowDefinition Height="*"/>
                 <RowDefinition Height="*"/>
             </Grid.RowDefinitions>
+            <MediaElement Visibility="Collapsed" Name="fidbakMedia1" Grid.ColumnSpan="2" Grid.Column="1" HorizontalAlignment="Left" Height="40" Margin="54,130,0,0" Grid.RowSpan="2" VerticalAlignment="Top" Width="35"/>
+            <MediaElement Visibility="Collapsed" Name="fidbakMedia2" Grid.Column="4" HorizontalAlignment="Left" Height="40" Margin="195,130,-154,0" Grid.RowSpan="2" VerticalAlignment="Top" Width="35"/>
+            <MediaElement Visibility="Collapsed" Name="fidbakMedia3" Grid.Column="4" HorizontalAlignment="Left" Height="40" Margin="651,130,-610,0" Grid.RowSpan="2" VerticalAlignment="Top" Width="35"/>
+            <MediaElement Name="mediaFid" Grid.Column="2" IsLooping="True" Source="Assets/backgrounds/musik.mp3" Volume="0.5" HorizontalAlignment="Left" Height="20" Margin="68,0,0,0" Grid.Row="1" VerticalAlignment="Top" Width="50"/>
         </Grid>
-        
-        
+
+
         <Grid Name="Ex2" Grid.Column="1" Grid.Row="1" Width="420">
             <Grid.RowDefinitions>
                 <RowDefinition Height="150"></RowDefinition>
@@ -154,16 +162,21 @@
                 <ColumnDefinition Width="*"></ColumnDefinition>
                 <ColumnDefinition Width="*"></ColumnDefinition>
             </Grid.ColumnDefinitions>
+            <!--<TextBlock Text="ttttttttttt" Foreground="Black" HorizontalAlignment="Left" Margin="-128,115,0,0" Grid.Row="1" Grid.RowSpan="4" TextWrapping="Wrap"  VerticalAlignment="Top" Width="209" Height="260" FontFamily="Arial Black"/>-->
         </Grid>
-         <!--<MediaElement Source="Assets/מפעל הפורמטים2237.wmv" Grid.Column="2" HorizontalAlignment="Left"  Margin="274,418,0,0" Grid.Row="1" VerticalAlignment="Top" />-->
-        <Border Visibility="Collapsed" Name="brd_pic" Grid.Column="2" Background="#FFFBFBFD" Margin="29,240,200,183" Grid.Row="1">
+        <!--<MediaElement Source="Assets/מפעל הפורמטים2237.wmv" Grid.Column="2" HorizontalAlignment="Left"  Margin="274,418,0,0" Grid.Row="1" VerticalAlignment="Top" />-->
+        <Border Visibility="Collapsed" Name="brd_pic" Grid.Column="2" Background="#FFFDFDFD" Margin="83,210,146,213" Grid.Row="1">
             <Image Visibility="Collapsed" Name="Ex3_pic" Grid.Column="2" HorizontalAlignment="Center"  Height="145" Margin="13,20,3,10" Grid.Row="1" VerticalAlignment="Center"  Width="210"/>
         </Border>
-        <TextBox Visibility="Collapsed" FontSize="50" Name="Ex3_ans" Grid.Column="2" HorizontalAlignment="Left" Height="60" Margin="299,264,0,0" Grid.Row="1" TextWrapping="Wrap"  VerticalAlignment="Top" Width="65" Background="#FFF9E9E9" FontFamily="Shonar Bangla" FontWeight="Bold" LostFocus="Ex3_ok_Click" />
-        <TextBlock Name="Ex1_fidback" TextAlignment="Center" HorizontalAlignment="Right" Height="76" Margin="0,512,110,10" Grid.Row="1" TextWrapping="Wrap"  Width="235" Foreground="#FFF7FBFB" VerticalAlignment="Center" FontSize="36" FontWeight="Bold"/>
-        <TextBlock Name="Ex2_fidback" Grid.Column="1" TextAlignment="Center" HorizontalAlignment="Left" Height="107" Margin="28,469,0,0" Grid.Row="1" TextWrapping="Wrap"  VerticalAlignment="Top" Width="396" Foreground="#FFFDFDFD" FontSize="36" FontWeight="Bold"/>
-        <TextBlock Name="Ex3_fidback"  Grid.Column="2" TextAlignment="Center" HorizontalAlignment="Left" Height="80" Margin="53,512,0,0" Grid.Row="1" TextWrapping="Wrap"  VerticalAlignment="Top" Width="162" Foreground="#FFFFFDFE" FontSize="36" FontWeight="Bold" RenderTransformOrigin="0.444,1.75"/>
-        <Button Name="ex1Start" Content="התחל" Grid.Column="0" HorizontalAlignment="Left" Background="DarkBlue" Height="46" Margin="10,130,0,0" Grid.Row="1" VerticalAlignment="Top" Width="88" Click="ex1_start" />
+        <TextBox Visibility="Collapsed" FontSize="50" Name="Ex3_ans" Grid.Column="2" HorizontalAlignment="Left" Height="54" Margin="161,406,0,0" Grid.Row="1" TextWrapping="Wrap"  VerticalAlignment="Top" Width="69" FontFamily="Shonar Bangla" FontWeight="Bold" KeyUp="Ex3_ans_KeyUp" >
+            <TextBox.Background>
+                <ImageBrush ImageSource="Assets/backgrounds/קו.png"/>
+            </TextBox.Background>
+        </TextBox>
+        <TextBlock Name="Ex1_fidback" TextAlignment="Center" HorizontalAlignment="Right" Height="76" Margin="0,512,110,10" Grid.Row="1" TextWrapping="Wrap"  Width="235" Foreground="Black"  VerticalAlignment="Center" FontSize="36" FontWeight="Bold"/>
+        <TextBlock Name="Ex2_fidback" Grid.Column="1" TextAlignment="Center" HorizontalAlignment="Left" Height="107" Margin="28,469,0,0" Grid.Row="1" TextWrapping="Wrap"  VerticalAlignment="Top" Width="396"  Foreground="Black" FontSize="36" FontWeight="Bold"/>
+        <TextBlock Name="Ex3_fidback"  Grid.Column="2" TextAlignment="Center" HorizontalAlignment="Left" Height="80" Margin="109,488,0,0" Grid.Row="1" TextWrapping="Wrap"  VerticalAlignment="Top" Width="162"  Foreground="Black" FontSize="36" FontWeight="Bold" RenderTransformOrigin="0.444,1.75"/>
+        <Button  Name="ex1Start" Content="התחל" Grid.Column="0" HorizontalAlignment="Left" Background="DarkBlue" Height="46" Margin="25,130,0,0" Grid.Row="1" VerticalAlignment="Top" Width="88" Click="ex1_start" />
         <Button Name="ex2Start" Content="התחל" Grid.Column="1" HorizontalAlignment="Left" Background="DarkBlue" Height="46" Margin="10,130,0,0" Grid.Row="1" VerticalAlignment="Top" Width="88" Click="start_ex2"/>
         <Button Name="ex3Start" Content="התחל" Grid.Column="2" HorizontalAlignment="Left" Background="DarkBlue" Height="46" Margin="10,130,0,0" Grid.Row="1" VerticalAlignment="Top" Width="88" Click="start_ex3"/>
 

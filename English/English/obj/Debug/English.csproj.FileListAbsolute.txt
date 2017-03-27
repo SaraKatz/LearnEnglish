@@ -187,57 +187,111 @@ C:\Users\One\Desktop\English\English\obj\Debug\Review.xaml
 C:\Users\One\Desktop\English\English\obj\Debug\abcSong.g.i.cs
 C:\Users\One\Desktop\English\English\obj\Debug\abcSong.g.cs
 C:\Users\One\Desktop\English\English\obj\Debug\abcSong.xaml
-E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\bin\Debug\English.exe
-E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\bin\Debug\English.pdb
-E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\bin\Debug\resources.pri
-E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\bin\Debug\AppxManifest.xml
-E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\bin\Debug\English.build.appxrecipe
-E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\obj\Debug\App.g.i.cs
-E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\obj\Debug\App.g.cs
-E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\obj\Debug\abcSong.g.i.cs
-E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\obj\Debug\abcSong.g.cs
-E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\obj\Debug\Common\StandardStyles.g.i.cs
-E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\obj\Debug\Common\StandardStyles.g.cs
-E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\obj\Debug\game_discoverThePicture.g.i.cs
-E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\obj\Debug\game_discoverThePicture.g.cs
-E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\obj\Debug\howToWright.g.i.cs
-E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\obj\Debug\howToWright.g.cs
-E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\obj\Debug\lessonMapPage.g.i.cs
-E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\obj\Debug\lessonMapPage.g.cs
-E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\obj\Debug\lessonSummaryPage.g.i.cs
-E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\obj\Debug\lessonSummaryPage.g.cs
-E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\obj\Debug\MainPage.g.i.cs
-E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\obj\Debug\MainPage.g.cs
-E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\obj\Debug\pictuerOfLetters.g.i.cs
-E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\obj\Debug\pictuerOfLetters.g.cs
-E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\obj\Debug\Review.g.i.cs
-E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\obj\Debug\Review.g.cs
-E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\obj\Debug\SplitPage1.g.i.cs
-E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\obj\Debug\SplitPage1.g.cs
-E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\obj\Debug\workPage.g.i.cs
-E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\obj\Debug\workPage.g.cs
-E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\obj\Debug\XamlTypeInfo.g.cs
-E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\obj\Debug\App.xaml
-E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\obj\Debug\abcSong.xaml
-E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\obj\Debug\Common\StandardStyles.xaml
-E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\obj\Debug\game_discoverThePicture.xaml
-E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\obj\Debug\howToWright.xaml
-E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\obj\Debug\lessonMapPage.xaml
-E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\obj\Debug\lessonSummaryPage.xaml
-E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\obj\Debug\MainPage.xaml
-E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\obj\Debug\pictuerOfLetters.xaml
-E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\obj\Debug\Review.xaml
-E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\obj\Debug\SplitPage1.xaml
-E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\obj\Debug\workPage.xaml
-E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\obj\Debug\English.exe
-E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\obj\Debug\English.pdb
-E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\obj\Debug\priconfig.xml.intermediate
-E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\obj\Debug\layout.resfiles.intermediate
-E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\obj\Debug\resources.resfiles.intermediate
-E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\obj\Debug\pri.resfiles.intermediate
-E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\obj\Debug\priconfig.xml
-E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\obj\Debug\layout.resfiles
-E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\obj\Debug\resources.resfiles
-E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\obj\Debug\pri.resfiles
-E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\obj\Debug\LanguageQualifiers.txt
-E:\המסמכים שלי\תכנות\finalProject\גיבויים\English\English\obj\Debug\ProjectArchitectures.txt
+E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish\English\English\bin\Debug\English.exe
+E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish\English\English\bin\Debug\English.pdb
+E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish\English\English\bin\Debug\resources.pri
+E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish\English\English\bin\Debug\AppxManifest.xml
+E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish\English\English\bin\Debug\English.build.appxrecipe
+E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish\English\English\obj\Debug\App.g.i.cs
+E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish\English\English\obj\Debug\App.g.cs
+E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish\English\English\obj\Debug\abcSong.g.i.cs
+E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish\English\English\obj\Debug\abcSong.g.cs
+E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish\English\English\obj\Debug\Common\StandardStyles.g.i.cs
+E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish\English\English\obj\Debug\Common\StandardStyles.g.cs
+E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish\English\English\obj\Debug\game_discoverThePicture.g.i.cs
+E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish\English\English\obj\Debug\game_discoverThePicture.g.cs
+E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish\English\English\obj\Debug\howToWright.g.i.cs
+E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish\English\English\obj\Debug\howToWright.g.cs
+E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish\English\English\obj\Debug\lessonMapPage.g.i.cs
+E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish\English\English\obj\Debug\lessonMapPage.g.cs
+E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish\English\English\obj\Debug\lessonSummaryPage.g.i.cs
+E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish\English\English\obj\Debug\lessonSummaryPage.g.cs
+E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish\English\English\obj\Debug\MainPage.g.i.cs
+E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish\English\English\obj\Debug\MainPage.g.cs
+E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish\English\English\obj\Debug\pictuerOfLetters.g.i.cs
+E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish\English\English\obj\Debug\pictuerOfLetters.g.cs
+E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish\English\English\obj\Debug\Review.g.i.cs
+E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish\English\English\obj\Debug\Review.g.cs
+E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish\English\English\obj\Debug\SplitPage1.g.i.cs
+E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish\English\English\obj\Debug\SplitPage1.g.cs
+E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish\English\English\obj\Debug\workPage.g.i.cs
+E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish\English\English\obj\Debug\workPage.g.cs
+E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish\English\English\obj\Debug\XamlTypeInfo.g.cs
+E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish\English\English\obj\Debug\App.xaml
+E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish\English\English\obj\Debug\abcSong.xaml
+E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish\English\English\obj\Debug\Common\StandardStyles.xaml
+E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish\English\English\obj\Debug\game_discoverThePicture.xaml
+E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish\English\English\obj\Debug\howToWright.xaml
+E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish\English\English\obj\Debug\lessonMapPage.xaml
+E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish\English\English\obj\Debug\lessonSummaryPage.xaml
+E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish\English\English\obj\Debug\MainPage.xaml
+E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish\English\English\obj\Debug\pictuerOfLetters.xaml
+E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish\English\English\obj\Debug\Review.xaml
+E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish\English\English\obj\Debug\SplitPage1.xaml
+E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish\English\English\obj\Debug\workPage.xaml
+E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish\English\English\obj\Debug\English.exe
+E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish\English\English\obj\Debug\English.pdb
+E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish\English\English\obj\Debug\priconfig.xml.intermediate
+E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish\English\English\obj\Debug\layout.resfiles.intermediate
+E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish\English\English\obj\Debug\resources.resfiles.intermediate
+E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish\English\English\obj\Debug\pri.resfiles.intermediate
+E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish\English\English\obj\Debug\priconfig.xml
+E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish\English\English\obj\Debug\layout.resfiles
+E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish\English\English\obj\Debug\resources.resfiles
+E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish\English\English\obj\Debug\pri.resfiles
+E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish\English\English\obj\Debug\LanguageQualifiers.txt
+E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish\English\English\obj\Debug\ProjectArchitectures.txt
+E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\bin\Debug\English.exe
+E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\bin\Debug\English.pdb
+E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\bin\Debug\resources.pri
+E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\bin\Debug\AppxManifest.xml
+E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\bin\Debug\English.build.appxrecipe
+E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\obj\Debug\App.g.i.cs
+E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\obj\Debug\App.g.cs
+E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\obj\Debug\abcSong.g.i.cs
+E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\obj\Debug\abcSong.g.cs
+E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\obj\Debug\Common\StandardStyles.g.i.cs
+E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\obj\Debug\Common\StandardStyles.g.cs
+E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\obj\Debug\game_discoverThePicture.g.i.cs
+E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\obj\Debug\game_discoverThePicture.g.cs
+E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\obj\Debug\howToWright.g.i.cs
+E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\obj\Debug\howToWright.g.cs
+E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\obj\Debug\lessonMapPage.g.i.cs
+E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\obj\Debug\lessonMapPage.g.cs
+E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\obj\Debug\lessonSummaryPage.g.i.cs
+E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\obj\Debug\lessonSummaryPage.g.cs
+E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\obj\Debug\MainPage.g.i.cs
+E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\obj\Debug\MainPage.g.cs
+E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\obj\Debug\pictuerOfLetters.g.i.cs
+E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\obj\Debug\pictuerOfLetters.g.cs
+E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\obj\Debug\Review.g.i.cs
+E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\obj\Debug\Review.g.cs
+E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\obj\Debug\SplitPage1.g.i.cs
+E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\obj\Debug\SplitPage1.g.cs
+E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\obj\Debug\workPage.g.i.cs
+E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\obj\Debug\workPage.g.cs
+E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\obj\Debug\XamlTypeInfo.g.cs
+E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\obj\Debug\App.xaml
+E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\obj\Debug\abcSong.xaml
+E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\obj\Debug\Common\StandardStyles.xaml
+E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\obj\Debug\game_discoverThePicture.xaml
+E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\obj\Debug\howToWright.xaml
+E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\obj\Debug\lessonMapPage.xaml
+E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\obj\Debug\lessonSummaryPage.xaml
+E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\obj\Debug\MainPage.xaml
+E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\obj\Debug\pictuerOfLetters.xaml
+E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\obj\Debug\Review.xaml
+E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\obj\Debug\SplitPage1.xaml
+E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\obj\Debug\workPage.xaml
+E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\obj\Debug\English.exe
+E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\obj\Debug\English.pdb
+E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\obj\Debug\priconfig.xml.intermediate
+E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\obj\Debug\layout.resfiles.intermediate
+E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\obj\Debug\resources.resfiles.intermediate
+E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\obj\Debug\pri.resfiles.intermediate
+E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\obj\Debug\priconfig.xml
+E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\obj\Debug\layout.resfiles
+E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\obj\Debug\resources.resfiles
+E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\obj\Debug\pri.resfiles
+E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\obj\Debug\LanguageQualifiers.txt
+E:\המסמכים שלי\תכנות\finalProject\גיבויים\LeanEngkish - עותק\English\English\obj\Debug\ProjectArchitectures.txt

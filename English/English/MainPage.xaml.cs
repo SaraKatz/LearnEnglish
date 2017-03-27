@@ -33,12 +33,19 @@ namespace English
         XDocument doc;
         XNamespace xn;
         Users users = new Users();
-     
+
+        bool newUserPressed ;
+        bool deleteUserPressed;
+        bool existUser ;
+
         public MainPage()
         {
             InitializeComponent();
-            doc = XDocument.Load(@"xml\dataFiles\users.xml");
-            xn = doc.Root.Name.Namespace;
+            newUserPressed = false;
+            deleteUserPressed = false;
+            existUser = false;
+            //doc = XDocument.Load(@"xml\dataFiles\users.xml");
+            //xn = doc.Root.Name.Namespace;
 
             foreach (EnglishUser item in users.UserList)
             {
@@ -46,40 +53,62 @@ namespace English
             }
         }
 
+
         /// <summary>
-        /// Invoked when this page is about to be displayed in a Frame.
+        /// Invoked when this page is
+        /// about to be displayed in a Frame.
         /// </summary>
         /// <param name="e">Event data that describes how this page was reached.  The Parameter
         /// property is typically used to configure the page.</param>
 
-        private void newUser_Click(object sender, RoutedEventArgs e)
-        {
-            cmb_users.Visibility = Windows.UI.Xaml.Visibility.Collapsed;
-            tb_newUser.Visibility = Windows.UI.Xaml.Visibility.Visible;
-        }
+        //private void newUser_Click(object sender, RoutedEventArgs e)
+        //{
+        //    cmb_users.Visibility = Windows.UI.Xaml.Visibility.Collapsed;
+        //    tb_newUser.Visibility = Windows.UI.Xaml.Visibility.Visible;
+        //}
+
 
 
         private async void ok_Click(object sender, RoutedEventArgs e)
         {
-            if (tb_newUser.Text.Equals(""))
+            if (existUser)
             {
-                //הודעת שגיאה משתמש ריק
-                MessageDialog messageDialog = new MessageDialog("לא הוכנס שם משתמש");
-                await messageDialog.ShowAsync();
-       
-            }
-            //יצירת משתמש חדש
-            if (!tb_newUser.Text.Equals(""))
-            {
-                users.createNewEnglishUser(tb_newUser.Text);
-                //save();
+                //mediaOpen.Stop();
+                this.Frame.Navigate(typeof(abcSong), cmb_users.SelectedIndex);
             }
 
-            var x = users.UserList[cmb_users.SelectedIndex].CurrentLessonCode;
-            this.Frame.Navigate(typeof(lessonMapPage), x);
+            if (newUserPressed)
+            {
+                if (tb_newUser.Text.Equals(""))
+                {
+                    //הודעת שגיאה משתמש ריק
+                    MessageDialog messageDialog = new MessageDialog("לא הוכנס שם משתמש");
+                    await messageDialog.ShowAsync();
+
+                }
+                //יצירת משתמש חדש
+                if (!tb_newUser.Text.Equals(""))
+                {
+                    await users.createNewEnglishUser(tb_newUser.Text);
+                }
+                int x = users.UserList.Count;
+                //mediaOpen.Stop();
+                this.Frame.Navigate(typeof(abcSong),x - 1);
+            }
+
+            //if (deleteUserPressed)
+            //{
+            //    await users.deleteEnglishUser(cmb_users.SelectedValue.ToString());
+            //}
+
         }
 
-       
+        private void delete_user_Click(object sender, RoutedEventArgs e)
+        {
+            deleteUserPressed = true;
+            newUserPressed = false;
+            existUser = false;
+        }
         private void Button_Click_1(object sender, RoutedEventArgs e)
         {
             tb_newUser.Visibility = Windows.UI.Xaml.Visibility.Collapsed;
@@ -87,35 +116,31 @@ namespace English
         }
 
 
-        private  void cmb_users_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        private void cmb_users_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
-            this.Frame.Navigate(typeof(abcSong),cmb_users.SelectedIndex);
+            existUser = true;
+            deleteUserPressed = false;
+            newUserPressed = false;
+           
         }
-        
+
         private void _newUser_Click(object sender, RoutedEventArgs e)
         {
             cmb_users.Visibility = Windows.UI.Xaml.Visibility.Collapsed;
             tb_newUser.Visibility = Windows.UI.Xaml.Visibility.Visible;
-
-            //XmlWriterSettings xmlWriterSettings = new XmlWriterSettings();
-            //xmlWriterSettings.Indent = true;
-            //ProfileList = ReadProfileList();
-            //using (IsolatedStorageFile myIsolatedStorage = IsolatedStorageFile.GetUserStoreForApplication())
-            //{
-            //    using (IsolatedStorageFileStream stream = myIsolatedStorage.OpenFile("profile.xml", FileMode.Create))
-            //    {
-            //        XmlSerializer serializer = new XmlSerializer(typeof(List<Profiles>));
-            //        using (XmlWriter xmlWriter = XmlWriter.Create(stream, xmlWriterSettings))
-            //        {
-            //            serializer.Serialize(xmlWriter, GenerateProfileData(profileData));
-            //        }
-            //    }
-            //}
+            newUserPressed = true;
+            deleteUserPressed = false;
+            existUser = false;
         }
 
         private void FlipView_SelectionChanged_1(object sender, SelectionChangedEventArgs e)
         {
-            ok.Background = new SolidColorBrush(Colors.Red);
+            ok.Fill = new SolidColorBrush(Colors.Red);
         }
+
+
+
+
+
     }
 }

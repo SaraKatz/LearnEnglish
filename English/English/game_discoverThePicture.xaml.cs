@@ -13,6 +13,7 @@ using Windows.UI.Xaml.Media;
 using Windows.UI.Xaml.Navigation;
 using Windows.UI;
 using Windows.UI.Popups;
+using Windows.UI.Xaml.Media.Animation;
 
 // The Basic Page item template is documented at http://go.microsoft.com/fwlink/?LinkId=234237
 
@@ -28,10 +29,12 @@ namespace English
         HadLearnt lessonHadLearnt;
         string lettersBigShape;
         string word;
+        MediaElement mdel;
         private Lesson currentLesson;
         List<TextBlock> tb = new List<TextBlock>();
         List<TextBlock> tbWord = new List<TextBlock>();
         List<ImageSource> images = new List<ImageSource>();
+        List<MediaElement> sounds = new List<MediaElement>();
         int a;
         int count = 18;
         public game_discoverThePicture()
@@ -223,8 +226,9 @@ namespace English
                 //הוספת טב לליסט
                 images.Add(picture.WordPictuer);
                 //lessonHadLearnt.pictuers_HadLearnt[j].WordPictuerUsed = true;
-                tb.Add(new TextBlock() { Text = picture.LettersBigShape, FontSize = 50, Foreground = new SolidColorBrush(Colors.Maroon) });
+                tb.Add(new TextBlock() { Text = picture.LettersBigShape, FontSize = 50, Foreground = new SolidColorBrush(Colors.LightGray) });
                 tbWord.Add(new TextBlock() { Text = picture.Word });
+                sounds.Add(new MediaElement{Source=new Uri(picture.WordSound) });
                 tb[i++].Tapped += game_discoverThePicture_Tapped;
             }
             insertPictuer();
@@ -235,15 +239,16 @@ namespace English
         int x = 2;
         int z = 2;
         //int t = 2;
-        void game_discoverThePicture_Tapped(object sender, TappedRoutedEventArgs e)
+       async void  game_discoverThePicture_Tapped(object sender, TappedRoutedEventArgs e)
         {
             TextBlock tb;
             tb = sender as TextBlock;
             if (tb.Text.Equals(lettersBigShape))
             {
-                tb_word.Text = word;
+              
+                
                 tb.Margin = new Thickness(20, 0, 0, 0);
-                tb.Foreground = new SolidColorBrush(Colors.Yellow);
+                tb.Foreground = new SolidColorBrush(Colors.Black);
                 //מחיקה
                 game_grid.Children.Remove(tb);
                 //העברה
@@ -268,7 +273,33 @@ namespace English
                 //    Grid.SetRow(tb, t++);
                 //}
                 mainGrid.Children.Add(tb);
+                tb_word.Text = word;
+                fidbackMedia.Stop();
+                mdelSound.Source = mdel.Source;
+                
+                var storyboard = new Storyboard();
+                var Animation = new DoubleAnimation
+                {
+                    From = 0,
+                    To = 1,
+                    Duration = new Duration(new TimeSpan(0, 0, 0, 6, 0)),
+                };
+                storyboard.Children.Add(Animation);
+
+                Storyboard.SetTargetProperty(Animation, "Opacity");
+
+                Storyboard.SetTarget(storyboard, tb_word);
+
+                storyboard.Begin();
+                await System.Threading.Tasks.Task.Delay(5000);
+                tb_word.Text = "";
+                fidbackMedia.Play();
+                
                 insertPictuer();
+            }
+            else
+            {
+                mediaFid.Play();
             }
         }
 
@@ -322,10 +353,13 @@ namespace English
             {
                 game_pic.Source = images[a];
                 word = tbWord[a].Text; 
+                mdel = sounds[a];
                 lettersBigShape = tb[a++].Text;
+                
             }
             else
             {
+                fidbackMedia.Stop();
                 MessageDialog messageDialog = new MessageDialog("כל הכבוד !! הצלחת למצוא את כל האתיות והמשחק הסתיים ");
                 messageDialog.Commands.Add(new UICommand("שחק שוב", new UICommandInvokedHandler(this.CommandInvokedHandler1)));
                 messageDialog.Commands.Add(new UICommand("חזרה לשיעור", new UICommandInvokedHandler(this.CommandInvokedHandler2)));
@@ -340,6 +374,11 @@ namespace English
         private void CommandInvokedHandler2(IUICommand command)
         {
             this.Frame.Navigate(typeof(pictuerOfLetters), currentLesson);
+        }
+
+        private void toWorkPage_Click(object sender, RoutedEventArgs e)
+        {
+            this.Frame.Navigate(typeof(workPage), currentLesson);
         }
     }
 

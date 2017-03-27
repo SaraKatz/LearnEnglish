@@ -1,46 +1,63 @@
-Assets\119471_(96).gif
-Assets\1ללא שם.png
-Assets\1מיקי.png
-Assets\2235.gif
-Assets\2237.gif
-Assets\2237.wmv
-Assets\900.gif
-Assets\900.wmv
-Assets\904.gif
-Assets\904.wmv
-Assets\abc.png
+Assets\1מיקי.scale-100.png
 Assets\ABC-Song---Nursery-Rhymes[www.savevid.com] (1).mp4
-Assets\apple.jpg
-Assets\game.png
-Assets\images.jpg
-Assets\images1.jpg
-Assets\images1.png
-Assets\images2.png
-Assets\images3.png
-Assets\imagesCAB6GPAE.jpg
-Assets\imagesCAK6WRKR.jpg
-Assets\imagesCAQG90OK.jpg
-Assets\IMG_0288.JPG
-Assets\lessonPic.jpg
-Assets\Logo.png
-Assets\s_u_01_10142_01_02.gif
-Assets\SmallLogo.png
-Assets\SplashScreen.png
-Assets\StoreLogo.png
-Assets\untitled.png
+Assets\backgrounds\Checkpoint.WAV
+Assets\backgrounds\chrcbell.wav
+Assets\backgrounds\musik.mp3
+Assets\backgrounds\pickup10.wav
+Assets\backgrounds\Yeah.wav
+Assets\backgrounds\אותיות שנלמד השיעור.jpg
+Assets\backgrounds\אישור.png
+Assets\backgrounds\אריח 150-150.png
+Assets\backgrounds\אריח 150-310.png
+Assets\backgrounds\אריח פתיחה .png
+Assets\backgrounds\אריח פתיחה חדש222222.png
+Assets\backgrounds\אריח פתיחה.scale-100.png
+Assets\backgrounds\אריח פתיחה2.png
+Assets\backgrounds\אריח30.png
+Assets\backgrounds\אריח50.png
+Assets\backgrounds\דף עבודה .jpg
+Assets\backgrounds\זלדה מדברת.mp4
+Assets\backgrounds\זלדה.avi
+Assets\backgrounds\חזרה.jpg
+Assets\backgrounds\לחצן שיעור ורוד - 1.png
+Assets\backgrounds\לחצן שיעור ורוד.png
+Assets\backgrounds\לחצן שיעור ירוק - 1.png
+Assets\backgrounds\לחצן שיעור ירוק.png
+Assets\backgrounds\לחצן שיעור כתום - 1.png
+Assets\backgrounds\לחצן שיעור כתום.png
+Assets\backgrounds\לחצן שיעור לבן.png
+Assets\backgrounds\למפה.png
+Assets\backgrounds\לשיעור קודם.png
+Assets\backgrounds\לשיר.png
+Assets\backgrounds\מסך כתיבת אות.jpg
+Assets\backgrounds\מסכים לימוד אנגלית ב.jpg
+Assets\backgrounds\מסכים לימוד אנגלית ב2.jpg
+Assets\backgrounds\מסכים לימוד אנגלית ג.jpg
+Assets\backgrounds\מסכים לימוד אנגלית ג2.jpg
+Assets\backgrounds\מסכים לימוד אנגלית ג3.jpg
+Assets\backgrounds\מסכים לימוד אנגלית ג4.jpg
+Assets\backgrounds\מסכים לימוד אנגלית.jpg
+Assets\backgrounds\מסכים לימוד אנגלית2.jpg
+Assets\backgrounds\מסכים לימוד אנגלית3.jpg
+Assets\backgrounds\מפת שיעורים.jpg
+Assets\backgrounds\קו.png
+Assets\backgrounds\קנבס.png
+Assets\backgrounds\רבוע ורוד.png
+Assets\backgrounds\רבוע ורוד2.png
+Assets\backgrounds\רבוע ירוק.png
+Assets\backgrounds\רבוע ירוק2.png
+Assets\backgrounds\רבוע כתום.png
+Assets\backgrounds\רבוע כתום2.png
+Assets\backgrounds\שיעור ורוד.png
+Assets\backgrounds\תמונות של האות.jpg
+Assets\images3.scale-100.png
 Assets\v.png
 Assets\x.png
-Assets\הסרט שלי.mp4
-Assets\ילד 2.jpg
-Assets\מיקי אריח.png
-Assets\מיקי.png
-Assets\מיקי_משחק.png
-Assets\מפעל הפורמטים2237.wmv
-Assets\משחק.png
-Assets\פתיחה.png
-Assets\רקע אדום.png
-Assets\רקע דף.png
-Assets\רקע קו למעלה.png
+Assets\אריח30.scale-100.png
+Assets\ללא שם.png
+Assets\מיקי אריח.scale-100.png
+Assets\מסכים לימוד אנגלית.jpg
+Assets\שיעור שורה 1.png
 abcSong.xaml
 App.xaml
 Common\StandardStyles.xaml
@@ -53,9 +70,9 @@ pictuerOfLetters.xaml
 Review.xaml
 SplitPage1.xaml
 workPage.xaml
+Common\a2.mov
 Common\ReadMe.txt
 EnglishLessonsMetirial\LettersClip\a1.mov
-EnglishLessonsMetirial\LettersClip\a2.mov
 EnglishLessonsMetirial\LettersClip\b1.mov
 EnglishLessonsMetirial\LettersClip\b2.mov
 EnglishLessonsMetirial\LettersClip\c1.mov
@@ -118,6 +135,7 @@ EnglishLessonsMetirial\lettersPictuers\C\cake.jpg
 EnglishLessonsMetirial\lettersPictuers\C\camera.jpg
 EnglishLessonsMetirial\lettersPictuers\C\clothing.jpg
 EnglishLessonsMetirial\lettersPictuers\C\crown.jpg
+EnglishLessonsMetirial\lettersPictuers\C\cup.jpg
 EnglishLessonsMetirial\lettersPictuers\D\diamond.jpg
 EnglishLessonsMetirial\lettersPictuers\D\disc.jpg
 EnglishLessonsMetirial\lettersPictuers\D\dog.jpg
@@ -150,7 +168,7 @@ EnglishLessonsMetirial\lettersPictuers\K\key.jpg
 EnglishLessonsMetirial\lettersPictuers\K\keyboard.jpg
 EnglishLessonsMetirial\lettersPictuers\K\kite.jpg
 EnglishLessonsMetirial\lettersPictuers\K\kiwi.jpg
-EnglishLessonsMetirial\lettersPictuers\L\lamp.jpg
+EnglishLessonsMetirial\lettersPictuers\L\laundering.jpg
 EnglishLessonsMetirial\lettersPictuers\L\leaf.png
 EnglishLessonsMetirial\lettersPictuers\L\lemon.png
 EnglishLessonsMetirial\lettersPictuers\L\lion.jpg
@@ -170,6 +188,10 @@ EnglishLessonsMetirial\lettersPictuers\P\pen.jpg
 EnglishLessonsMetirial\lettersPictuers\P\pepper.jpg
 EnglishLessonsMetirial\lettersPictuers\P\popcorn.jpg
 EnglishLessonsMetirial\lettersPictuers\P\present.jpg
+EnglishLessonsMetirial\lettersPictuers\Q\quarter.png
+EnglishLessonsMetirial\lettersPictuers\Q\queen.jpg
+EnglishLessonsMetirial\lettersPictuers\Q\question mark.png
+EnglishLessonsMetirial\lettersPictuers\Q\ququ.png
 EnglishLessonsMetirial\lettersPictuers\R\rabbit.jpg
 EnglishLessonsMetirial\lettersPictuers\R\rake.jpg
 EnglishLessonsMetirial\lettersPictuers\R\roof.jpg
@@ -183,22 +205,29 @@ EnglishLessonsMetirial\lettersPictuers\T\tractor.jpg
 EnglishLessonsMetirial\lettersPictuers\T\train.jpg
 EnglishLessonsMetirial\lettersPictuers\T\tree.jpg
 EnglishLessonsMetirial\lettersPictuers\U\umbrella.jpg
+EnglishLessonsMetirial\lettersPictuers\U\unicycle.jpg
+EnglishLessonsMetirial\lettersPictuers\U\united States.png
+EnglishLessonsMetirial\lettersPictuers\U\up.png
 EnglishLessonsMetirial\lettersPictuers\V\vase.png
 EnglishLessonsMetirial\lettersPictuers\V\vegetable.jpg
 EnglishLessonsMetirial\lettersPictuers\V\vest.jpg
 EnglishLessonsMetirial\lettersPictuers\V\violin.jpg
+EnglishLessonsMetirial\lettersPictuers\W\water.jpg
 EnglishLessonsMetirial\lettersPictuers\W\watermelon.jpg
 EnglishLessonsMetirial\lettersPictuers\W\wine.jpg
 EnglishLessonsMetirial\lettersPictuers\W\wool.jpg
+EnglishLessonsMetirial\lettersPictuers\X\box.png
 EnglishLessonsMetirial\lettersPictuers\X\fox.jpg
+EnglishLessonsMetirial\lettersPictuers\X\ox.jpg
 EnglishLessonsMetirial\lettersPictuers\X\xylophone.jpg
+EnglishLessonsMetirial\lettersPictuers\Y\yarmulke.jpg
+EnglishLessonsMetirial\lettersPictuers\Y\yellow.jpg
+EnglishLessonsMetirial\lettersPictuers\Y\yogurt.png
 EnglishLessonsMetirial\lettersPictuers\Y\yoyo.jpg
 EnglishLessonsMetirial\lettersPictuers\Z\zebra.jpg
+EnglishLessonsMetirial\lettersPictuers\Z\zero.png
 EnglishLessonsMetirial\lettersPictuers\Z\zipper.jpg
 EnglishLessonsMetirial\lettersPictuers\Z\zucchini.png
-EnglishLessonsMetirial\lettersSound\020514-232244.mp3
-EnglishLessonsMetirial\lettersSound\07 בענין השמחה.mp3
-EnglishLessonsMetirial\lettersSound\Track 01.mp3
 EnglishLessonsMetirial\lettersSoundExplaenation\a1_sound.mp3
 EnglishLessonsMetirial\lettersSoundExplaenation\a2_sound.mp3
 EnglishLessonsMetirial\lettersSoundExplaenation\b1_sound.mp3
@@ -256,7 +285,109 @@ EnglishLessonsMetirial\lettersSoundExplaenation\וידאו013.mp4
 EnglishLessonsMetirial\lettersSoundExplaenation\וידאו014.mp4
 EnglishLessonsMetirial\lettersSoundExplaenation\וידאו015.mp4
 EnglishLessonsMetirial\lettersSoundExplaenation\וידאו019.mp4
-EnglishLessonsMetirial\wordSuond\וידאו004.mp4
-EnglishLessonsMetirial\wordSuond\וידאו011.mp4
+EnglishLessonsMetirial\wordSuond\A\acordion.m4a
+EnglishLessonsMetirial\wordSuond\A\ambulace.m4a
+EnglishLessonsMetirial\wordSuond\A\apple.m4a
+EnglishLessonsMetirial\wordSuond\A\atlas.m4a
+EnglishLessonsMetirial\wordSuond\B\baby.m4a
+EnglishLessonsMetirial\wordSuond\B\ball.m4a
+EnglishLessonsMetirial\wordSuond\B\balloon.m4a
+EnglishLessonsMetirial\wordSuond\B\banana.m4a
+EnglishLessonsMetirial\wordSuond\C\cake.m4a
+EnglishLessonsMetirial\wordSuond\C\camera.m4a
+EnglishLessonsMetirial\wordSuond\C\crown.m4a
+EnglishLessonsMetirial\wordSuond\C\cup.m4a
+EnglishLessonsMetirial\wordSuond\D\diamond.m4a
+EnglishLessonsMetirial\wordSuond\D\disk.m4a
+EnglishLessonsMetirial\wordSuond\D\dog.m4a
+EnglishLessonsMetirial\wordSuond\D\doll.m4a
+EnglishLessonsMetirial\wordSuond\E\egg.m4a
+EnglishLessonsMetirial\wordSuond\E\eggplant.m4a
+EnglishLessonsMetirial\wordSuond\E\elefant.m4a
+EnglishLessonsMetirial\wordSuond\E\envalope.m4a
+EnglishLessonsMetirial\wordSuond\F\finger.m4a
+EnglishLessonsMetirial\wordSuond\F\fish.m4a
+EnglishLessonsMetirial\wordSuond\F\flower.m4a
+EnglishLessonsMetirial\wordSuond\F\foot.m4a
+EnglishLessonsMetirial\wordSuond\G\giraf.m4a
+EnglishLessonsMetirial\wordSuond\G\gitar.m4a
+EnglishLessonsMetirial\wordSuond\G\glasses.m4a
+EnglishLessonsMetirial\wordSuond\G\grapes.m4a
+EnglishLessonsMetirial\wordSuond\H\hamburger.m4a
+EnglishLessonsMetirial\wordSuond\H\hat.m4a
+EnglishLessonsMetirial\wordSuond\H\huouse.m4a
+EnglishLessonsMetirial\wordSuond\H\hurt.m4a
+EnglishLessonsMetirial\wordSuond\I\ice cream.m4a
+EnglishLessonsMetirial\wordSuond\I\igloo.m4a
+EnglishLessonsMetirial\wordSuond\I\image.m4a
+EnglishLessonsMetirial\wordSuond\I\iron.m4a
+EnglishLessonsMetirial\wordSuond\J\jaket.m4a
+EnglishLessonsMetirial\wordSuond\J\jam.m4a
+EnglishLessonsMetirial\wordSuond\J\jely.m4a
+EnglishLessonsMetirial\wordSuond\J\juice.m4a
+EnglishLessonsMetirial\wordSuond\K\key.m4a
+EnglishLessonsMetirial\wordSuond\K\keybord.m4a
+EnglishLessonsMetirial\wordSuond\K\kite.m4a
+EnglishLessonsMetirial\wordSuond\K\kiwi.m4a
+EnglishLessonsMetirial\wordSuond\L\leaf.m4a
+EnglishLessonsMetirial\wordSuond\L\lemon.m4a
+EnglishLessonsMetirial\wordSuond\L\lion.m4a
+EnglishLessonsMetirial\wordSuond\L\loundry.m4a
+EnglishLessonsMetirial\wordSuond\M\mask.m4a
+EnglishLessonsMetirial\wordSuond\M\matkot.m4a
+EnglishLessonsMetirial\wordSuond\M\microphon.m4a
+EnglishLessonsMetirial\wordSuond\M\milk.m4a
+EnglishLessonsMetirial\wordSuond\N\nail.m4a
+EnglishLessonsMetirial\wordSuond\N\nest.m4a
+EnglishLessonsMetirial\wordSuond\N\notebook.m4a
+EnglishLessonsMetirial\wordSuond\N\nut.m4a
+EnglishLessonsMetirial\wordSuond\O\olive.m4a
+EnglishLessonsMetirial\wordSuond\O\onion.m4a
+EnglishLessonsMetirial\wordSuond\O\orange.m4a
+EnglishLessonsMetirial\wordSuond\O\organ.m4a
+EnglishLessonsMetirial\wordSuond\P\pen.m4a
+EnglishLessonsMetirial\wordSuond\P\pepper.m4a
+EnglishLessonsMetirial\wordSuond\P\popcorn.m4a
+EnglishLessonsMetirial\wordSuond\P\present.m4a
+EnglishLessonsMetirial\wordSuond\Q\qua qua.m4a
+EnglishLessonsMetirial\wordSuond\Q\quarter.m4a
+EnglishLessonsMetirial\wordSuond\Q\queen.m4a
+EnglishLessonsMetirial\wordSuond\Q\question mark.m4a
+EnglishLessonsMetirial\wordSuond\R\rabit.m4a
+EnglishLessonsMetirial\wordSuond\R\rake.m4a
+EnglishLessonsMetirial\wordSuond\R\roof.m4a
+EnglishLessonsMetirial\wordSuond\R\ruler.m4a
+EnglishLessonsMetirial\wordSuond\S\sack.m4a
+EnglishLessonsMetirial\wordSuond\S\scoote.m4a
+EnglishLessonsMetirial\wordSuond\S\snake.m4a
+EnglishLessonsMetirial\wordSuond\S\sofa.m4a
+EnglishLessonsMetirial\wordSuond\T\tel.m4a
+EnglishLessonsMetirial\wordSuond\T\tractor.m4a
+EnglishLessonsMetirial\wordSuond\T\train.m4a
+EnglishLessonsMetirial\wordSuond\T\tree.m4a
+EnglishLessonsMetirial\wordSuond\U\umbrella.m4a
+EnglishLessonsMetirial\wordSuond\U\unicycle.m4a
+EnglishLessonsMetirial\wordSuond\U\up.m4a
+EnglishLessonsMetirial\wordSuond\U\usa.m4a
+EnglishLessonsMetirial\wordSuond\V\vase.m4a
+EnglishLessonsMetirial\wordSuond\V\vegtables.m4a
+EnglishLessonsMetirial\wordSuond\V\vest.m4a
+EnglishLessonsMetirial\wordSuond\V\violin.m4a
+EnglishLessonsMetirial\wordSuond\W\water.m4a
+EnglishLessonsMetirial\wordSuond\W\watermelon.m4a
+EnglishLessonsMetirial\wordSuond\W\wine.m4a
+EnglishLessonsMetirial\wordSuond\W\wool.m4a
+EnglishLessonsMetirial\wordSuond\X\box.m4a
+EnglishLessonsMetirial\wordSuond\X\fox.m4a
+EnglishLessonsMetirial\wordSuond\X\ox.m4a
+EnglishLessonsMetirial\wordSuond\X\xilofone.m4a
+EnglishLessonsMetirial\wordSuond\Y\yarmulka.m4a
+EnglishLessonsMetirial\wordSuond\Y\yellow.m4a
+EnglishLessonsMetirial\wordSuond\Y\yogurt.m4a
+EnglishLessonsMetirial\wordSuond\Y\yoyo.m4a
+EnglishLessonsMetirial\wordSuond\Z\zebra.m4a
+EnglishLessonsMetirial\wordSuond\Z\zero.m4a
+EnglishLessonsMetirial\wordSuond\Z\ziper.m4a
+EnglishLessonsMetirial\wordSuond\Z\zucini.m4a
 XML\dataFiles\lessons.xml
 XML\dataFiles\users.xml

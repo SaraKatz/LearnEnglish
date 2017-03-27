@@ -27,59 +27,59 @@
     </lettersForLesson>
     
     <wordsForLetter>
-      <word lettersBigShape="I" lettersSmallShape="i" word="Ice cream" >
+      <word lettersBigShape="I" lettersSmallShape="i" word="Ice cream-גלידה" >
         <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/I/ice cream.jpg</wordPictuer>
-        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/I/ice cream.m4a</wordSound>
       </word>
-      <word lettersBigShape="I" lettersSmallShape="i" word="Igloo">
+      <word lettersBigShape="I" lettersSmallShape="i" word="Igloo-איגלו">
         <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/I/igloo.jpg</wordPictuer>
-        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/I/igloo.m4a</wordSound>
       </word>
-     <word lettersBigShape="I" lettersSmallShape="i" word="Image">
+     <word lettersBigShape="I" lettersSmallShape="i" word="Image-תמונה">
         <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/I/image.jpg</wordPictuer>
-        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/I/image.m4a</wordSound>
       </word>
-     <word lettersBigShape="I" lettersSmallShape="i" word="Iron">
+     <word lettersBigShape="I" lettersSmallShape="i" word="Iron-מגהץ">
         <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/I/iron.png</wordPictuer>
-        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/I/iron.m4a</wordSound>
       </word>
     </wordsForLetter>
 
     <wordsForLetter>
-      <word lettersBigShape="O" lettersSmallShape="o" word="Olive" >
+      <word lettersBigShape="O" lettersSmallShape="o" word="Olive-זית" >
         <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/O/olive.jpg</wordPictuer>
-        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/O/olive.m4a</wordSound>
       </word>
-      <word lettersBigShape="O" lettersSmallShape="o" word="Onion">
+      <word lettersBigShape="O" lettersSmallShape="o" word="Onion-בצל">
         <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/O/onion.png</wordPictuer>
-        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/O/onion.m4a</wordSound>
       </word>
-     <word lettersBigShape="O" lettersSmallShape="o" word="Orange">
+     <word lettersBigShape="O" lettersSmallShape="o" word="Orange-תפוז">
         <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/O/orange.png</wordPictuer>
-        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/O/orange.m4a</wordSound>
       </word>
-     <word lettersBigShape="O" lettersSmallShape="o" word="Organ">
+     <word lettersBigShape="O" lettersSmallShape="o" word="Organ-אורגן">
         <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/O/organ.jpg</wordPictuer>
-        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/O/organ.m4a</wordSound>
       </word>
     </wordsForLetter>
 
     <wordsForLetter>
-      <word lettersBigShape="C" lettersSmallShape="c" word="Cake">
+      <word lettersBigShape="C" lettersSmallShape="c" word="Cake-עוגה">
         <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/C/cake.jpg</wordPictuer>
-        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/C/cake.m4a</wordSound>
       </word>
-      <word lettersBigShape="C" lettersSmallShape="c" word="Camera">
+      <word lettersBigShape="C" lettersSmallShape="c" word="Camera-מצלמה">
         <wordPictuer>ms-appx:EnglishLessonsMetirial/lettersPictuers/C/camera.jpg</wordPictuer>
-        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/C/camera.m4a</wordSound>
       </word>
-     <word lettersBigShape="C" lettersSmallShape="c" word="Clothes">
-        <wordPictuer>ms-appx:EnglishLessonsMetirial/lettersPictuers/C/clothing.jpg</wordPictuer>
-        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+     <word lettersBigShape="C" lettersSmallShape="c" word="Cup-כוס">
+        <wordPictuer>ms-appx:EnglishLessonsMetirial/lettersPictuers/C/cup.jpg</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/C/cup.m4a</wordSound>
       </word>
-       <word lettersBigShape="C" lettersSmallShape="c" word="Crown">
+       <word lettersBigShape="C" lettersSmallShape="c" word="Crown-כתר">
         <wordPictuer>ms-appx:EnglishLessonsMetirial/lettersPictuers/C/crown.jpg</wordPictuer>
-        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/C/crown.m4a</wordSound>
       </word>
     </wordsForLetter>
     
@@ -120,21 +120,21 @@
     </lettersForLesson>
   
    <wordsForLetter>
-      <word lettersBigShape="T" lettersSmallShape="t" word="Telephone">
+      <word lettersBigShape="T" lettersSmallShape="t" word="Telephone- טלפון">
         <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/T/telephone.png</wordPictuer>
-        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/T/tel.m4a</wordSound>
       </word>
-    <word lettersBigShape="T" lettersSmallShape="t" word="Tractor">
+    <word lettersBigShape="T" lettersSmallShape="t" word="Tractor-טרקטור">
         <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/T/tractor.jpg</wordPictuer>
-        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/T/tractor.m4a</wordSound>
       </word>
-    <word lettersBigShape="T" lettersSmallShape="t" word="Train">
+    <word lettersBigShape="T" lettersSmallShape="t" word="Train-רכבת">
         <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/T/train.jpg</wordPictuer>
-        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/T/train.m4a</wordSound>
       </word>
-    <word lettersBigShape="T" lettersSmallShape="t" word="Tree">
+    <word lettersBigShape="T" lettersSmallShape="t" word="Tree-עץ">
         <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/T/tree.jpg</wordPictuer>
-        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/T/tree.m4a</wordSound>
       </word>
     </wordsForLetter>
     <sentencesForLesson lessonCode="2">
@@ -174,21 +174,21 @@
   </lettersForLesson>
   
  <wordsForLetter>
-      <word lettersBigShape="L" lettersSmallShape="l" word="Lamp">
-        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/L/lamp.jpg</wordPictuer>
-        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      <word lettersBigShape="L" lettersSmallShape="l" word="loundry-כביסה">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/L/laundering.jpg</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/L/loundry.m4a</wordSound>
       </word>
-      <word lettersBigShape="L" lettersSmallShape="l" word="Leaf">
+      <word lettersBigShape="L" lettersSmallShape="l" word="Leaf-עלה">
         <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/L/leaf.png</wordPictuer>
-        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/L/leaf.m4a</wordSound>
       </word>
-      <word lettersBigShape="L" lettersSmallShape="l" word="Lemon">
+      <word lettersBigShape="L" lettersSmallShape="l" word="Lemon-לימון">
         <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/L/lemon.png</wordPictuer>
-        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/L/lemon.m4a</wordSound>
       </word>
-      <word lettersBigShape="L" lettersSmallShape="l" word="Lion">
+      <word lettersBigShape="L" lettersSmallShape="l" word="Lion-אריה">
         <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/L/lion.jpg</wordPictuer>
-        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/L/lion.m4a</wordSound>
       </word>
   </wordsForLetter>
 <sentencesForLesson lessonCode="3">
@@ -213,21 +213,21 @@
     </lettersForLesson>
 
     <wordsForLetter>
-      <word lettersBigShape="F" lettersSmallShape="f" word="Finger">
+      <word lettersBigShape="F" lettersSmallShape="f" word="Finger-אצבע">
         <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/F/finger.jpg</wordPictuer>
-        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/I/finger.m4a</wordSound>
       </word>
-      <word lettersBigShape="F" lettersSmallShape="f" word="Fish">
+      <word lettersBigShape="F" lettersSmallShape="f" word="Fish-דג">
         <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/F/fish.jpg</wordPictuer>
-        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/F/fish.m4a</wordSound>
       </word>
-      <word lettersBigShape="F" lettersSmallShape="f" word="Flower">
+      <word lettersBigShape="F" lettersSmallShape="f" word="Flower-פרח">
         <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/F/flower.jpg</wordPictuer>
-        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/F/flower.m4a</wordSound>
       </word>
-      <word lettersBigShape="F" lettersSmallShape="f" word="Foot">
+      <word lettersBigShape="F" lettersSmallShape="f" word="Foot-כף רגל">
         <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/F/foot.jpg</wordPictuer>
-        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/F/foot.m4a</wordSound>
       </word>
     </wordsForLetter>
 
@@ -253,21 +253,21 @@
     </lettersForLesson>
 
     <wordsForLetter>
-      <word lettersBigShape="S" lettersSmallShape="s" word="Sack">
+      <word lettersBigShape="S" lettersSmallShape="s" word="Sack-שק">
         <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/S/sack.jpg</wordPictuer>
-        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/S/sack.m4a</wordSound>
       </word>
-      <word lettersBigShape="S" lettersSmallShape="s" word="Scoote">
+      <word lettersBigShape="S" lettersSmallShape="s" word="Scoote-קורקינט">
         <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/S/scoote.jpg</wordPictuer>
-        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/S/scoote.m4a</wordSound>
       </word>
-      <word lettersBigShape="S" lettersSmallShape="s" word="Snake">
+      <word lettersBigShape="S" lettersSmallShape="s" word="Snake-נחש">
         <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/S/snake.jpg</wordPictuer>
-        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/S/snake.m4a</wordSound>
       </word>
-       <word lettersBigShape="S" lettersSmallShape="s" word="Sofa">
+       <word lettersBigShape="S" lettersSmallShape="s" word="Sofa-ספה">
         <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/S/sofa.jpg</wordPictuer>
-        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/S/sofa.m4a</wordSound>
       </word>
     </wordsForLetter>
 
@@ -293,21 +293,21 @@
    </lettersForLesson>
 
     <wordsForLetter>
-        <word lettersBigShape="A" lettersSmallShape="a" word="Apple" >
+        <word lettersBigShape="A" lettersSmallShape="a" word="Apple-תפוח" >
         <wordPictuer>ms-appx:EnglishLessonsMetirial/lettersPictuers/A/apple.jpg</wordPictuer>
-        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/וידאו004.mp4</wordSound>
+        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/A/apple.m4a</wordSound>
       </word>
-        <word lettersBigShape="A" lettersSmallShape="a" word="Accordion" >
+        <word lettersBigShape="A" lettersSmallShape="a" word="Accordion-אקורדיון" >
         <wordPictuer>ms-appx:EnglishLessonsMetirial/lettersPictuers/A/accordion.png</wordPictuer>
-        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/וידאו004.mp4</wordSound>
+        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/A/acordion.m4a</wordSound>
       </word>
-      <word lettersBigShape="A" lettersSmallShape="a" word="Ambulance">
+      <word lettersBigShape="A" lettersSmallShape="a" word="Ambulance-אמבולנס">
         <wordPictuer>ms-appx:EnglishLessonsMetirial/lettersPictuers/A/ambulance.png</wordPictuer>
-        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/וידאו011.mp4</wordSound>
+        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/A/ambulace.m4a</wordSound>
       </word>
-        <word lettersBigShape="A" lettersSmallShape="a" word="Atlas">
+        <word lettersBigShape="A" lettersSmallShape="a" word="Atlas-אטלס">
         <wordPictuer>ms-appx:EnglishLessonsMetirial/lettersPictuers/A/atlas.png</wordPictuer>
-        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/וידאו011.mp4</wordSound>
+        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/A/atlas.m4a</wordSound>
       </word>
     </wordsForLetter>
 
@@ -333,21 +333,21 @@
     </lettersForLesson>
 
     <wordsForLetter>
-      <word lettersBigShape="E" lettersSmallShape="e" word="Eeg">
+      <word lettersBigShape="E" lettersSmallShape="e" word="Eeg-ביצה">
         <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/E/eeg.jpg</wordPictuer>
-        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/E/egg.m4a</wordSound>
       </word>
-      <word lettersBigShape="E" lettersSmallShape="e" word="Eggplant">
+      <word lettersBigShape="E" lettersSmallShape="e" word="Eggplant-חציל">
         <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/E/eggplant.png</wordPictuer>
-        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/E/eggplant.m4a</wordSound>
       </word>
-     <word lettersBigShape="E" lettersSmallShape="e" word="Elephant">
+     <word lettersBigShape="E" lettersSmallShape="e" word="Elephant-פיל">
         <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/E/elephant.jpg</wordPictuer>
-        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/E/elefant.m4a</wordSound>
       </word>
-      <word lettersBigShape="E" lettersSmallShape="e" word="Envelope">
+      <word lettersBigShape="E" lettersSmallShape="e" word="Envelope-מעטפה">
         <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/E/envelope.png</wordPictuer>
-        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/E/envalope.m4a</wordSound>
       </word>
     </wordsForLetter>
 
@@ -381,40 +381,40 @@
     </lettersForLesson>
 
     <wordsForLetter>
-      <word lettersBigShape="U" lettersSmallShape="u" word="Umbrella">
+      <word lettersBigShape="U" lettersSmallShape="u" word="Umbrella-מטריה">
         <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/U/umbrella.jpg</wordPictuer>
-        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/U/umbrella.m4a</wordSound>
       </word>
-      <word lettersBigShape="U" lettersSmallShape="u" word="U">
-        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/U/eeg.png</wordPictuer>
-        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      <word lettersBigShape="U" lettersSmallShape="u" word="Unicycle-חד אופן">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/U/unicycle.jpg</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/U/unicycle.m4a</wordSound>
       </word>
-     <word lettersBigShape="U" lettersSmallShape="u" word="U">
-        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/U/eeg.png</wordPictuer>
-        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+     <word lettersBigShape="U" lettersSmallShape="u" word="United States-ארצות הברית">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/U/united States.png</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/U/usa.m4a</wordSound>
       </word>
-     <word lettersBigShape="U" lettersSmallShape="u" word="U">
-        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/U/eeg.png</wordPictuer>
-        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+     <word lettersBigShape="U" lettersSmallShape="u" word="Up-למעלה">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/U/up.png</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/U/up.m4a</wordSound>
       </word>
     </wordsForLetter>
 
     <wordsForLetter>
-      <word lettersBigShape="B" lettersSmallShape="b" word="Banana">
+      <word lettersBigShape="B" lettersSmallShape="b" word="Banana-בננה">
         <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/B/banana.jpg</wordPictuer>
-        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/B/banana.m4a</wordSound>
       </word>
-    <word lettersBigShape="B" lettersSmallShape="b" word="Balloon">
+    <word lettersBigShape="B" lettersSmallShape="b" word="Balloon-בלון">
         <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/B/balloon.jpg</wordPictuer>
-        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/B/balloon.m4a</wordSound>
       </word>
-    <word lettersBigShape="B" lettersSmallShape="b" word="Ball">
+    <word lettersBigShape="B" lettersSmallShape="b" word="Ball-כדור">
         <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/B/ball.jpg</wordPictuer>
-        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/B/ball.m4a</wordSound>
       </word>
-    <word lettersBigShape="B" lettersSmallShape="b" word="Baby">
+    <word lettersBigShape="B" lettersSmallShape="b" word="Baby-תינוק">
         <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/B/baby.jpg</wordPictuer>
-        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/B/baby.m4a</wordSound>
       </word>
     </wordsForLetter>
     
@@ -440,21 +440,21 @@
     </lettersForLesson>
 
     <wordsForLetter>
-      <word lettersBigShape="D" lettersSmallShape="d" word="Diamond">
+      <word lettersBigShape="D" lettersSmallShape="d" word="Diamond-יהלום">
         <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/D/diamond.jpg</wordPictuer>
-        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/D/diamond.m4a</wordSound>
       </word>
-      <word lettersBigShape="D" lettersSmallShape="d" word="Disc">
+      <word lettersBigShape="D" lettersSmallShape="d" word="Disc-דיסק">
         <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/D/disc.jpg</wordPictuer>
-        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/D/disk.m4a</wordSound>
       </word>
-      <word lettersBigShape="D" lettersSmallShape="d" word="Dog">
+      <word lettersBigShape="D" lettersSmallShape="d" word="Dog-כלב">
         <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/D/dog.jpg</wordPictuer>
-        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/D/dog.m4a</wordSound>
       </word>
-      <word lettersBigShape="D" lettersSmallShape="d" word="Doll">
+      <word lettersBigShape="D" lettersSmallShape="d" word="Doll-בובה">
         <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/D/doll.jpg</wordPictuer>
-        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/D/doll.m4a</wordSound>
       </word>
     </wordsForLetter>
 
@@ -480,21 +480,21 @@
     </lettersForLesson>
 
     <wordsForLetter>
-      <word lettersBigShape="G" lettersSmallShape="g" word="Giraffe">
+      <word lettersBigShape="G" lettersSmallShape="g" word="Giraffe-ג'ירפה">
         <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/G/giraffe.jpg</wordPictuer>
-        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/I/giraf.m4a</wordSound>
       </word>
-      <word lettersBigShape="G" lettersSmallShape="g" word="Glasses">
+      <word lettersBigShape="G" lettersSmallShape="g" word="Glasses-משקפיים">
         <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/G/glasses.jpg</wordPictuer>
-        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/G/glasses.m4a</wordSound>
       </word>
-      <word lettersBigShape="G" lettersSmallShape="g" word="Grape">
+      <word lettersBigShape="G" lettersSmallShape="g" word="Grape-ענבים">
         <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/G/grape.png</wordPictuer>
-        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/G/grapes.m4a</wordSound>
       </word>
-      <word lettersBigShape="G" lettersSmallShape="g" word="Guitar">
+      <word lettersBigShape="G" lettersSmallShape="g" word="Guitar-גיטרה">
         <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/G/guitar.jpg</wordPictuer>
-        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/G/gitar.m4a</wordSound>
       </word>
     </wordsForLetter>
 
@@ -520,21 +520,21 @@
     </lettersForLesson>
 
     <wordsForLetter>
-      <word lettersBigShape="H" lettersSmallShape="h" word="Hamburger">
+      <word lettersBigShape="H" lettersSmallShape="h" word="Hamburger-המבורגר">
         <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/H/hamburger.jpg</wordPictuer>
-        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/H/hamburger.m4a</wordSound>
       </word>
-      <word lettersBigShape="H" lettersSmallShape="h" word="Hat">
+      <word lettersBigShape="H" lettersSmallShape="h" word="Hat-כובע">
         <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/H/hat.png</wordPictuer>
-        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/H/hat.m4a</wordSound>
       </word>
-      <word lettersBigShape="H" lettersSmallShape="h" word="Heart">
+      <word lettersBigShape="H" lettersSmallShape="h" word="Heart-לב">
         <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/H/heart.jpg</wordPictuer>
-        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/H/hurt.m4a</wordSound>
       </word>
-      <word lettersBigShape="H" lettersSmallShape="h" word="House">
+      <word lettersBigShape="H" lettersSmallShape="h" word="House-בית">
         <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/H/house.jpg</wordPictuer>
-        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/H/huouse.m4a</wordSound>
       </word>
     </wordsForLetter>
 
@@ -559,21 +559,21 @@
     </lettersForLesson>
 
     <wordsForLetter>
-      <word lettersBigShape="J" lettersSmallShape="j" word="Jacket">
+      <word lettersBigShape="J" lettersSmallShape="j" word="Jacket-ג'קט">
         <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/J/jacket.jpg</wordPictuer>
-        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/J/jaket.m4a</wordSound>
       </word>
-      <word lettersBigShape="J" lettersSmallShape="j" word="Jam">
+      <word lettersBigShape="J" lettersSmallShape="j" word="Jam-ריבה">
         <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/J/jam.png</wordPictuer>
-        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/J/jam.m4a</wordSound>
       </word>
-      <word lettersBigShape="J" lettersSmallShape="j" word="Jelly">
+      <word lettersBigShape="J" lettersSmallShape="j" word="Jelly-ג'לי">
         <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/J/jelly.jpg</wordPictuer>
-        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/J/jely.m4a</wordSound>
       </word>
-      <word lettersBigShape="J" lettersSmallShape="j" word="Juice">
+      <word lettersBigShape="J" lettersSmallShape="j" word="Juice-מיץ">
         <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/J/juice.png</wordPictuer>
-        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/J/juice.m4a</wordSound>
       </word>
     </wordsForLetter>
 
@@ -598,21 +598,21 @@
     </lettersForLesson>
 
     <wordsForLetter>
-      <word lettersBigShape="K" lettersSmallShape="k" word="Key">
+      <word lettersBigShape="K" lettersSmallShape="k" word="Key-מפתח">
         <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/K/key.jpg</wordPictuer>
-        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/K/key.m4a</wordSound>
       </word>
-      <word lettersBigShape="K" lettersSmallShape="k" word="Keyboard">
+      <word lettersBigShape="K" lettersSmallShape="k" word="Keyboard-מקלדת">
         <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/K/keyboard.jpg</wordPictuer>
-        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/K/keybord.m4a</wordSound>
       </word>
-      <word lettersBigShape="K" lettersSmallShape="k" word="Kite">
+      <word lettersBigShape="K" lettersSmallShape="k" word="Kite-עפיפון">
         <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/K/kite.jpg</wordPictuer>
-        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/K/kite.m4a</wordSound>
       </word>
-      <word lettersBigShape="K" lettersSmallShape="k" word="Kiwi">
+      <word lettersBigShape="K" lettersSmallShape="k" word="Kiwi-קיווי">
         <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/K/kiwi.jpg</wordPictuer>
-        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/K/kiwi.m4a</wordSound>
       </word>
     </wordsForLetter>
 
@@ -637,21 +637,21 @@
     </lettersForLesson>
 
     <wordsForLetter>
-      <word lettersBigShape="M" lettersSmallShape="m" word="Mask">
+      <word lettersBigShape="M" lettersSmallShape="m" word="Mask-מסכה">
         <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/M/mask.png</wordPictuer>
-        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/M/mask.m4a</wordSound>
       </word>
-      <word lettersBigShape="M" lettersSmallShape="m" word="Matkot">
-        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/M/Matkot.jpgg</wordPictuer>
-        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      <word lettersBigShape="M" lettersSmallShape="m" word="Matkot-מטקות">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/M/Matkot.jpg</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/M/matkot.m4a</wordSound>
       </word>
-      <word lettersBigShape="M" lettersSmallShape="m" word="Microphone">
+      <word lettersBigShape="M" lettersSmallShape="m" word="Microphone-מיקרופון">
         <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/M/microphone.jpg</wordPictuer>
-        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/M/microphon.m4a</wordSound>
       </word>
-      <word lettersBigShape="M" lettersSmallShape="m" word="Milk">
+      <word lettersBigShape="M" lettersSmallShape="m" word="Milk-חלב">
         <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/M/milk.jpg</wordPictuer>
-        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/M/milk.m4a</wordSound>
       </word>
     </wordsForLetter>
 
@@ -676,21 +676,21 @@
     </lettersForLesson>
 
     <wordsForLetter>
-      <word lettersBigShape="N" lettersSmallShape="n" word="Nail">
+      <word lettersBigShape="N" lettersSmallShape="n" word="Nail-מסמר">
         <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/N/nail.png</wordPictuer>
-        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/N/nail.m4a</wordSound>
       </word>
-      <word lettersBigShape="N" lettersSmallShape="n" word="Nest">
+      <word lettersBigShape="N" lettersSmallShape="n" word="Nest-קן">
         <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/N/nest.jpg</wordPictuer>
-        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/N/nest.m4a</wordSound>
       </word>
-      <word lettersBigShape="N" lettersSmallShape="n" word="Notebook">
+      <word lettersBigShape="N" lettersSmallShape="n" word="Notebook-מחברת">
         <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/N/notebook.png</wordPictuer>
-        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/N/notebook.m4a</wordSound>
       </word>
-      <word lettersBigShape="N" lettersSmallShape="n" word="Nut">
+      <word lettersBigShape="N" lettersSmallShape="n" word="Nut-אגוז">
         <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/N/nut.jpg</wordPictuer>
-        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/N/nut.m4a</wordSound>
       </word>
     </wordsForLetter>
 
@@ -715,21 +715,21 @@
     </lettersForLesson>
 
     <wordsForLetter>
-      <word lettersBigShape="P" lettersSmallShape="p" word="Pen">
+      <word lettersBigShape="P" lettersSmallShape="p" word="Pen-עט">
         <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/P/pen.jpg</wordPictuer>
-        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/P/pen.m4a</wordSound>
       </word>
-      <word lettersBigShape="P" lettersSmallShape="p" word="Pepper">
+      <word lettersBigShape="P" lettersSmallShape="p" word="Pepper-פלפל">
         <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/P/pepper.jpg</wordPictuer>
-        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/P/pepper.m4a</wordSound>
       </word>
-      <word lettersBigShape="P" lettersSmallShape="p" word="Popcorn">
+      <word lettersBigShape="P" lettersSmallShape="p" word="Popcorn-פוקפורן">
         <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/P/popcorn.jpg</wordPictuer>
-        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/P/popcorn.m4a</wordSound>
       </word>
-      <word lettersBigShape="P" lettersSmallShape="p" word="Present">
+      <word lettersBigShape="P" lettersSmallShape="p" word="Present-מתנה">
         <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/P/present.jpg</wordPictuer>
-        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/P/present.m4a</wordSound>
       </word>
     </wordsForLetter>
 
@@ -744,7 +744,7 @@
 <!--/////////////////////////////שיעור מס' 17\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
   <lesson lessonCode="17">
     <lettersForLesson lessonCode="17">
-      <letter lettersBigShape="Q" lettersSmallShape="q" hebrewLetter="'נ">
+      <letter lettersBigShape="Q" lettersSmallShape="q" hebrewLetter="'קי">
         <clipBig>ms-appx:EnglishLessonsMetirial/LettersClip/q1.mov</clipBig>
         <clipSmall>ms-appx:EnglishLessonsMetirial/LettersClip/q2.mov</clipSmall>
         <sound></sound>
@@ -754,21 +754,21 @@
     </lettersForLesson>
 
     <wordsForLetter>
-      <word lettersBigShape="Q" lettersSmallShape="q" word="Q">
-        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/Q/hamburger.jpg</wordPictuer>
-        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      <word lettersBigShape="Q" lettersSmallShape="q" word="Queen-מלכה">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/Q/queen.jpg</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/Q/queen.m4a</wordSound>
       </word>
-      <word lettersBigShape="Q" lettersSmallShape="q" word="Q">
-        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/Q/hamburger.jpg</wordPictuer>
-        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      <word lettersBigShape="Q" lettersSmallShape="q" word="Question mark-סימן שאלה">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/Q/question mark.png</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/Q/question mark.m4a</wordSound>
       </word>
-      <word lettersBigShape="Q" lettersSmallShape="q" word="Q">
-        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/Q/hamburger.jpg</wordPictuer>
-        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      <word lettersBigShape="Q" lettersSmallShape="q" word="Qua qua">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/Q/ququ.png</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/Q/qua qua.m4a</wordSound>
       </word>
-      <word lettersBigShape="Q" lettersSmallShape="q" word="Q">
-        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/Q/hamburger.jpg</wordPictuer>
-        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      <word lettersBigShape="Q" lettersSmallShape="q" word="Quarter-רבע">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/Q/quarter.png</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/Q/quarter.m4a</wordSound>
       </word>
     </wordsForLetter>
 
@@ -793,21 +793,21 @@
     </lettersForLesson>
 
     <wordsForLetter>
-      <word lettersBigShape="R" lettersSmallShape="r" word="Rabbit">
+      <word lettersBigShape="R" lettersSmallShape="r" word="Rabbit-ארנבת">
         <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/R/rabbit.jpg</wordPictuer>
-        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/R/rabit.m4a</wordSound>
       </word>
-      <word lettersBigShape="R" lettersSmallShape="r" word="Rake">
+      <word lettersBigShape="R" lettersSmallShape="r" word="Rake-מגרפה">
         <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/R/rake.jpg</wordPictuer>
-        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/R/rake.m4a</wordSound>
       </word>
-      <word lettersBigShape="R" lettersSmallShape="r" word="Roof">
+      <word lettersBigShape="R" lettersSmallShape="r" word="Roof-גג">
         <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/R/roof.jpg</wordPictuer>
-        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/R/roof.m4a</wordSound>
       </word>
-      <word lettersBigShape="R" lettersSmallShape="r" word="Ruler">
+      <word lettersBigShape="R" lettersSmallShape="r" word="Ruler-סרגל">
         <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/R/ruler.jpg</wordPictuer>
-        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/R/ruler.m4a</wordSound>
       </word>
     </wordsForLetter>
 
@@ -829,7 +829,7 @@
         <sound_BigLetterExplanation>ms-appx:EnglishLessonsMetirial/lettersSoundExplaenation/v1_sound.mp3</sound_BigLetterExplanation>
         <sound_SmallLetterExplanation>ms-appx:EnglishLessonsMetirial/lettersSoundExplaenation/v2_sound.mp3</sound_SmallLetterExplanation>
       </letter>
-    <letter lettersBigShape="W" lettersSmallShape="w" hebrewLetter="'ו">
+    <letter lettersBigShape="W" lettersSmallShape="w" hebrewLetter="'וו">
         <clipBig>ms-appx:EnglishLessonsMetirial/LettersClip/w1.mov</clipBig>
         <clipSmall>ms-appx:EnglishLessonsMetirial/LettersClip/w2.mov</clipSmall>
         <sound></sound>
@@ -839,40 +839,40 @@
     </lettersForLesson>
 
     <wordsForLetter>
-      <word lettersBigShape="V" lettersSmallShape="v" word="Vase">
+      <word lettersBigShape="V" lettersSmallShape="v" word="Vase-אגרטל">
         <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/V/vase.png</wordPictuer>
-        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/V/vase.m4a</wordSound>
       </word>
-      <word lettersBigShape="V" lettersSmallShape="v" word="Vegetable">
+      <word lettersBigShape="V" lettersSmallShape="v" word="Vegetable-ירקות">
         <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/V/vegetable.jpg</wordPictuer>
-        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/V/vegtables.m4a</wordSound>
       </word>
-      <word lettersBigShape="V" lettersSmallShape="v" word="Vest">
+      <word lettersBigShape="V" lettersSmallShape="v" word="Vest-ווסט">
         <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/V/vest.jpg</wordPictuer>
-        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/V/vest.m4a</wordSound>
       </word>
-      <word lettersBigShape="V" lettersSmallShape="v" word="Violin">
+      <word lettersBigShape="V" lettersSmallShape="v" word="Violin-כינור">
         <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/V/violin.jpg</wordPictuer>
-        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/V/violin.m4a</wordSound>
       </word>
     </wordsForLetter>
 
     <wordsForLetter>
-      <word lettersBigShape="W" lettersSmallShape="w" word="Watermelon">
+      <word lettersBigShape="W" lettersSmallShape="w" word="Watermelon-אבטיח">
         <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/W/watermelon.jpg</wordPictuer>
-        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/W/watermelon.m4a</wordSound>
       </word>
-      <word lettersBigShape="W" lettersSmallShape="w" word="Wine">
+      <word lettersBigShape="W" lettersSmallShape="w" word="Wine-יין">
         <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/W/wine.jpg</wordPictuer>
-        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/W/wine.m4a</wordSound>
       </word>
-      <word lettersBigShape="W" lettersSmallShape="w" word="Wool">
+      <word lettersBigShape="W" lettersSmallShape="w" word="Wool-צמר">
         <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/W/wool.jpg</wordPictuer>
-        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/W/wool.m4a</wordSound>
       </word>
-      <word lettersBigShape="W" lettersSmallShape="w" word="W">
-        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/W/hamburger.jpg</wordPictuer>
-        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      <word lettersBigShape="W" lettersSmallShape="w" word="Water-מיים">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/W/water.jpg</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/W/water.m4a</wordSound>
       </word>
     </wordsForLetter>
     <sentencesForLesson lessonCode="19">
@@ -896,21 +896,21 @@
     </lettersForLesson>
 
     <wordsForLetter>
-      <word lettersBigShape="Y" lettersSmallShape="y" word="Yoyo">
+      <word lettersBigShape="Y" lettersSmallShape="y" word="Yoyo-יויו">
         <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/Y/yoyo.jpg</wordPictuer>
-        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/Y/yoyo.m4a</wordSound>
       </word>
-      <word lettersBigShape="Y" lettersSmallShape="y" word="Y">
-        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/Y/hamburger.jpg</wordPictuer>
-        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      <word lettersBigShape="Y" lettersSmallShape="y" word="Yarmulke-כיפה">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/Y/yarmulke.jpg</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/Y/yarmulka.m4a</wordSound>
       </word>
-      <word lettersBigShape="Y" lettersSmallShape="y" word="Y">
-        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/Y/hamburger.jpg</wordPictuer>
-        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      <word lettersBigShape="Y" lettersSmallShape="y" word="Yellow-צהוב">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/Y/yellow.jpg</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/Y/yellow.m4a</wordSound>
       </word>
-      <word lettersBigShape="Y" lettersSmallShape="y" word="Y">
-        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/Y/hamburger.jpg</wordPictuer>
-        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      <word lettersBigShape="Y" lettersSmallShape="y" word="Yogurt-יוגורט">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/Y/yogurt.png</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/Y/yogurt.m4a</wordSound>
       </word>
     </wordsForLetter>
 
@@ -925,7 +925,7 @@
 <!--/////////////////////////////שיעור מס' 21\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
   <lesson lessonCode="21">
     <lettersForLesson lessonCode="21">
-      <letter lettersBigShape="X" lettersSmallShape="x" hebrewLetter="'ו">
+      <letter lettersBigShape="X" lettersSmallShape="x" hebrewLetter="'קס">
         <clipBig>ms-appx:EnglishLessonsMetirial/LettersClip/x1.mov</clipBig>
         <clipSmall>ms-appx:EnglishLessonsMetirial/LettersClip/x2.mov</clipSmall>
         <sound></sound>
@@ -942,40 +942,40 @@
     </lettersForLesson>
 
     <wordsForLetter>
-      <word lettersBigShape="X" lettersSmallShape="x" word="Xox">
+      <word lettersBigShape="X" lettersSmallShape="x" word="fox-שועל">
         <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/X/fox.jpg</wordPictuer>
-        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/X/fox.m4a</wordSound>
       </word>
-      <word lettersBigShape="X" lettersSmallShape="x" word="Xylophone">
+      <word lettersBigShape="X" lettersSmallShape="x" word="Xylophone-קסילופון">
         <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/X/xylophone.jpg</wordPictuer>
-        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/X/xilofone.m4a</wordSound>
       </word>
-      <word lettersBigShape="X" lettersSmallShape="x" word="X">
-        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/X/hamburger.jpg</wordPictuer>
-        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      <word lettersBigShape="X" lettersSmallShape="x" word="Box-קופסא">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/X/box.png</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/X/box.m4a</wordSound>
       </word>
-      <word lettersBigShape="X" lettersSmallShape="x" word="X">
-        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/X/hamburger.jpg</wordPictuer>
-        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      <word lettersBigShape="X" lettersSmallShape="x" word="Ox-שועל">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/X/ox.jpg</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/X/ox.m4a</wordSound>
       </word>
     </wordsForLetter>
 
     <wordsForLetter>
-      <word lettersBigShape="Z" lettersSmallShape="z" word="Zebra">
+      <word lettersBigShape="Z" lettersSmallShape="z" word="Zebra-זברה">
         <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/Z/zebra.jpg</wordPictuer>
-        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/Z/zebra.m4a</wordSound>
       </word>
-      <word lettersBigShape="Z" lettersSmallShape="z" word="Zipper">
+      <word lettersBigShape="Z" lettersSmallShape="z" word="Zipper-רוכסן">
         <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/Z/zipper.jpg</wordPictuer>
-        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/Z/ziper.m4a</wordSound>
       </word>
-      <word lettersBigShape="Z" lettersSmallShape="z" word="Zucchini">
+      <word lettersBigShape="Z" lettersSmallShape="z" word="Zucchini-קישוא">
         <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/Z/zucchini.png</wordPictuer>
-        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/Z/zucini.m4a</wordSound>
       </word>
-      <word lettersBigShape="Z" lettersSmallShape="z" word="Z">
-        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/Z/hamburger.jpg</wordPictuer>
-        <wordSound>ms-appx:EnglishLessonsMetirial/lettersSound/Track 01.mp3</wordSound>
+      <word lettersBigShape="Z" lettersSmallShape="z" word="Zero-אפס">
+        <wordPictuer>ms-appx:ms-appx:EnglishLessonsMetirial/lettersPictuers/Z/zero.png</wordPictuer>
+        <wordSound>ms-appx:EnglishLessonsMetirial/wordSuond/Z/zero.m4a</wordSound>
       </word>
     </wordsForLetter>
     <sentencesForLesson lessonCode="21">

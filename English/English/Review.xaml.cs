@@ -66,12 +66,16 @@ namespace English
             letterToWright.Text = "";
             l = navigationParameter as Lesson;
             letterToWright.Text = l.selectedLetter;
-            
-            if (l.selectedLetter.Equals("a"))
-            {
-                letterToWright.FontFamily = new FontFamily("Comic Sans MS");
-            }
 
+            if (l.selectedLetter.Equals("t"))
+            {
+                letterToWright.FontFamily = new FontFamily("Ariel black");
+            }
+            else
+            {
+letterToWright.FontFamily = new FontFamily("Comic Sans MS");
+            }
+            
             _inkKhaled = new InkManager();
             thick = 10.0;
             sbrush = new SolidColorBrush(Colors.Black);
@@ -211,23 +215,24 @@ namespace English
             this.Frame.Navigate(typeof(howToWright), l);
         }
 
-        private void learnNextlLetter_Click(object sender, RoutedEventArgs e)
-        {
-            this.Frame.Navigate(typeof(lessonSummaryPage), l);
-        }
+        //private void learnNextlLetter_Click(object sender, RoutedEventArgs e)
+        //{
+        //    this.Frame.Navigate(typeof(lessonSummaryPage), l);
+        //}
 
      
         
         private void earase_Click(object sender, RoutedEventArgs e)
         {
             thick = 27.0;
-            sbrush = new SolidColorBrush(Colors.OliveDrab);
+            sbrush = new SolidColorBrush(Colors.White);
+            //sbrush = new SolidColorBrush(Colors.OliveDrab);
         }
 
         private void wright_Click(object sender, RoutedEventArgs e)
         {
             Flag = 1;
-            thick = 6.0;
+            thick = 10.0;
             sbrush = new SolidColorBrush(Colors.Black);
         }
 
@@ -238,7 +243,7 @@ namespace English
 
         private void color_Click(object sender, RoutedEventArgs e)
         {
-           
+            colorGrid.Visibility = Visibility.Visible;
         }
 
         private void toLesssonMap_Click(object sender, RoutedEventArgs e)
@@ -246,6 +251,78 @@ namespace English
             this.Frame.Navigate(typeof(lessonMapPage), l);
 
         }
+
+        private void RectangleColor1_Tapped(object sender, TappedRoutedEventArgs e)
+        {
+         //
+            thick = 10.0;
+            Rectangle r = sender as Rectangle;
+            //string s = ;
+           
+            sbrush =new SolidColorBrush(Colors.BlueViolet) ;
+            colorGrid.Visibility = Visibility.Collapsed;
+        }
+        private void RectangleColor2_Tapped(object sender, TappedRoutedEventArgs e)
+        {
+            thick = 10.0;
+            sbrush = new SolidColorBrush(Colors.Red);
+            colorGrid.Visibility = Visibility.Collapsed;
+        }
+        private void RectangleColor3_Tapped(object sender, TappedRoutedEventArgs e)
+        {
+            thick = 10.0;
+            sbrush = new SolidColorBrush(Colors.Yellow);
+            colorGrid.Visibility = Visibility.Collapsed;
+        }
+        private void RectangleColor4_Tapped(object sender, TappedRoutedEventArgs e)
+        {
+            thick = 10.0;
+            sbrush = new SolidColorBrush(Colors.DeepPink);
+            colorGrid.Visibility = Visibility.Collapsed;
+        }
+        private void RectangleColor5_Tapped(object sender, TappedRoutedEventArgs e)
+        {
+            thick = 10.0;
+            sbrush = new SolidColorBrush(Colors.GreenYellow);
+            colorGrid.Visibility = Visibility.Collapsed;
+        }
+        private void RectangleColor6_Tapped(object sender, TappedRoutedEventArgs e)
+        {
+            //Brush b;
+            //b = sender as Brush;
+            thick = 10.0;
+            Rectangle r = sender as Rectangle;
+            sbrush = new SolidColorBrush(Colors.Purple);
+            //sbrush.Color=(r.Fill) as Brush;
+            colorGrid.Visibility = Visibility.Collapsed;
+        }
+        private void RectangleColor7_Tapped(object sender, TappedRoutedEventArgs e)
+        {
+            thick = 10.0;
+            sbrush = new SolidColorBrush(Colors.Orange);
+            colorGrid.Visibility = Visibility.Collapsed;
+        }
+        private void RectangleColor8_Tapped(object sender, TappedRoutedEventArgs e)
+        {
+            thick = 10.0;
+            sbrush = new SolidColorBrush(Colors.Turquoise);
+            colorGrid.Visibility = Visibility.Collapsed;
+        }
+        private void RectangleColor9_Tapped(object sender, TappedRoutedEventArgs e)
+        {
+            thick = 10.0;
+            sbrush = new SolidColorBrush(Colors.Gray);
+            colorGrid.Visibility = Visibility.Collapsed;
+        }
+
+ //       private void RectangleColor1_Click(object sender, RoutedEventArgs e)
+ //       {
+ //           Button b = sender as Button;
+ //           thick = 10.0;
+ //           sbrush.br
+ //=(b.Background) as color;
+ //           colorGrid.Visibility = Visibility.Collapsed;
+ //       }
 
     }
 }

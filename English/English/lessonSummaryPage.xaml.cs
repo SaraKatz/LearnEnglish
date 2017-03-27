@@ -13,6 +13,7 @@ using Windows.UI.Xaml.Media;
 using Windows.UI.Xaml.Navigation;
 using Windows.UI.Popups;
 using Windows.UI;
+using Windows.UI.Xaml.Media.Imaging;
 
 // The Basic Page item template is documented at http://go.microsoft.com/fwlink/?LinkId=234237
 
@@ -26,6 +27,7 @@ namespace English
         Lesson l;
         private List<Grid> letterGrids;
         private List<TextBlock> tbList;
+        private List<Image> imgList;
         private EnglishUser currentUser;
         int x;
         int i;
@@ -59,6 +61,7 @@ namespace English
             }
             letterGrids = new List<Grid>();
             tbList=new List<TextBlock>();
+            imgList = new List<Image>();
             FontFamily fontFamily = new FontFamily("Copperplate Gothic Bold");
             
             
@@ -68,30 +71,64 @@ namespace English
                 {
                     fontFamily= new FontFamily("Comic Sans MS");
                 }
-                
-                letterGrids.Add(new Grid() { Name = letter.LettersBigShape, Background = new SolidColorBrush(Colors.LightBlue), Height = 400, Width = 180 });
+                //, Background = new SolidColorBrush(Colors.LightBlue)
+                letterGrids.Add(new Grid() { Name = letter.LettersBigShape });
+                if (i==0)
+                {
+                    letterGrids[x].Children.Add(new Image() { Height = 220, VerticalAlignment = Windows.UI.Xaml.VerticalAlignment.Top, HorizontalAlignment = Windows.UI.Xaml.HorizontalAlignment.Center, Source = new BitmapImage(new Uri(@"ms-appx:/Assets/backgrounds/רבוע ורוד.png")) });
+                }
+                if (i == 1)
+                {
+                    letterGrids[x].Children.Add(new Image() { Height = 220, VerticalAlignment = Windows.UI.Xaml.VerticalAlignment.Top, HorizontalAlignment = Windows.UI.Xaml.HorizontalAlignment.Center, Source = new BitmapImage(new Uri(@"ms-appx:/Assets/backgrounds/רבוע כתום.png")) });
+                }
+                if (i == 2)
+                {
+                    letterGrids[x].Children.Add(new Image() { Height = 220, VerticalAlignment = Windows.UI.Xaml.VerticalAlignment.Top, HorizontalAlignment = Windows.UI.Xaml.HorizontalAlignment.Center, Source = new BitmapImage(new Uri(@"ms-appx:/Assets/backgrounds/רבוע ירוק.png")) });
+                }
                 letterGrids[x].Children.Add(new TextBlock()
                 {
-                    Margin=new Thickness(0,0,0,20),
-                    FontFamily=fontFamily,
+                    //Margin=new Thickness(0,0,0,20),
+                    FontFamily = new FontFamily("Comic Sans MS"),
                     Name = letter.LettersBigShape,
-                    Height = 180,
+                    Height = 200,
                     Width = 180,
-                    FontSize = 110,
+                    FontSize = 120,
                     TextAlignment = TextAlignment.Center,
                     Text =  letter.LettersBigShape + "" + letter.LettersSmallShape,
                     Foreground = new SolidColorBrush(Colors.Black)
                 });
-                
-                tbList.Add(new TextBlock() { FontSize = 15, TextAlignment = Windows.UI.Xaml.TextAlignment.Center, Foreground = new SolidColorBrush(Colors.Fuchsia), Text ="\r"+letter.LettersBigShape + " לאות " + "\rיש את הצליל של האות העברית \r" + letter.HebrewLetter + " " });
+
+                tbList.Add(new TextBlock() { FontSize = 15, TextAlignment = Windows.UI.Xaml.TextAlignment.Center, Foreground = new SolidColorBrush(Colors.Black), Text ="\r"+letter.LettersBigShape + " לאות " + "\rיש את הצליל של האות העברית \r" + letter.HebrewLetter + " " });
                 letterGrids[x].Tapped += lessonSummaryPage_Tapped;
+              
                 Grid.SetRow(letterGrids[x], 0);
                 Grid.SetColumn(letterGrids[x], i);
                 buttonGrid.Children.Add(letterGrids[x]);
-
+            
+                if (i==0)
+                {
+                imgList.Add(new Image() {Width=250 ,Source= new BitmapImage(new Uri(@"ms-appx:/Assets/backgrounds/רבוע ורוד2.png"))});
+                  
+                }
+                if (i == 1)
+                {
+                    imgList.Add(new Image() { Width = 250, Source = new BitmapImage(new Uri(@"ms-appx:/Assets/backgrounds/רבוע כתום2.png")) });
+                
+                }
+                if (i == 2)
+                {
+                    imgList.Add(new Image() { Width = 250, Source = new BitmapImage(new Uri(@"ms-appx:/Assets/backgrounds/רבוע ירוק2.png")) });
+                }
+                Grid.SetRow(imgList[x], 1);
+                Grid.SetColumn(imgList[x], i);
+                buttonGrid.Children.Add(imgList[x]);
+             
                 Grid.SetRow(tbList[x], 1);
                 Grid.SetColumn(tbList[x], i);
                 buttonGrid.Children.Add(tbList[x]);
+
+                
+               
                 i++;
                 x++;
 

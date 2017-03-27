@@ -36,7 +36,9 @@ namespace English
         string small_letter_pressed = null;
         string l;
         int flag;
-
+        SolidColorBrush[] arrayColors = new SolidColorBrush[5];
+        int c1 = 0;
+        //int j = 0;
 
         List<TextBlock> tbBig = new List<TextBlock>();
         List<TextBlock> tbsmall = new List<TextBlock>();
@@ -61,7 +63,11 @@ namespace English
         {
             currentLesson = navigationParameter as Lesson;
             lessonHadLearnt = new HadLearnt(currentLesson);
-         
+            arrayColors[0] = new SolidColorBrush(Colors.Blue); 
+            arrayColors[1] = new SolidColorBrush(Colors.Red);
+            arrayColors[2] = new SolidColorBrush(Colors.Green);
+            arrayColors[3] = new SolidColorBrush(Colors.Turquoise);
+            arrayColors[4] = new SolidColorBrush(Colors.Yellow);
             Random r = new Random();
 
             for (int k = 0; k < lessonHadLearnt.lesson_learnt.Count; k++)
@@ -70,10 +76,10 @@ namespace English
                 foreach (var item in lessonHadLearnt.lesson_learnt[k].lettersForLesson)
                 {
 
-                    tbBig.Add(new TextBlock() { Text = item.LettersBigShape, Height = 100, Width = 100, FontSize = 60, Tag = false });
+                    tbBig.Add(new TextBlock() { Text = item.LettersBigShape,Foreground=new SolidColorBrush(Colors.Black), Height = 100, Width = 100, FontSize = 60, Tag = false });
                     tbBig[i].Tapped += ex1_Tapped;
 
-                    tbsmall.Add(new TextBlock() { Text = item.LettersSmallShape, Height = 100, Width = 100, FontSize = 60, });
+                    tbsmall.Add(new TextBlock() { Text = item.LettersSmallShape, Foreground = new SolidColorBrush(Colors.Black), Height = 100, Width = 100, FontSize = 60, });
                     tbsmall[i].Tapped += ex1_Tapped;
                     i++;
                 }
@@ -123,70 +129,107 @@ namespace English
                 Ex1.Children.Add(tbsmall[t]);
             }
         }
+        
         void ex1_Tapped(object sender, TappedRoutedEventArgs e)
         {
-            TextBlock tb = (sender as TextBlock);
-
-            Ex1_fidback.Text = "";
-            for (int k = 0; k < lessonHadLearnt.lesson_learnt.Count; k++)
+            try
             {
-                if (big_letter_pressed == null && small_letter_pressed == null)//אם זה פעם ראשונה 
-                {
-                    foreach (var letter in lessonHadLearnt.lesson_learnt[k].lettersForLesson)
-                    {
+                TextBlock tb = (sender as TextBlock);
 
-                        if (tb.Text.Equals(letter.LettersBigShape))
-                        {
-                            big_letter_pressed = tb.Text;
-                            tb.Foreground = new SolidColorBrush(Colors.Yellow);
-                            break;
-                        }
-                        if (tb.Text.Equals(letter.LettersSmallShape))
-                        {
-                            small_letter_pressed = tb.Text;
-                            tb.Foreground = new SolidColorBrush(Colors.Yellow);
-                            break;
-                        }
-                    }
-                }
-                else
+                Ex1_fidback.Text = "";
+                for (int k = 0; k < lessonHadLearnt.lesson_learnt.Count; k++)
                 {
-                    if (big_letter_pressed == null && small_letter_pressed != null)//אם בפעם הראשונה לחץ על אות קטנה 
+                    if (big_letter_pressed == null && small_letter_pressed == null)//אם זה פעם ראשונה 
                     {
                         foreach (var letter in lessonHadLearnt.lesson_learnt[k].lettersForLesson)
                         {
 
-                            if (tb.Text.Equals(letter.LettersBigShape) && letter.LettersSmallShape.Equals(small_letter_pressed))
+                            if (tb.Text.Equals(letter.LettersBigShape))
                             {
-                                tb.Foreground = new SolidColorBrush(Colors.Yellow);
-                                Ex1_fidback.Text = "!יפה";
-                                big_letter_pressed = small_letter_pressed = null;
+                                if (c1 > 4)
+                                {
+                                    c1 = 0;
+                                }
+                                big_letter_pressed = tb.Text;
+                                tb.Foreground = arrayColors[c1];
+                                //tb.Foreground = new SolidColorBrush(Colors.Yellow);
+                                break;
                             }
-
+                            if (tb.Text.Equals(letter.LettersSmallShape))
+                            {
+                                small_letter_pressed = tb.Text;
+                                if (c1 > 4)
+                                {
+                                    c1 = 0;
+                                }
+                                tb.Foreground = arrayColors[c1];
+                                //tb.Foreground = new SolidColorBrush(Colors.Yellow);
+                                break;
+                            }
                         }
                     }
                     else
                     {
-                        if (big_letter_pressed != null && small_letter_pressed == null)//אם בפעם הראשונה לחץ על אות גדולה  
+                        if (big_letter_pressed == null && small_letter_pressed != null)//אם בפעם הראשונה לחץ על אות קטנה 
                         {
                             foreach (var letter in lessonHadLearnt.lesson_learnt[k].lettersForLesson)
                             {
-                                if (tb.Text.Equals(letter.LettersSmallShape) && letter.LettersBigShape.Equals(big_letter_pressed))
+
+                                if (tb.Text.Equals(letter.LettersBigShape) && letter.LettersSmallShape.Equals(small_letter_pressed))
                                 {
-                                    tb.Foreground = new SolidColorBrush(Colors.Yellow);
+                                    if (c1 > 4)
+                                    {
+                                        c1 = 0;
+                                    }
+                                    tb.Foreground = arrayColors[c1++];
+
+                                    //tb.Foreground = new SolidColorBrush(Colors.Yellow);
+                                    fidbakMedia3.Source = new Uri(@"ms-appx:/Assets/backgrounds/Yeah.WAV");
+                                    fidbakMedia3.Play();
                                     Ex1_fidback.Text = "!יפה";
                                     big_letter_pressed = small_letter_pressed = null;
                                 }
-                            }
 
+                            }
+                        }
+                        else
+                        {
+                            if (big_letter_pressed != null && small_letter_pressed == null)//אם בפעם הראשונה לחץ על אות גדולה  
+                            {
+                                foreach (var letter in lessonHadLearnt.lesson_learnt[k].lettersForLesson)
+                                {
+                                    if (tb.Text.Equals(letter.LettersSmallShape) && letter.LettersBigShape.Equals(big_letter_pressed))
+                                    {
+                                        if (c1 > 4)
+                                        {
+                                            c1 = 0;
+                                        }
+                                        tb.Foreground = arrayColors[c1++];
+                                        //tb.Foreground = new SolidColorBrush(Colors.Yellow);
+                                        fidbakMedia3.Source = new Uri(@"ms-appx:/Assets/backgrounds/Yeah.WAV");
+                                        fidbakMedia3.Play();
+                                        Ex1_fidback.Text = "!יפה";
+                                        big_letter_pressed = small_letter_pressed = null;
+                                    }
+                                }
+
+                            }
                         }
                     }
                 }
             }
+            catch (Exception)
+            {
+                
+                throw;
+            }
+            
+           
         }
 
         private void toLesssonMap_Click(object sender, RoutedEventArgs e)
         {
+            mediaFid.Stop();
             this.Frame.Navigate(typeof(lessonMapPage), currentLesson);
         }
 
@@ -196,6 +239,7 @@ namespace English
             if (cmb.SelectedValue.Equals(cmb.Name))
             {
                 Ex2_fidback.Text = "";
+                fidbakMedia2.Source = new Uri(@"ms-appx:/Assets/backgrounds/Yeah.WAV");
                 Ex2_fidback.Text = "\r!מצוין";
                 foreach (Image item in img_fidback)
                 {
@@ -209,6 +253,8 @@ namespace English
             else
             {
                 Ex2_fidback.Text = "";
+                fidbakMedia2.Source = new Uri(@"ms-appx:/Assets/backgrounds/chrcbell.WAV");
+                fidbakMedia2.Play();
                 Ex2_fidback.Text = "זו לא האות המתאימה " + "\r" + "נסה שוב";
                 foreach (Image item in img_fidback)
                 {
@@ -228,7 +274,7 @@ namespace English
                 flag = 1;
                 insertPictuer();
             }
-       
+
             Ex3_ans.Visibility = Windows.UI.Xaml.Visibility.Visible;
             brd_pic.Visibility = Windows.UI.Xaml.Visibility.Visible;
             Ex3_pic.Visibility = Windows.UI.Xaml.Visibility.Visible;
@@ -251,18 +297,18 @@ namespace English
                 foreach (var letter in lesson.lettersForLesson)
                 {
                     //להכניס  אותיות או כמה שנלמדו עד כה
-                    tbBig.Add(new TextBlock() { Text = letter.LettersBigShape, FontSize = 60, VerticalAlignment = Windows.UI.Xaml.VerticalAlignment.Bottom,Tag=false });
-                    
+                    tbBig.Add(new TextBlock() { Text = letter.LettersBigShape,Foreground=new SolidColorBrush(Colors.Black), FontSize = 60, VerticalAlignment = Windows.UI.Xaml.VerticalAlignment.Bottom, Tag = false });
+
 
                     //שיכיל רשימה של כל האותיות האפשריותComboBox
-                    cboxSmall.Add(new ComboBox() { Name = letter.LettersSmallShape, FontFamily = new FontFamily("Gill Sans Ultra Bold Condensed") });
+                    cboxSmall.Add(new ComboBox() { Foreground = new SolidColorBrush(Colors.Black), Name = letter.LettersSmallShape, FontFamily = new FontFamily("Gill Sans Ultra Bold Condensed") });
                     cboxSmall[i].FontSize = 40;
                     cboxSmall[i].Tapped += workPage_Tapped;
                     cboxSmall[i].SelectionChanged += ex2_selctedChange;
 
                     img_fidback.Add(new Image() { Name = "a" + tbBig[i].Text.ToLower(), Height = 20, Width = 20, HorizontalAlignment = Windows.UI.Xaml.HorizontalAlignment.Left });
 
-                  
+
 
                     i++;
                 }
@@ -283,7 +329,7 @@ namespace English
             //    }
             //    j--;
             //} while (j >= 0);
-               j = i - 1;
+            j = i - 1;
             do
             {
                 foreach (var lesson in lessonHadLearnt.lesson_learnt)
@@ -337,11 +383,13 @@ namespace English
 
         private void insertPictuer()
         {
+            
             int x = lessonHadLearnt.pictuers_HadLearnt.Count();
             int y = r.Next(0, x);
             Ex3_pic.Source = lessonHadLearnt.pictuers_HadLearnt[y].WordPictuer;
             LettersBigShape = lessonHadLearnt.pictuers_HadLearnt[y].LettersBigShape;
             LettersSmallShape = lessonHadLearnt.pictuers_HadLearnt[y].LettersSmallShape;
+           
         }
 
 
@@ -356,23 +404,63 @@ namespace English
 
         }
 
+
         private void Ex3_ok_Click(object sender, RoutedEventArgs e)
         {
-            if (Ex3_ans.Text.Equals(LettersBigShape) || Ex3_ans.Text.Equals(LettersSmallShape))
-            {
-                Ex3_fidback.Text = "!יפה מאד ";
-                Ex3_ans.Text = "";
-                insertPictuer();
-            }
-            else
-            {
-                Ex3_fidback.Text = "נסה שנית";
-            }
+
+            //Ex3_ans.Text.Substring(1);
+
+
         }
+
+
 
         private void Button_Click_1(object sender, RoutedEventArgs e)
         {
 
+        }
+
+        //private void Ex3_ans_KeyDown(object sender, KeyRoutedEventArgs e)
+        //{
+
+        //}
+ string str = "";
+ string s;
+        private async void Ex3_ans_KeyUp(object sender, KeyRoutedEventArgs e)
+        {
+            Ex3_fidback.Text = "";
+            if (e.Key.ToString().Equals("Enter"))
+            {
+
+                if (str.Equals(LettersBigShape) || str.Equals(LettersSmallShape))
+                {
+                    Ex3_fidback.Text = "!יפה מאד ";
+                    fidbakMedia3.Source=new Uri(@"ms-appx:/Assets/backgrounds/Yeah.WAV");
+                    fidbakMedia3.Play();
+                    await System.Threading.Tasks.Task.Delay(2000);
+                    str = "";
+                    Ex3_ans.Text = "";
+                    Ex3_fidback.Text = "";
+                    insertPictuer();
+                }
+                else
+                {
+                    fidbakMedia3.Source = new Uri(@"ms-appx:/Assets/backgrounds/Checkpoint.WAV");
+                    fidbakMedia3.Play();
+                    Ex3_fidback.Text = "נסה שנית";
+                }
+            }
+            else
+            {
+                str = Ex3_ans.Text;
+            }
+
+        }
+
+        private void togame_Click(object sender, RoutedEventArgs e)
+        {
+            mediaFid.Stop();
+            this.Frame.Navigate(typeof(game_discoverThePicture), currentLesson);
         }
 
 
